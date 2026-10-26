@@ -9,7 +9,7 @@ AniList's own trailer, otherwise just the cover.
 `update.py` runs every day on GitHub Actions (`.github/workflows/trailers.yml`):
 
 1. Lists the newest uploads of the channels in `channels.json` (YouTube Data API, 1 quota unit per 50 videos; it never uses search, which costs 100).
-2. Loads AniList's 2,000 most popular anime plus this and next season, and matches their titles (English, romaji, synonyms, season numbers) against trailer-looking video titles (Trailer / PV / Teaser, never Episode / Clip / Opening…).
+2. Loads AniList's titles: this and next season every day, plus the 5,000 most popular once a week (and on full scans), and matches their titles (English, romaji, synonyms, season numbers) against trailer-looking video titles (Trailer / PV / Teaser, never Episode / Clip / Opening…).
 3. Keeps only public, embeddable videos; about once a week re-checks the chosen ones and drops dead links.
 4. Only adds: a show keeps its trailer unless a clearly better one appears.
 5. Writes `trailers.json`, `state.json` (where each channel was left), `stats.json` (the last 90 runs' numbers) and `report.md` (summary + matches to check).
@@ -42,8 +42,8 @@ python3 trailers/update.py --bench                      # timing on the real Ani
 | | Per day | Limit |
 |---|---|---|
 | YouTube quota | ~20–100 units (full scan ≈ 2,500, capped at 3,000) | 10,000 free |
-| AniList | ~45 requests, ~2 min (paced at ~27/min) | ~30/min |
-| GitHub Actions | ~3 min | unlimited for public repos |
+| AniList | daily ~12 requests (~30 s); weekly ~112 (~5 min); paced at ~27/min | ~30/min |
+| GitHub Actions | ~1 min daily, ~6 min weekly | unlimited for public repos |
 | trailers.json | ~41 bytes per show (~200 KB for 5,000) | Pages 1 GB, files 100 MB |
 
 `stats.json` records every run: quota used, calls, videos scanned, matches added / upgraded / kept / dropped, file size (raw and compressed) and run time.

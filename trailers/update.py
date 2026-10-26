@@ -49,7 +49,8 @@ DAILY_QUOTA = 10_000          # YouTube's free daily allowance
 QUOTA_BUDGET = 3_000          # this script stops well before that
 FULL_PAGES_PER_CHANNEL = 400  # 20,000 videos per channel on a full scan
 NEW_PAGES_PER_CHANNEL = 10    # incremental runs: up to 500 new videos per channel
-ANILIST_POPULAR_PAGES = 40    # top 2,000 anime by popularity, plus this and next season
+ANILIST_POPULAR_PAGES = 100   # top 5,000 anime by popularity (weekly / full runs), plus this and next season
+BIG_LIST_EVERY_DAYS = 7       # daily runs only load this and next season: new uploads are almost always those
 VERIFY_EVERY_DAYS = 7
 KEEP_RUNS = 90
 
@@ -244,9 +245,10 @@ def current_seasons(today):
     return [this, nxt]
 
 
-def fetch_anime(today):
+def fetch_anime(today, big=True):
+    """This and next season always; the top 5,000 too when `big` (weekly and full runs)."""
     shows = {}
-    for page in range(1, ANILIST_POPULAR_PAGES + 1):
+    for page in range(1, (ANILIST_POPULAR_PAGES if big else 0) + 1):
         media, more = anilist_page({"page": page, "sort": ["POPULARITY_DESC"]})
         for m in media:
             shows[m["id"]] = m
@@ -391,7 +393,12 @@ def run(full=False):
     stats["videos_scanned"] = len(fresh)
 
     # 2. AniList titles, matched against the trailer-looking videos
-    shows = fetch_anime(today) if fresh else []
+    last_big = state.get("big_list_at")
+    big = full or not last_big or today - datetime.fromisoformat(last_big) > timedelta(days=BIG_LIST_EVERY_DAYS)
+    shows = fetch_anime(today, big=big) if fresh else []
+    if fresh and big:
+        state["big_list_at"] = today.isoformat(timespec="seconds")
+    stats["anilist_list"] = ("top 5000 + " if big else "") + "this and next season" if fresh else "skipped (no new uploads)"
     shows_by_id = {s["id"]: s for s in shows}
     index = build_index(shows)
     blocked_videos = set(overrides.get("block_videos", []))
@@ -483,7 +490,7 @@ def write_report(stats, uncertain):
              f"| Added / upgraded / kept / dropped | {stats['added']} / {stats['upgraded']} / {stats['kept']} / {stats['dropped']} |",
              f"| Videos scanned | {stats.get('videos_scanned', 0)} |",
              f"| Trailer candidates | {stats.get('trailer_candidates', 0)} |",
-             f"| AniList titles checked | {stats.get('anime_titles', 0)} ({stats['anilist_requests']} requests, {stats['anilist_seconds']} s) |",
+             f"| AniList titles checked | {stats.get('anime_titles', 0)}: {stats.get('anilist_list', '')} ({stats['anilist_requests']} requests, {stats['anilist_seconds']} s) |",
              f"| YouTube quota used | {stats['quota_used']} of {DAILY_QUOTA} per day |",
              f"| trailers.json | {stats['file_bytes'] / 1024:.1f} KB ({stats['file_gzip_bytes'] / 1024:.1f} KB compressed) |",
              "", "## Check these", ""]
