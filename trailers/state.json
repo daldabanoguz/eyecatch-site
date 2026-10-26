@@ -1,4 +1,5 @@
 {
+  "big_list_at": "2026-10-26T04:39:36+00:00",
   "channels": {
     "@AniOneAsia": {
       "id": "UC0wNSTMWIL3qaorLx0jie6A",
@@ -26,7 +27,7 @@
     },
     "@MuseAsia": {
       "id": "UCGbshtvS9t-8CW11W7TooQg",
-      "last_seen": "1LAt4c5Fpg8",
+      "last_seen": "Mka7fcFjdXo",
       "title": "Muse Asia",
       "uploads": "UUGbshtvS9t-8CW11W7TooQg"
     },
@@ -44,6 +45,13 @@
       "score": 39,
       "title": "Cowboy Bebop | Official Trailer | Netflix Anime",
       "v": "Ty5hDHekq80"
+    },
+    "100009": {
+      "published": "2019-03-01T16:01:32Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Space Battleship TIRAMISU | Trailer (Own It 4/2)",
+      "v": "G3C5rxk-VKc"
     },
     "100049": {
       "published": "2020-04-20T17:00:22Z",
@@ -269,12 +277,33 @@
       "title": "Rascal Does Not Dream of Bunny Girl Senpai Trailer",
       "v": "o0TZj_d3Yfg"
     },
+    "101292": {
+      "published": "2018-07-02T23:00:00Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Holmes of Kyoto - OFFICIAL PREVIEW",
+      "v": "1Gn_H03qewo"
+    },
     "101302": {
       "published": "2019-03-27T03:00:00Z",
       "s": "crunchyrolldubs",
       "score": 42,
       "title": "Dragon Ball Super: Broly | Trailer (Own it 4/16)",
       "v": "1GtIJsvIFAQ"
+    },
+    "101313": {
+      "published": "2019-06-26T00:30:02Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Ace Attorney Season 2 Part 1 | Trailer (Own It 9/3)",
+      "v": "s0BQhCJCGo4"
+    },
+    "101317": {
+      "published": "2019-08-09T17:00:06Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "BLACKFOX | OFFICIAL PREVIEW",
+      "v": "VKnR6uryWz8"
     },
     "101338": {
       "published": "2018-12-27T19:00:00Z",
@@ -283,12 +312,33 @@
       "title": "Mob Psycho 100 II | OFFICIAL PREVIEW",
       "v": "3cvMu5R5bCE"
     },
+    "101340": {
+      "published": "2018-08-01T20:00:03Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Muhyo & Roji's Bureau of Supernatural Investigation | OFFICIAL PREVIEW",
+      "v": "LYUuTF7vLcg"
+    },
     "101343": {
       "published": "2019-02-17T03:20:44Z",
       "s": "crunchyroll",
       "score": 24,
       "title": "Made in Abyss: Journey's Dawn | OFFICIAL PREVIEW",
       "v": "PhvBp3gNj-c"
+    },
+    "101367": {
+      "published": "2019-12-20T20:25:33Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Sorcerous Stabber Orphen | Official Trailer",
+      "v": "1m9S8wQ3SlE"
+    },
+    "101379": {
+      "published": "2019-02-15T11:45:52Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "【粉彩回憶 Pastel Memories】2nd PV 預告",
+      "v": "hoklCqem1is"
     },
     "101381": {
       "published": "2018-10-05T16:30:01Z",
@@ -332,6 +382,13 @@
       "title": "Nichijou | English Dub Trailer (Own It 7/23)",
       "v": "0AEV-8d_vbg"
     },
+    "101705": {
+      "published": "2021-12-23T09:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Orbital Children | Official Trailer | Netflix Anime",
+      "v": "a3J4KbvIslA"
+    },
     "101759": {
       "published": "2019-04-06T01:00:00Z",
       "s": "aniplexusa",
@@ -353,6 +410,27 @@
       "title": "Demon Slayer: Kimetsu no Yaiba Official English Dub Trailer",
       "v": "gxM1j64w4fk"
     },
+    "101930": {
+      "published": "2018-12-27T19:00:05Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Girly Air Force | OFFICIAL PREVIEW",
+      "v": "lIoecLM5QSQ"
+    },
+    "102498": {
+      "published": "2021-02-18T00:56:31Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "B: The Beginning: Succession | Official Trailer | Netflix Anime",
+      "v": "afN1XtfszYU"
+    },
+    "10259": {
+      "published": "2018-02-21T20:51:32Z",
+      "s": "crunchyrolldubs",
+      "score": 44,
+      "title": "Big Fish & Begonia English Dub Trailer – Coming April 2018",
+      "v": "kjMGgmxfuOw"
+    },
     "102680": {
       "published": "2019-01-03T19:00:00Z",
       "s": "crunchyroll",
@@ -366,6 +444,20 @@
       "score": 39,
       "title": "THE IDOLM@STER CINDERELLA GIRLS U149 | OFFICIAL TRAILER",
       "v": "PbS6b8HvJyg"
+    },
+    "102939": {
+      "published": "2019-04-05T19:00:00Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Midnight Occult Civil Servants | OFFICIAL PREVIEW",
+      "v": "HpWUOcjK5Gc"
+    },
+    "102949": {
+      "published": "2018-12-27T19:00:03Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "The Morose Mononokean II | OFFICIAL PREVIEW",
+      "v": "zQJDnx1fdC0"
     },
     "102976": {
       "published": "2019-09-24T16:00:01Z",
@@ -381,6 +473,20 @@
       "title": "Violet Evergarden: the Movie | Official Trailer | Netflix Anime",
       "v": "BUfSen2rYQs"
     },
+    "103110": {
+      "published": "2020-09-24T16:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "IDOLiSH7 Second BEAT! | OFFICIAL TRAILER",
+      "v": "JwYIdlj4c7A"
+    },
+    "103222": {
+      "published": "2019-01-03T19:00:00Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Magical Girl Spec Ops Asuka | OFFICIAL PREVIEW",
+      "v": "Gp-IpQA4jmg"
+    },
     "103275": {
       "published": "2020-11-19T02:00:02Z",
       "s": "aniplexusa",
@@ -395,12 +501,26 @@
       "title": "Sparks of Tomorrow | Official Trailer | Netflix Anime",
       "v": "i5m_SuiaLOQ"
     },
+    "10336": {
+      "published": "2013-02-16T00:37:46Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "LASTEXILE - FAM, THE SILVER WING - OFFICIAL TRAILER - Coming Soon to BD/DVD Combo",
+      "v": "KpePUUSghec"
+    },
     "103632": {
       "published": "2020-11-20T01:00:03Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "So I'm a Spider, So What? | A Crunchyroll Original | OFFICIAL TRAILER 2",
       "v": "UZE4ZZiXBQY"
+    },
+    "103713": {
+      "published": "2021-05-07T00:00:53Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Pretty Guardian Sailor Moon Eternal The Movie | Official Trailer | Netflix Anime",
+      "v": "TEfIGktbwmI"
     },
     "103871": {
       "published": "2026-01-06T17:01:29Z",
@@ -451,6 +571,20 @@
       "title": "Rascal Does Not Dream of a Dreaming Girl - Shoko Makinohara Trailer",
       "v": "JqHS7nylmVQ"
     },
+    "10417": {
+      "published": "2013-06-03T03:33:06Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "GYO: Tokyo Fish Attack! Movie Trailer",
+      "v": "iZugt3fiBe0"
+    },
+    "104198": {
+      "published": "2020-10-01T16:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Is The Order a Rabbit? BLOOM | OFFICIAL TRAILER",
+      "v": "kRKqzu2RLY8"
+    },
     "104252": {
       "published": "2019-07-29T16:01:47Z",
       "s": "crunchyrolldubs",
@@ -465,6 +599,13 @@
       "title": "My Hero Academia Season 4 | OFFICIAL TRAILER",
       "v": "i5gsMF3yZ60"
     },
+    "104391": {
+      "published": "2020-01-04T17:45:00Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "If My Favorite Pop Idol Made It to the Budokan, I Would Die | Official Trailer",
+      "v": "fbKFGJ8TiHw"
+    },
     "104454": {
       "published": "2019-04-24T15:00:05Z",
       "s": "crunchyroll",
@@ -478,6 +619,13 @@
       "score": 54,
       "title": "Laid-Back Camp Season 2 | OFFICIAL TRAILER",
       "v": "TkRBk94fMwA"
+    },
+    "104461": {
+      "published": "2019-12-30T18:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ROOM CAMP | OFFICIAL TRAILER",
+      "v": "dV8OwEGw0mM"
     },
     "104462": {
       "published": "2020-01-05T19:00:04Z",
@@ -499,6 +647,13 @@
       "score": 54,
       "title": "ORESUKI Are you the only one who loves me? | OFFICIAL TRAILER",
       "v": "jcUqcnY6_BA"
+    },
+    "10447": {
+      "published": "2013-12-03T14:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Aquarion EVOL - Part 1 - Available Now on BD/DVD Combo - Trailer",
+      "v": "iLq7r2Y1STw"
     },
     "104578": {
       "published": "2019-02-08T00:00:01Z",
@@ -534,6 +689,20 @@
       "score": 42,
       "title": "Blood-C - Available on BD/DVD Combo 1.22.13 - Trailer",
       "v": "RkbrtEk9440"
+    },
+    "104936": {
+      "published": "2019-11-22T09:00:06Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Destructive God Sits Next to Me | OFFICIAL TRAILER 2",
+      "v": "QReftG8_CbA"
+    },
+    "104937": {
+      "published": "2020-07-03T16:09:48Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Lapis Re:LiGHTs | Official Trailer",
+      "v": "FrE2S3snXXs"
     },
     "105074": {
       "published": "2019-05-18T00:30:00Z",
@@ -577,6 +746,34 @@
       "title": "Fruits Basket | Official Trailer | Crunchyroll",
       "v": "DPEQxuMKGfE"
     },
+    "105595": {
+      "published": "2021-06-10T16:36:49Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Mobile Suit Gundam Hathaway | Official Trailer | Netflix Anime",
+      "v": "MzxnPP5TLeU"
+    },
+    "105662": {
+      "published": "2020-12-10T03:21:32Z",
+      "s": "museasia",
+      "score": 18,
+      "title": "Cells at Work!! Special Screening Edition - PV 3 - Coming to Theatres in SG",
+      "v": "EzCKf9Nzmkg"
+    },
+    "105931": {
+      "published": "2021-11-06T16:00:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Blade Runner: Black Lotus | A Crunchyroll and Adult Swim Production | OFFICIAL TRAILER 3",
+      "v": "HNeO3nw-uFk"
+    },
+    "106154": {
+      "published": "2022-04-20T03:00:22Z",
+      "s": "netflixanime",
+      "score": 39,
+      "title": "Anime Film | Ghost in the Shell: SAC_2045 Sustainable War | Official Trailer | Netflix Anime",
+      "v": "z3oX8EZ-oMU"
+    },
     "106319": {
       "published": "2020-03-05T23:00:10Z",
       "s": "crunchyroll",
@@ -590,6 +787,13 @@
       "score": 42,
       "title": "BOFURI: I Don't Want to Get Hurt, So I'll Max Out My Defense - Season 1 Limited Edition Trailer",
       "v": "ji7LreLVaxA"
+    },
+    "106503": {
+      "published": "2020-11-06T09:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "EX-ARM | A Crunchyroll Original | OFFICIAL TRAILER",
+      "v": "0jCPQe9g-TE"
     },
     "106625": {
       "published": "2020-10-01T16:00:09Z",
@@ -633,12 +837,26 @@
       "title": "In/Spectre | A Crunchyroll Original | OFFICIAL TRAILER",
       "v": "l9QsM6PeTV4"
     },
+    "107294": {
+      "published": "2020-04-02T18:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dropkick on My Devil!! Dash | OFFICIAL TRAILER",
+      "v": "VQaKHFPXScQ"
+    },
     "107339": {
       "published": "2019-10-09T21:00:01Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "Kemono Michi: Rise Up | Official Trailer",
       "v": "9HAXWftl_YY"
+    },
+    "107346": {
+      "published": "2019-10-23T00:00:07Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Granblue Fantasy: The Animation Season 2 Trailer 2",
+      "v": "oRGeFzRHea8"
     },
     "107418": {
       "published": "2019-04-08T17:07:44Z",
@@ -660,6 +878,13 @@
       "score": 44,
       "title": "Words Bubble Up Like Soda Pop | Trailer | Netflix Anime",
       "v": "EMPnetBr9OM"
+    },
+    "107651": {
+      "published": "2020-06-07T14:00:00Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "A3! Season Spring & Summer | Official Summer Troupe Trailer",
+      "v": "1uvaFPUt5kM"
     },
     "107660": {
       "published": "2022-01-07T13:00:00Z",
@@ -696,6 +921,13 @@
       "title": "Princess Connect! Re:Dive | OFFICIAL TRAILER",
       "v": "HTZMbs2X-B4"
     },
+    "1079": {
+      "published": "2012-07-24T15:44:42Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Armitage III - The Complete Saga - Anime Classics - Available Now on DVD - Trailer",
+      "v": "DPTfDin4yYE"
+    },
     "10790": {
       "published": "2013-09-24T13:00:13Z",
       "s": "crunchyrolldubs",
@@ -717,6 +949,13 @@
       "title": "If It's for My Daughter, I'd Even Defeat a Demon Lord | OFFICIAL PREVIEW",
       "v": "2jre3BGe0NQ"
     },
+    "108040": {
+      "published": "2019-08-31T19:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "RADIANT Season 2 | OFFICIAL TRAILER",
+      "v": "dLYBlfFh8gA"
+    },
     "108092": {
       "published": "2019-12-30T18:00:10Z",
       "s": "crunchyroll",
@@ -731,6 +970,13 @@
       "title": "Are You Lost? | OFFICIAL PREVIEW",
       "v": "Hm1328mKjyc"
     },
+    "108147": {
+      "published": "2019-07-05T03:00:02Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "GRANBELM | OFFICIAL PREVIEW",
+      "v": "jqOVBzBjC_k"
+    },
     "108241": {
       "published": "2020-05-29T02:59:44Z",
       "s": "anioneasia",
@@ -738,12 +984,33 @@
       "title": "【GLEIPNIR 格萊普尼爾】預告 PV - Ani-One  全力放送!",
       "v": "xKHzet1cxIc"
     },
+    "108260": {
+      "published": "2020-02-07T21:00:06Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Digimon Adventure: Last Evolution Kizuna | OFFICIAL TRAILER",
+      "v": "XEOQxxdvaBY"
+    },
+    "108266": {
+      "published": "2020-04-10T17:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tsugumomo2 | OFFICIAL TRAILER",
+      "v": "UdzOu5-LJbA"
+    },
     "108268": {
       "published": "2019-09-24T01:00:03Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Ascendance of a Bookworm | OFFICIAL TRAILER",
       "v": "Wo28IopG2WE"
+    },
+    "108357": {
+      "published": "2022-03-27T02:10:00Z",
+      "s": "netflixanime",
+      "score": 44,
+      "title": "Vampire in the Garden | Trailer | Netflix Anime",
+      "v": "wl6tSENVhoQ"
     },
     "108388": {
       "published": "2019-08-14T17:00:06Z",
@@ -808,6 +1075,20 @@
       "title": "GOBLIN SLAYER -GOBLIN’S CROWN- | OFFICIAL TRAILER",
       "v": "ulKqQPha3SQ"
     },
+    "108626": {
+      "published": "2019-08-23T16:00:25Z",
+      "s": "crunchyrolldubs",
+      "score": 54,
+      "title": "Human Lost | Official Trailer (English Sub)",
+      "v": "uQueR2YnYeg"
+    },
+    "108629": {
+      "published": "2020-03-05T09:00:06Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Woodpecker Detective's Office | OFFICIAL TRAILER 3",
+      "v": "dhEiqdAWjwI"
+    },
     "108631": {
       "published": "2021-02-04T14:00:24Z",
       "s": "crunchyroll",
@@ -821,6 +1102,13 @@
       "score": 54,
       "title": "Re:ZERO -Starting Life in Another World- Season 2 | OFFICIAL TRAILER 2",
       "v": "P_YtFPg9tNE"
+    },
+    "108713": {
+      "published": "2020-10-05T18:59:54Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Dropout Idol Fruit Tart Official Trailer - Fall 2020 Anime Season",
+      "v": "lq_N0sE_QPs"
     },
     "108725": {
       "published": "2021-04-09T17:00:19Z",
@@ -842,6 +1130,34 @@
       "score": 42,
       "title": "Kono Oto Tomare!: Sounds of Life Season 2 | Teaser Trailer",
       "v": "Qdq1P5zpd48"
+    },
+    "108941": {
+      "published": "2020-07-07T16:00:11Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "UMAYON | OFFICIAL TRAILER",
+      "v": "Du8bFMrWYoE"
+    },
+    "108987": {
+      "published": "2021-07-04T02:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "SAKUGAN | OFFICIAL TRAILER 2",
+      "v": "uUtlZqTTzOQ"
+    },
+    "109": {
+      "published": "2011-07-12T15:44:06Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Burst Angel: Anime Classics - Available Now on DVD and BD - Trailer",
+      "v": "odbhs_9PsCQ"
+    },
+    "109019": {
+      "published": "2020-05-01T01:00:04Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Diary of Our Days at the Breakwater | Official Trailer",
+      "v": "F4Yf83yaTEU"
     },
     "109020": {
       "published": "2020-04-05T17:00:15Z",
@@ -871,6 +1187,13 @@
       "title": "Non Non Biyori Nonstop | OFFICIAL TRAILER",
       "v": "L_vkdXOgoj8"
     },
+    "109856": {
+      "published": "2020-04-01T17:00:09Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Listeners | Official Teaser Trailer",
+      "v": "LQmXjum6-Z4"
+    },
     "109946": {
       "published": "2021-10-22T00:00:00Z",
       "s": "netflixanime",
@@ -885,12 +1208,33 @@
       "title": "Food Wars! The Fourth Plate | OFFICIAL TRAILER",
       "v": "WcTl85qHc8Y"
     },
+    "109964": {
+      "published": "2019-12-24T20:23:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Uchitama?! Have you seen my Tama? | OFFICIAL TRAILER",
+      "v": "OK-IeO_qYuA"
+    },
     "109979": {
       "published": "2023-11-08T01:53:05Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "THE BOY AND THE HERON | Official Teaser Trailer | In Cinemas Dec 7",
       "v": "H3-t-hZVNew"
+    },
+    "110028": {
+      "published": "2020-07-13T18:30:08Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Muhyo & Roji's Bureau of Supernatural Investigation Season 2 - Official Trailer #3",
+      "v": "pG4om3W8U-o"
+    },
+    "110200": {
+      "published": "2021-02-04T14:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "VLAD LOVE | OFFICIAL TRAILER",
+      "v": "Wauof3VwkSU"
     },
     "110229": {
       "published": "2019-09-28T01:00:04Z",
@@ -934,12 +1278,40 @@
       "title": "Golden Kamuy Season 3 - Official Dub Trailer",
       "v": "1vxQLk9e0Hk"
     },
+    "110371": {
+      "published": "2020-06-24T17:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Mr Love: Queen's Choice | OFFICIAL TRAILER",
+      "v": "qLQ7RsJy62o"
+    },
+    "110446": {
+      "published": "2020-06-23T16:00:24Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "GIBIATE | A Crunchyroll Original | OFFICIAL TRAILER",
+      "v": "rU6HjgMIIBs"
+    },
+    "110458": {
+      "published": "2020-04-03T17:00:12Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Shironeko Project ZERO CHRONICLE | Official Trailer",
+      "v": "h4i6Ps7GZk8"
+    },
     "110733": {
       "published": "2021-02-20T01:36:42Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "ZOMBIE LAND SAGA REVENGE | OFFICIAL TRAILER",
       "v": "HTpxcLNe1_o"
+    },
+    "110867": {
+      "published": "2019-10-16T22:39:12Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Africa Salaryman | Official Trailer",
+      "v": "QmXjkKnXo8M"
     },
     "11111": {
       "published": "2024-06-18T16:00:59Z",
@@ -968,6 +1340,13 @@
       "score": 54,
       "title": "The Rising of the Shield Hero Season 3 | OFFICIAL TRAILER",
       "v": "fzwPgd-jnb0"
+    },
+    "111323": {
+      "published": "2020-10-01T18:59:54Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Gal & Dino - Official Fall Trailer",
+      "v": "QqS7_fFP_nY"
     },
     "111324": {
       "published": "2020-09-04T09:00:09Z",
@@ -1003,6 +1382,13 @@
       "score": 54,
       "title": "Fruits Basket Season 2 | OFFICIAL TRAILER",
       "v": "SPhB4Yzmh9o"
+    },
+    "111951": {
+      "published": "2019-12-30T18:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Case Files of Jeweler Richard | OFFICIAL TRAILER",
+      "v": "51Oa9kBKMUs"
     },
     "112124": {
       "published": "2020-09-24T16:00:17Z",
@@ -1046,6 +1432,27 @@
       "title": "Arifureta: From Commonplace to World's Strongest Season 2 | Official Trailer",
       "v": "BbhLLN86ibU"
     },
+    "112325": {
+      "published": "2020-04-06T18:00:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Shadowverse | OFFICIAL TRAILER",
+      "v": "eALzN-LK78k"
+    },
+    "112353": {
+      "published": "2020-04-02T23:00:10Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Wave, Listen to Me! | Official Trailer",
+      "v": "OleioOGaPJQ"
+    },
+    "112376": {
+      "published": "2021-02-22T20:00:04Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Dragon Goes House-Hunting | Official Anime Trailer",
+      "v": "J_2ZIdU2Now"
+    },
     "112443": {
       "published": "2020-12-19T22:00:02Z",
       "s": "crunchyrolldubs",
@@ -1060,12 +1467,26 @@
       "title": "APPARE-RANMAN! | Official Trailer 3",
       "v": "7uSzvRPmGNI"
     },
+    "112479": {
+      "published": "2020-10-04T16:59:48Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Assault Lily BOUQUET Official Trailer",
+      "v": "40Fy-JWoDkc"
+    },
     "112608": {
       "published": "2021-02-20T01:51:45Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level | OFFICIAL TRAILER",
       "v": "_l5Wuv-2Pf4"
+    },
+    "112640": {
+      "published": "2022-04-07T20:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Utawarerumono Mask of Truth | OFFICIAL TRAILER",
+      "v": "s4p_vf6AtYw"
     },
     "112641": {
       "published": "2020-03-27T19:02:40Z",
@@ -1088,6 +1509,20 @@
       "title": "Our Last Crusade or the Rise of a New World - Official Trailer 3",
       "v": "MvK7MmCfFTA"
     },
+    "112716": {
+      "published": "2021-08-06T19:45:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Muv-Luv Alternative | OFFICIAL TRAILER",
+      "v": "7qvsRRa-nGY"
+    },
+    "112719": {
+      "published": "2022-01-26T23:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Futsal Boys!!!!! | Official Trailer",
+      "v": "3Xz80dkAWgM"
+    },
     "112788": {
       "published": "2021-06-26T14:44:42Z",
       "s": "crunchyrolldubs",
@@ -1108,6 +1543,13 @@
       "score": 52,
       "title": "SUPER HXEROS | Official Trailer 2",
       "v": "HL587lCogsw"
+    },
+    "113108": {
+      "published": "2021-03-12T16:00:07Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Kingdom Season 3 - Official Anime Trailer 2",
+      "v": "7LsXjJkckpw"
     },
     "113231": {
       "published": "2020-12-16T15:36:37Z",
@@ -1151,6 +1593,20 @@
       "title": "Pretty Boy Detective Club English Dub Trailer",
       "v": "UIfqLViqP1A"
     },
+    "113570": {
+      "published": "2020-04-09T17:30:02Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Shachibato! President, It's Time for Battle! | Official Trailer",
+      "v": "9h75OHnZErg"
+    },
+    "113585": {
+      "published": "2021-01-04T18:00:05Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Skate-Leading Stars - Official Anime Trailer",
+      "v": "Ru6k9l_R_ds"
+    },
     "113596": {
       "published": "2021-06-15T17:40:25Z",
       "s": "crunchyrolldubs",
@@ -1158,12 +1614,26 @@
       "title": "Josee, the Tiger and the Fish | Offical Anime Trailer (Eng Sub)",
       "v": "hLEjE77PbcA"
     },
+    "113652": {
+      "published": "2020-09-29T16:29:47Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima - Official Trailer",
+      "v": "g5PoYHbOEoU"
+    },
     "113693": {
       "published": "2020-03-06T03:00:00Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Ascendance of a Bookworm Part 2 | OFFICIAL TRAILER",
       "v": "8BQs59MW7tA"
+    },
+    "11371": {
+      "published": "2021-04-16T16:00:25Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "The Prince of Tennis II Hyotei vs Rikkai Game of Future, Part 1 & 2 | Official PV",
+      "v": "h6LC7oj3N2U"
     },
     "113717": {
       "published": "2022-01-04T20:00:06Z",
@@ -1179,6 +1649,20 @@
       "title": "Rent-a-Girlfriend | Official Trailer | Crunchyroll",
       "v": "jZFEtc3CKHs"
     },
+    "113814": {
+      "published": "2021-02-28T00:00:17Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Idoly Pride - Official Anime Trailer",
+      "v": "nVpWol43bQU"
+    },
+    "113971": {
+      "published": "2026-08-04T03:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | Official Trailer | Netflix",
+      "v": "VjGtDQvXu40"
+    },
     "114065": {
       "published": "2021-06-26T18:00:09Z",
       "s": "crunchyroll",
@@ -1192,6 +1676,13 @@
       "score": 52,
       "title": "Kemono Jihen | Official Anime Trailer",
       "v": "kK06OmMYgKU"
+    },
+    "114099": {
+      "published": "2020-10-01T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dragon Quest: The Adventure of Dai | OFFICIAL TRAILER",
+      "v": "RrwbuwhIwbA"
     },
     "114124": {
       "published": "2020-10-12T20:09:41Z",
@@ -1221,6 +1712,13 @@
       "title": "Fire Force Season 2 | OFFICIAL TRAILER 2",
       "v": "SJ28o0f2BAs"
     },
+    "114301": {
+      "published": "2021-01-19T21:56:36Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Hortensia SAGA - Official Anime Trailer",
+      "v": "gNbaDoIxaB0"
+    },
     "114302": {
       "published": "2021-06-26T18:00:11Z",
       "s": "crunchyroll",
@@ -1242,12 +1740,33 @@
       "title": "Higurashi: When They Cry - NEW - Official Trailer 2",
       "v": "XCcf-VlezFg"
     },
+    "114473": {
+      "published": "2020-12-22T17:00:16Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Anime AzurLane: Slow Ahead! | OFFICIAL TRAILER",
+      "v": "nP3OvI4yfmk"
+    },
     "114535": {
       "published": "2021-03-15T03:00:10Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "To Your Eternity | OFFICIAL TRAILER 2",
       "v": "WHq46obaDR8"
+    },
+    "114555": {
+      "published": "2022-10-04T16:00:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "All Saints Street | OFFICIAL TRAILER",
+      "v": "XiCPB36hMlQ"
+    },
+    "114811": {
+      "published": "2020-04-03T17:00:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Digimon Adventure | OFFICIAL TRAILER",
+      "v": "fmfR2nR_RRY"
     },
     "114840": {
       "published": "2021-03-31T16:00:32Z",
@@ -1326,6 +1845,13 @@
       "title": "High School DxD - Available Now on BD/DVD Combo - Trailer",
       "v": "NT-aKRM4Fyo"
     },
+    "116173": {
+      "published": "2020-09-29T16:29:48Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Warlords of Sigrdrifa - Official Trailer",
+      "v": "S9gGCEga7AI"
+    },
     "116242": {
       "published": "2020-10-01T16:00:09Z",
       "s": "crunchyroll",
@@ -1389,6 +1915,13 @@
       "title": "The Seven Deadly Sins: Dragon's Judgement | Teaser Trailer 2 | Netflix",
       "v": "oaoViWF8P74"
     },
+    "116756": {
+      "published": "2022-04-12T17:00:20Z",
+      "s": "aniplexusa",
+      "score": 53,
+      "title": "Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon Blu-ray Trailer",
+      "v": "nIALMUMx17s"
+    },
     "116867": {
       "published": "2023-04-19T10:00:46Z",
       "s": "museasia",
@@ -1409,6 +1942,13 @@
       "score": 54,
       "title": "My Hero Academia Season 5 | OFFICIAL TRAILER",
       "v": "Osxf1KmVuLs"
+    },
+    "117197": {
+      "published": "2022-03-12T12:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "TIGER & BUNNY 2 | Main Trailer | Netflix Anime",
+      "v": "4_8VWrBZRdc"
     },
     "117343": {
       "published": "2020-09-29T20:59:51Z",
@@ -1445,6 +1985,13 @@
       "title": "Cells at Work! CODE BLACK | OFFICIAL TRAILER",
       "v": "V9vyfAbOo6A"
     },
+    "117556": {
+      "published": "2021-05-31T05:13:54Z",
+      "s": "museasia",
+      "score": 23,
+      "title": "ARIA The CREPUSCOLO Teaser",
+      "v": "amEXGKnnM2g"
+    },
     "11757": {
       "published": "2013-04-08T21:00:14Z",
       "s": "aniplexusa",
@@ -1459,12 +2006,68 @@
       "title": "How a Realist Hero Rebuilt the Kingdom | Official Anime Trailer 2",
       "v": "xFPqtyHXKpE"
     },
+    "11763": {
+      "published": "2015-03-28T23:30:00Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Wanna be the Strongest in the World - Coming Soon - Trailer",
+      "v": "Eu1F0yiL5y8"
+    },
+    "117696": {
+      "published": "2020-12-22T17:00:16Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Heaven's Design Team | OFFICIAL TRAILER",
+      "v": "J2cM7VT8H_o"
+    },
+    "117755": {
+      "published": "2020-10-05T16:59:53Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "MAGATSU WAHRHEIT Official Trailer - Fall 2020 Anime Season",
+      "v": "NnyaxShwvHM"
+    },
+    "117757": {
+      "published": "2020-09-24T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Iwakakeru - Sport Climbing Girls | OFFICIAL TRAILER",
+      "v": "T8Skpo5daFI"
+    },
+    "118103": {
+      "published": "2021-10-27T19:00:01Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "The Vampire Dies in No Time | Official Anime Trailer",
+      "v": "4O44fCtiTN0"
+    },
     "118375": {
       "published": "2020-09-05T23:00:04Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Hidden Dungeon Only I Can Enter | OFFICIAL TRAILER",
       "v": "UOAywWzUc2k"
+    },
+    "118376": {
+      "published": "2020-09-28T13:59:46Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "KING's RAID: Successors of the Will - Official Trailer",
+      "v": "SX4dy9KT51A"
+    },
+    "118390": {
+      "published": "2021-12-10T12:05:16Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Child of Kamiari Month | Official Trailer | Netflix Anime",
+      "v": "eBcKnaSkb-I"
+    },
+    "118399": {
+      "published": "2020-09-23T17:00:13Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Yashahime: Princess Half-Demon | OFFICIAL TRAILER",
+      "v": "yc3356aM6gI"
     },
     "118419": {
       "published": "2020-09-29T17:28:57Z",
@@ -1479,6 +2082,13 @@
       "score": 42,
       "title": "She Professed Herself Pupil of the Wise Man | Teaser Trailer 2",
       "v": "GLfSZvY0Gnc"
+    },
+    "119321": {
+      "published": "2021-10-13T23:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Earwig and the Witch | Official Trailer | Netflix",
+      "v": "V--UCVHLzAY"
     },
     "119661": {
       "published": "2020-12-22T17:00:21Z",
@@ -1515,12 +2125,26 @@
       "title": "My Next Life as a Villainess: All Routes Lead to Doom! X | OFFICIAL TRAILER",
       "v": "thB_uxz3rck"
     },
+    "12029": {
+      "published": "2018-10-20T17:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Star Blazers: Space Battleship Yamato 2199 Part Two - Official Trailer - Own it 11/6",
+      "v": "M_ey9ztlg0g"
+    },
     "12031": {
       "published": "2025-12-16T17:00:09Z",
       "s": "crunchyroll",
       "score": 39,
       "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom | Official Trailer | Crunchyroll",
       "v": "3wNyyhzLqA0"
+    },
+    "120376": {
+      "published": "2021-03-08T15:00:17Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "The World Ends with You The Animation | Official Trailer 2",
+      "v": "s_i57a8U6yw"
     },
     "120377": {
       "published": "2022-08-30T18:00:00Z",
@@ -1585,6 +2209,27 @@
       "title": "Peach Boy Riverside | OFFICIAL TRAILER",
       "v": "7vtl3NGuG1c"
     },
+    "122511": {
+      "published": "2024-04-03T16:00:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dragon Raja -The Blazing Dawn- | OFFICIAL TRAILER",
+      "v": "j3azzxRVU0k"
+    },
+    "122575": {
+      "published": "2021-12-03T03:00:00Z",
+      "s": "netflixanime",
+      "score": 34,
+      "title": "STAND BY ME Doraemon 2 | Official Teaser | Netflix Anime",
+      "v": "A0wg3Zkxq1c"
+    },
+    "122807": {
+      "published": "2020-10-05T15:59:49Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "The Gymnastics Samurai - Official Trailer",
+      "v": "KSdkglUr7oc"
+    },
     "122808": {
       "published": "2021-12-21T17:00:26Z",
       "s": "crunchyroll",
@@ -1599,6 +2244,27 @@
       "title": "Wolf Children - Official Trailer (English dub)",
       "v": "8SlB-SpDMKI"
     },
+    "123752": {
+      "published": "2021-10-07T22:36:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Shenmue the Animation | A Crunchyroll and Adult Swim Production | OFFICIAL TRAILER",
+      "v": "96mSYKPqGHY"
+    },
+    "123779": {
+      "published": "2021-01-21T18:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dr. Ramune -Mysterious Disease Specialist- | A Crunchyroll Original | OFFICIAL TRAILER 2",
+      "v": "9tR41AHRaV0"
+    },
+    "123785": {
+      "published": "2020-12-14T23:00:30Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Scar On The Praeter | Official Anime Trailer",
+      "v": "kf-4Y_PJd-k"
+    },
     "123802": {
       "published": "2021-03-06T07:30:04Z",
       "s": "crunchyrolldubs",
@@ -1612,6 +2278,13 @@
       "score": 52,
       "title": "Sing a Bit of Harmony | Official Dub Trailer (AU/NZ)",
       "v": "xmNhGJ7QBUQ"
+    },
+    "124060": {
+      "published": "2022-02-10T20:04:55Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Requiem of the Rose King | Official Trailer 2",
+      "v": "pmgnF5cX5Zs"
     },
     "124080": {
       "published": "2020-12-28T17:00:14Z",
@@ -1676,6 +2349,20 @@
       "title": "Osamake: Romcom Where The Childhood Friend Won't Lose | OFFICIAL TRAILER",
       "v": "gsTERSk_BZo"
     },
+    "12471": {
+      "published": "2013-08-13T14:37:09Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Eureka Seven AO: Part One - Available Now on BD/DVD Combo - Trailer",
+      "v": "ixV3u_Z362A"
+    },
+    "124786": {
+      "published": "2021-04-13T01:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Godzilla Singular Point | Official Trailer | Netflix Anime",
+      "v": "wUhyxRbLWbk"
+    },
     "124858": {
       "published": "2021-04-12T22:30:01Z",
       "s": "crunchyrolldubs",
@@ -1724,6 +2411,34 @@
       "score": 54,
       "title": "High-Rise Invasion | Official Trailer | Netflix",
       "v": "A25xEmPNmBM"
+    },
+    "125446": {
+      "published": "2021-06-30T15:00:11Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Kageki Shojo!! | Official Anime PV",
+      "v": "9E95y6UOiLs"
+    },
+    "125447": {
+      "published": "2022-02-16T01:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Thermae Romae Novae | Official Trailer | Netflix Anime",
+      "v": "zfwCaZsZp5Q"
+    },
+    "125868": {
+      "published": "2021-07-06T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "NIGHT HEAD 2041 | OFFICIAL TRAILER",
+      "v": "aOhQ9P8sFPg"
+    },
+    "125869": {
+      "published": "2022-12-01T22:15:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Fire Hunter | OFFICIAL TRAILER",
+      "v": "nkBeXGAFCvU"
     },
     "126047": {
       "published": "2021-07-08T16:00:31Z",
@@ -1774,12 +2489,33 @@
       "title": "My Hero Academia: World Heroes Mission | Official English Dub Trailer | UK & Ireland",
       "v": "Y0M2vewDNA8"
     },
+    "126793": {
+      "published": "2021-10-02T23:00:01Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "PuraOre! ~Pride of Orange~ | Official Trailer",
+      "v": "1hBHRibhTjc"
+    },
+    "126897": {
+      "published": "2021-09-21T16:00:11Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Night Beyond the Tricornered Window | OFFICIAL TRAILER",
+      "v": "U4tYkA1MuCE"
+    },
     "127050": {
       "published": "2021-08-06T19:45:00Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Love of Kill | OFFICIAL TRAILER",
       "v": "QOe5sSs5fmI"
+    },
+    "127149": {
+      "published": "2022-09-28T18:00:06Z",
+      "s": "aniplexusa",
+      "score": 45,
+      "title": "Fate/Grand Carnival Blu-ray English Dub Trailer",
+      "v": "8lc5wAzU_LE"
     },
     "127230": {
       "published": "2022-10-10T15:00:35Z",
@@ -1823,12 +2559,40 @@
       "title": "Taisho Otome Fairy Tale | Official Anime Trailer 2",
       "v": "4qBpi01SamQ"
     },
+    "127550": {
+      "published": "2023-03-22T22:59:51Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kuma Kuma Kuma Bear - Punch! | OFFICIAL TRAILER",
+      "v": "6hffVjih2_w"
+    },
+    "127595": {
+      "published": "2021-09-04T20:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Scissor Seven Season 3 | Official Trailer | Netflix Anime",
+      "v": "5X8VwQqjTtQ"
+    },
+    "127619": {
+      "published": "2021-11-09T02:15:08Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Aggretsuko: Season 4 | Official Trailer | Netflix Anime",
+      "v": "V1h3K4I8kvk"
+    },
     "127688": {
       "published": "2021-08-28T16:00:13Z",
       "s": "aniplexusa",
       "score": 45,
       "title": "The Honor at Magic High School English Dub Trailer",
       "v": "ErFSEBRppnU"
+    },
+    "127690": {
+      "published": "2022-05-31T12:30:01Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "PUI PUI MOLCAR (PUI PUI CAVY-CAR) - New Season - PV",
+      "v": "2rQK4AzrmWI"
     },
     "127720": {
       "published": "2021-09-30T19:00:17Z",
@@ -1844,12 +2608,33 @@
       "title": "Shikimori's Not Just a Cutie | Official Trailer | Crunchyroll",
       "v": "utyXdk4G0-w"
     },
+    "127976": {
+      "published": "2023-09-29T12:00:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Heaven Official's Blessing Season 2 | OFFICIAL TRAILER",
+      "v": "bw--hY7Sxh0"
+    },
     "128034": {
       "published": "2021-09-21T16:00:15Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "ORIENT | OFFICIAL TRAILER 2",
       "v": "L4W_Eo6HU30"
+    },
+    "128207": {
+      "published": "2024-08-25T21:00:00Z",
+      "s": "netflixanime",
+      "score": 39,
+      "title": "The First Slam Dunk | Official Trailer | Netflix",
+      "v": "E-gGTCru5ZM"
+    },
+    "128399": {
+      "published": "2021-03-24T16:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Fairy Ranmaru | OFFICIAL TRAILER",
+      "v": "A4vwX_ybph8"
     },
     "128545": {
       "published": "2021-06-22T16:00:18Z",
@@ -1886,12 +2671,33 @@
       "title": "The Detective Is Already Dead | Official Anime PV",
       "v": "MghFONe--0Q"
     },
+    "128715": {
+      "published": "2022-12-03T19:50:35Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Sacrificial Princess and the King of Beasts | OFFICIAL TRAILER",
+      "v": "AKGO0QJDPDw"
+    },
     "128740": {
       "published": "2021-09-03T02:00:00Z",
       "s": "netflixanime",
       "score": 54,
       "title": "The Seven Deadly Sins: Cursed by Light | Official Trailer | Netflix Anime",
       "v": "s4U5ipjy6Vk"
+    },
+    "128757": {
+      "published": "2026-06-01T16:00:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Young Ladies Don’t Play Fighting Games | Official Trailer | Crunchyroll",
+      "v": "ld8NyRP6IH8"
+    },
+    "128828": {
+      "published": "2022-01-07T02:12:44Z",
+      "s": "museasia",
+      "score": 23,
+      "title": "[2022 Winter Anime] Girls’ Frontline - teaser",
+      "v": "srWr6rhIrDQ"
     },
     "128893": {
       "published": "2023-03-03T02:00:02Z",
@@ -1949,6 +2755,20 @@
       "title": "The Duke of Death and His Maid | Official PV",
       "v": "55T_YNvgBbE"
     },
+    "129664": {
+      "published": "2021-02-20T01:21:34Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "JORAN THE PRINCESS OF SNOW AND BLOOD | OFFICIAL TRAILER",
+      "v": "qJq2cWFkUDo"
+    },
+    "129814": {
+      "published": "2021-06-11T18:00:12Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Connecting Glimmering Feelings | Blue Reflection Ray Trailer (Rouge ver.)",
+      "v": "hisIgYvxQ80"
+    },
     "129898": {
       "published": "2021-09-22T16:00:08Z",
       "s": "crunchyroll",
@@ -1977,12 +2797,26 @@
       "title": "The Eminence in Shadow: Master of Garden | Official Trailer | Crunchyroll Game Vault",
       "v": "RUI66uvo3SI"
     },
+    "130389": {
+      "published": "2021-12-21T17:00:20Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Irregular at Magic High School Reminiscence Arc | OFFICIAL TRAILER",
+      "v": "bW6pGHjPCUk"
+    },
     "130549": {
       "published": "2021-07-23T15:30:08Z",
       "s": "crunchyrolldubs",
       "score": 62,
       "title": "RE-MAIN | Official Anime Trailer",
       "v": "x7wJKPo0wjo"
+    },
+    "130550": {
+      "published": "2022-04-25T19:00:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Girl From the Other Side | OFFICIAL TRAILER",
+      "v": "kbSwcQRdasE"
     },
     "130586": {
       "published": "2022-01-26T17:00:48Z",
@@ -2019,12 +2853,61 @@
       "title": "The Devil is a Part-Timer Season 2 | OFFICIAL TRAILER",
       "v": "fnkN3juH9Kc"
     },
+    "130696": {
+      "published": "2022-12-03T19:50:48Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Legend of Heroes: Trails of Cold Steel - Northern War | OFFICIAL TRAILER 2",
+      "v": "RXju9Rftxbw"
+    },
+    "130706": {
+      "published": "2023-08-02T02:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Akuma Kun | Official Trailer | Netflix",
+      "v": "apKV6o032Lw"
+    },
+    "130713": {
+      "published": "2021-09-28T16:00:36Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Ancient Magus' Bride - The Boy from the West and the Knight of the Blue Storm | OFFICIAL TRAILER",
+      "v": "rRd40qM3mwY"
+    },
+    "130997": {
+      "published": "2021-07-06T16:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "D_CIDE TRAUMEREI THE ANIMATION | OFFICIAL TRAILER",
+      "v": "tFCNU_0e5jQ"
+    },
+    "131005": {
+      "published": "2021-10-02T16:00:23Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "AMAIM Warrior at the Borderline | Official Trailer",
+      "v": "JsdTwQubNWE"
+    },
     "131149": {
       "published": "2021-06-20T10:30:03Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "Higurashi: When They Cry - SOTSU | Official Trailer 3",
       "v": "Fmay0jvq074"
+    },
+    "131150": {
+      "published": "2021-05-13T10:51:44Z",
+      "s": "anioneasia",
+      "score": 43,
+      "title": "【Ani-One】《緋紅結繫SCARLET NEXUS》Trailer | 7月登陸！",
+      "v": "EBCze3-jzLM"
+    },
+    "131264": {
+      "published": "2021-09-21T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Yashahime: Princess Half-Demon - The Second Act | OFFICIAL TRAILER",
+      "v": "-J98IJlE-GQ"
     },
     "131516": {
       "published": "2022-07-19T17:00:26Z",
@@ -2061,6 +2944,13 @@
       "title": "JUJUTSU KAISEN 0 | OFFICIAL TRAILER 3",
       "v": "2docezZl574"
     },
+    "131584": {
+      "published": "2021-10-06T00:59:22Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "VISUAL PRISON | Official Trailer",
+      "v": "ZbRJBVOCptw"
+    },
     "13161": {
       "published": "2013-12-17T14:30:01Z",
       "s": "crunchyrolldubs",
@@ -2088,6 +2978,20 @@
       "score": 64,
       "title": "Attack on Titan Final Season Part 2 | OFFICIAL TRAILER 2",
       "v": "tgU1ILLTDWQ"
+    },
+    "131912": {
+      "published": "2022-06-22T16:00:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Fuuto PI | OFFICIAL TRAILER",
+      "v": "E9a0Xj1WJ6I"
+    },
+    "131930": {
+      "published": "2021-04-26T22:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Yasuke | Official Trailer | Netflix Anime",
+      "v": "vUDDgXWU75M"
     },
     "131942": {
       "published": "2022-11-18T16:00:02Z",
@@ -2117,6 +3021,20 @@
       "title": "Sonny Boy | Official Teaser Trailer",
       "v": "gp49kksu9kU"
     },
+    "132171": {
+      "published": "2022-03-23T17:00:38Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dance Dance Danseur | OFFICIAL TRAILER",
+      "v": "rd0qAYtN8Ck"
+    },
+    "132351": {
+      "published": "2022-03-30T16:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Don't Hurt Me, My Healer! | OFFICIAL TRAILER",
+      "v": "GEaTORREc3A"
+    },
     "132405": {
       "published": "2022-01-04T20:00:05Z",
       "s": "crunchyroll",
@@ -2144,6 +3062,27 @@
       "score": 54,
       "title": "Skeleton Knight in Another World | OFFICIAL TRAILER 2",
       "v": "8XkdWCVUusA"
+    },
+    "132525": {
+      "published": "2021-09-24T19:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "BUILD-DIVIDE -#000000- CODE BLACK | OFFICIAL TRAILER",
+      "v": "EQIKHWXMyuI"
+    },
+    "132526": {
+      "published": "2022-03-25T17:00:13Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "BUILD-DIVIDE -#FFFFFF- CODE WHITE - | OFFICIAL TRAILER",
+      "v": "Bmss3BfJlcQ"
+    },
+    "132806": {
+      "published": "2021-08-06T23:45:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Restaurant to Another World 2 | OFFICIAL TRAILER",
+      "v": "rYcD9DxM4L0"
     },
     "133007": {
       "published": "2026-07-02T23:00:08Z",
@@ -2179,6 +3118,13 @@
       "score": 54,
       "title": "Dragon Ball Super: SUPER HERO | OFFICIAL TRAILER",
       "v": "t5CIs0jDqC8"
+    },
+    "13391": {
+      "published": "2015-04-03T19:00:12Z",
+      "s": "aniplexusa",
+      "score": 45,
+      "title": "Expelled from Paradise Blu-ray Announcement / English Dub Trailer",
+      "v": "DhcfGtJSBBo"
     },
     "133965": {
       "published": "2021-10-15T12:06:43Z",
@@ -2222,6 +3168,20 @@
       "title": "Good Luck Girl! - Available Now on BD/DVD Combo - Trailer",
       "v": "zukprLzKe3w"
     },
+    "135384": {
+      "published": "2022-04-05T16:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Miss Shachiku and the Little Baby Ghost | OFFICIAL TRAILER",
+      "v": "hh2kja5qQxE"
+    },
+    "135643": {
+      "published": "2024-03-23T02:52:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Grimm Variations | Official Trailer | Netflix",
+      "v": "bTU3detmX_I"
+    },
     "135778": {
       "published": "2023-01-26T02:00:05Z",
       "s": "crunchyroll",
@@ -2264,6 +3224,20 @@
       "title": "Fruits Basket -prelude- | OFFICIAL TRAILER",
       "v": "ASHoe3ve14A"
     },
+    "136303": {
+      "published": "2022-05-01T15:00:34Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Shin Ikki Tousen | OFFICIAL TRAILER",
+      "v": "uwsvMnh1ZyY"
+    },
+    "136381": {
+      "published": "2025-03-19T03:40:58Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "SK8 the Infinity EXTRA PART | Official Trailer | Crunchyroll",
+      "v": "9JGVcpu8_xQ"
+    },
     "136430": {
       "published": "2022-12-23T00:00:03Z",
       "s": "crunchyroll",
@@ -2292,12 +3266,40 @@
       "title": "BEASTARS Final Season Part 1 | Official Trailer | Netflix",
       "v": "TArSVUJ9XsU"
     },
+    "136947": {
+      "published": "2021-10-12T23:31:38Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Deep Insanity THE LOST CHILD | Official Trailer",
+      "v": "m3GpBIwcIkM"
+    },
     "137281": {
       "published": "2022-03-30T16:00:28Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Aharen-san wa Hakarenai | Official Trailer | Crunchyroll",
       "v": "Rd4usifUuEY"
+    },
+    "137309": {
+      "published": "2022-08-30T17:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Digimon Ghost Game | OFFICIAL TRAILER 2",
+      "v": "bcZD8lkwKgo"
+    },
+    "137633": {
+      "published": "2022-04-19T12:00:19Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "2022年4月新番《Love All Play》PV【Ani-One】",
+      "v": "cnlpfo1ojyU"
+    },
+    "137662": {
+      "published": "2025-11-12T02:00:24Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Release that Witch | Official Trailer | Crunchyroll",
+      "v": "S4P2Mr_Cwys"
     },
     "137667": {
       "published": "2026-04-28T02:00:04Z",
@@ -2334,6 +3336,20 @@
       "title": "Record of Ragnarok II | Official Trailer #3 | Netflix",
       "v": "v1DdYypT-tk"
     },
+    "138452": {
+      "published": "2022-03-22T16:00:30Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Fanfare of Adolescence | OFFICIAL TRAILER",
+      "v": "fWAD1GVu6pc"
+    },
+    "138459": {
+      "published": "2022-04-05T16:00:27Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Heroines Run the Show | OFFICIAL TRAILER",
+      "v": "y20zBmpuSVY"
+    },
     "138565": {
       "published": "2022-12-25T10:30:15Z",
       "s": "crunchyroll",
@@ -2347,6 +3363,13 @@
       "score": 52,
       "title": "The Heike Story | Official Trailer",
       "v": "Ea5jE3kOUYw"
+    },
+    "138788": {
+      "published": "2023-09-20T16:00:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "UNDER NINJA | OFFICIAL TRAILER",
+      "v": "Pj10YbNVWpQ"
     },
     "138882": {
       "published": "2022-07-04T03:00:30Z",
@@ -2404,12 +3427,26 @@
       "title": "My Hero Academia Season 6 | OFFICIAL TRAILER",
       "v": "9Y_eKiT-irU"
     },
+    "139643": {
+      "published": "2022-07-13T22:00:03Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Drifting Home | Official Trailer | Netflix Anime",
+      "v": "2MM1ppGU17c"
+    },
     "139648": {
       "published": "2021-12-13T23:00:01Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "How a Realist Hero Rebuilt the Kingdom Part 2 | Official Trailer",
       "v": "4-xHSZMmzzk"
+    },
+    "139804": {
+      "published": "2022-01-14T16:00:23Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Tribe Nine | Official Trailer 2",
+      "v": "mZaVcsEHSwI"
     },
     "139820": {
       "published": "2022-08-06T22:30:00Z",
@@ -2432,6 +3469,27 @@
       "title": "Our Last Crusade or the Rise of a New World Season 2 | OFFICIAL TRAILER",
       "v": "KvWlUz7gg68"
     },
+    "140291": {
+      "published": "2026-10-13T17:00:39Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Disney Twisted-Wonderland - Encore Twisted Thrills Vs. Classic Chills A Storybook Adventure Trailer",
+      "v": "u2gF2rZy4a0"
+    },
+    "140337": {
+      "published": "2026-01-06T17:01:29Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Zombie Land Saga: Yumeginga Paradise | Official Trailer | Crunchyroll",
+      "v": "irI7CoyF_Hk"
+    },
+    "140350": {
+      "published": "2022-04-11T23:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kingdom Season 4 | OFFICIAL TRAILER",
+      "v": "0e3GZzUiLEc"
+    },
     "140439": {
       "published": "2022-10-04T16:00:05Z",
       "s": "crunchyroll",
@@ -2439,12 +3497,26 @@
       "title": "Mob Psycho 100 III | Official Trailer | Crunchyroll",
       "v": "Ah7lTT-NKMw"
     },
+    "140502": {
+      "published": "2022-01-04T20:00:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Salaryman's Club | OFFICIAL TRAILER",
+      "v": "11j1DKgKcSo"
+    },
     "140596": {
       "published": "2022-08-06T11:15:00Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Don't Toy With Me, Miss Nagatoro 2nd Attack | OFFICIAL TRAILER 2",
       "v": "92m5VXkjBTo"
+    },
+    "140643": {
+      "published": "2021-12-21T17:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tokyo 24th Ward | OFFICIAL TRAILER",
+      "v": "bvVUKkvQVpY"
     },
     "140660": {
       "published": "2022-10-18T17:59:45Z",
@@ -2466,6 +3538,13 @@
       "score": 54,
       "title": "Summoned to Another World for a Second Time | OFFICIAL TRAILER",
       "v": "VJBXYcjwdCs"
+    },
+    "140830": {
+      "published": "2022-04-05T16:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "BIRDIE WING -Golf Girls' Story- | OFFICIAL TRAILER",
+      "v": "5uUVPp5bGQQ"
     },
     "140960": {
       "published": "2022-09-15T23:00:14Z",
@@ -2495,12 +3574,33 @@
       "title": "TONIKAWA: Over The Moon For You Season 2 | A Crunchyroll Original | OFFICIAL TRAILER",
       "v": "KPYprvPNnsc"
     },
+    "141350": {
+      "published": "2022-03-23T17:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "In The Heart of Kunoichi Tsubaki | OFFICIAL TRAILER",
+      "v": "bNMR_3oXE_I"
+    },
     "141351": {
       "published": "2022-06-05T12:00:01Z",
       "s": "netflixanime",
       "score": 54,
       "title": "KAKEGURUI TWIN | Official Trailer | Netflix Anime",
       "v": "VVMh5dvGB1g"
+    },
+    "141352": {
+      "published": "2022-11-19T03:00:04Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1 | Official Trailer | Netflix Anime",
+      "v": "1xZP6qJiK0s"
+    },
+    "141785": {
+      "published": "2022-12-03T19:50:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Malevolent Spirits: Mononogatari | OFFICIAL TRAILER",
+      "v": "T9aokABLYOM"
     },
     "141821": {
       "published": "2023-11-10T09:00:13Z",
@@ -2544,12 +3644,40 @@
       "title": "Bubble | Official Trailer | Netflix Anime",
       "v": "sxVJnIc8tc0"
     },
+    "142481": {
+      "published": "2023-02-11T02:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Yowamushi Pedal Limit Break | OFFICIAL TRAILER 2",
+      "v": "H791Yf1JweM"
+    },
     "142598": {
       "published": "2023-06-15T18:30:06Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Reign of the Seven Spellblades | OFFICIAL TRAILER",
       "v": "AQ6lIA3faKc"
+    },
+    "142599": {
+      "published": "2023-10-07T17:00:11Z",
+      "s": "aniplexusa",
+      "score": 53,
+      "title": "Butareba -The Story of a Man Turned into a Pig-  |  OFFICIAL TRAILER #2",
+      "v": "LfY4sx-kMaY"
+    },
+    "142666": {
+      "published": "2023-10-04T16:00:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Migi&Dali | OFFICIAL TRAILER",
+      "v": "2aqkHQXIfiw"
+    },
+    "142684": {
+      "published": "2024-10-22T16:00:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Gridman Universe | OFFICIAL TRAILER",
+      "v": "RxhWoqnXQlc"
     },
     "142701": {
       "published": "2022-09-21T16:00:18Z",
@@ -2572,12 +3700,26 @@
       "title": "SPY x FAMILY Cour 2 | OFFICIAL TRAILER",
       "v": "MLMVROL47fw"
     },
+    "142849": {
+      "published": "2022-12-14T17:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Ayakashi Triangle | OFFICIAL TRAILER",
+      "v": "cQI5-mtSFXY"
+    },
     "142984": {
       "published": "2022-03-17T11:00:01Z",
       "s": "netflixanime",
       "score": 44,
       "title": "Komi Can't Communicate Part 2 Trailer | Netflix Anime",
       "v": "7n9JGuR0HrY"
+    },
+    "143080": {
+      "published": "2022-01-28T00:03:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ODDTAXI In the Woods | OFFICIAL TRAILER",
+      "v": "iw5h0kHnci8"
     },
     "143103": {
       "published": "2026-09-10T12:59:52Z",
@@ -2607,6 +3749,13 @@
       "title": "The Irregular at Magic High School Season 3 | OFFICIAL TRAILER (English dub)",
       "v": "N4fRnK1-bKs"
     },
+    "143327": {
+      "published": "2023-09-20T16:00:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "MF GHOST | OFFICIAL TRAILER 2",
+      "v": "evM8AAQVLZ8"
+    },
     "143337": {
       "published": "2025-03-19T18:30:25Z",
       "s": "crunchyroll",
@@ -2628,6 +3777,13 @@
       "title": "Bottom-Tier Character Tomozaki 2nd Stage | OFFICIAL TRAILER",
       "v": "3eMnlLtdmfs"
     },
+    "144144": {
+      "published": "2023-03-22T13:00:35Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kaina of the Great Snow Sea: Star Sage | OFFICIAL TRAILER",
+      "v": "iFITlWBSly4"
+    },
     "144176": {
       "published": "2024-03-31T16:00:37Z",
       "s": "crunchyroll",
@@ -2641,6 +3797,13 @@
       "score": 54,
       "title": "The Reincarnation Of The Strongest Exorcist In Another World | OFFICIAL TRAILER 2",
       "v": "SZwPl5BIpfc"
+    },
+    "144677": {
+      "published": "2022-09-08T11:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "BASTARD‼️ -Heavy Metal, Dark Fantasy- | Official Trailer 2 | Netflix Anime",
+      "v": "Xy8HtIueLss"
     },
     "145064": {
       "published": "2023-10-03T17:00:06Z",
@@ -2663,6 +3826,13 @@
       "title": "Black Summoner | OFFICIAL TRAILER",
       "v": "m3W8sZhn3-o"
     },
+    "145468": {
+      "published": "2022-06-22T16:00:09Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "YUREI DECO | OFFICIAL TRAILER 2",
+      "v": "7zmib6hyua8"
+    },
     "145545": {
       "published": "2022-09-26T08:15:03Z",
       "s": "museasia",
@@ -2683,6 +3853,13 @@
       "score": 54,
       "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF | OFFICIAL TRAILER",
       "v": "zgCdZNIPylA"
+    },
+    "145740": {
+      "published": "2026-09-18T18:07:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Grisaia Phantom Trigger Vol. 7 | Official Trailer | Crunchyroll Game Vault",
+      "v": "j1H1R4W7p1U"
     },
     "146065": {
       "published": "2023-05-30T23:00:20Z",
@@ -2712,6 +3889,20 @@
       "title": "Engage Kiss  |  Official English Dub Trailer",
       "v": "1Y4LLYpmZ3A"
     },
+    "146637": {
+      "published": "2022-05-28T22:30:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ORIENT Part 2 | OFFICIAL TRAILER",
+      "v": "zaN0UDfGo_E"
+    },
+    "146638": {
+      "published": "2023-09-20T15:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "KENGAN ASHURA Season 2 | Official Trailer | Netflix",
+      "v": "QOBHUm6I5lw"
+    },
     "146646": {
       "published": "2023-08-03T01:00:00Z",
       "s": "netflixanime",
@@ -2719,12 +3910,33 @@
       "title": "Baki Hanma Season 2 | Official Trailer #2 | Netflix",
       "v": "ldUNk8mJzig"
     },
+    "146650": {
+      "published": "2022-06-07T16:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Shine on! Bakumatsu Bad Boys! | OFFICIAL TRAILER",
+      "v": "eEGFdV7IDj4"
+    },
     "146668": {
       "published": "2022-03-26T01:00:20Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "RWBY: Ice Queendom | OFFICIAL TRAILER",
       "v": "tjmBDfulaGk"
+    },
+    "146743": {
+      "published": "2023-09-15T16:00:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Sasaki and Miyano: Graduation | Official Trailer | Crunchyroll",
+      "v": "KovLD-ZbBcg"
+    },
+    "146867": {
+      "published": "2024-04-03T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tonari no Yokai-san | OFFICIAL TRAILER",
+      "v": "9h0pUypVDs8"
     },
     "146953": {
       "published": "2022-12-03T19:50:56Z",
@@ -2739,6 +3951,13 @@
       "score": 54,
       "title": "The Fruit of Evolution: Before I Knew It My Life Had It Made Season 2 | OFFICIAL TRAILER",
       "v": "tDsOYdD3MfU"
+    },
+    "146975": {
+      "published": "2023-04-05T19:00:09Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "THE IDOLM@STER CINDERELLA GIRLS U149 | OFFICIAL TRAILER",
+      "v": "PbS6b8HvJyg"
     },
     "147103": {
       "published": "2023-06-16T01:00:01Z",
@@ -2760,6 +3979,13 @@
       "score": 42,
       "title": "Kamisama Kiss - Goddess Edition - Coming Soon - Trailer",
       "v": "U7UOn9v4U2g"
+    },
+    "147463": {
+      "published": "2020-09-28T05:00:02Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "【Ani-One】Jujutsu Kaisen - PV!!!",
+      "v": "8LcORzjLuBM"
     },
     "147571": {
       "published": "2023-03-31T01:00:15Z",
@@ -2788,6 +4014,13 @@
       "score": 54,
       "title": "KamiKatsu: Working for God in a Godless World | OFFICIAL TRAILER",
       "v": "tydTVMVirtE"
+    },
+    "148080": {
+      "published": "2024-04-24T08:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "My Oni Girl | Official Trailer | Netflix",
+      "v": "sWhtovYy3E0"
     },
     "148098": {
       "published": "2022-12-01T22:15:02Z",
@@ -2824,12 +4057,33 @@
       "title": "Dragon Ball Z: Battle of Gods - Available Now - Trailer",
       "v": "ftExm4jGujQ"
     },
+    "148862": {
+      "published": "2024-05-31T01:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse | Official Trailer #2 | Netflix Anime",
+      "v": "9F2HFf-JJSg"
+    },
+    "149028": {
+      "published": "2022-11-19T20:30:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Yuri is My Job! | OFFICIAL TRAILER",
+      "v": "dOEd1x0__Xs"
+    },
     "149118": {
       "published": "2025-02-26T20:00:20Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Fire Force Season 3 | Official Trailer 2 | Crunchyroll",
       "v": "JOlRi9YFA5c"
+    },
+    "14921": {
+      "published": "2014-06-17T13:00:03Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Red Data Girl - Available Now - Trailer",
+      "v": "9tx2RCQaphk"
     },
     "149326": {
       "published": "2022-07-04T03:00:04Z",
@@ -2844,6 +4098,20 @@
       "score": 42,
       "title": "Haganai NEXT - Available Now - Trailer",
       "v": "KkKgOnY9Ujw"
+    },
+    "1498": {
+      "published": "2013-10-01T17:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Black Blood Brothers - Official Trailer - S.A.V.E.",
+      "v": "gGAlIMnaWFQ"
+    },
+    "149874": {
+      "published": "2022-06-07T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Smile of the Arsnotoria the Animation | OFFICIAL TRAILER",
+      "v": "HdN53pv1tog"
     },
     "150075": {
       "published": "2023-03-21T22:00:11Z",
@@ -2866,6 +4134,20 @@
       "title": "Anohana the Movie: The Flower We Saw That Day English Trailer",
       "v": "BaZcfR5aEuI"
     },
+    "150653": {
+      "published": "2023-01-13T00:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Junji Ito Maniac: Japanese Tales of the Macabre | Official Trailer | Netflix Anime",
+      "v": "A6dZKab7mRU"
+    },
+    "150654": {
+      "published": "2025-03-22T01:29:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Moonrise | Official Trailer | Netflix",
+      "v": "e1Y9KkuL2DQ"
+    },
     "150695": {
       "published": "2022-08-12T17:00:23Z",
       "s": "crunchyroll",
@@ -2880,12 +4162,26 @@
       "title": "TRIGUN STAMPEDE | OFFICIAL TRAILER 3",
       "v": "Ma62gzFZv1A"
     },
+    "151117": {
+      "published": "2024-09-26T16:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Mononoke The Movie: The Phantom in the Rain | Official Trailer | Netflix",
+      "v": "NJejE1Xv8vw"
+    },
     "151189": {
       "published": "2023-02-14T02:00:29Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "My Home Hero | OFFICIAL TRAILER 2",
       "v": "mgK-ODr1yFg"
+    },
+    "15119": {
+      "published": "2014-07-29T14:33:08Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Senran Kagura - Available Now - Trailer",
+      "v": "H0TLLClhjOs"
     },
     "151252": {
       "published": "2022-11-19T20:30:04Z",
@@ -2900,6 +4196,13 @@
       "score": 54,
       "title": "Kaguya-sama: Love Is War -The First Kiss That Never Ends- | OFFICIAL TRAILER",
       "v": "W3IvBLpebQ4"
+    },
+    "151679": {
+      "published": "2022-08-06T22:19:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Tale of Outcasts | OFFICIAL TRAILER",
+      "v": "Qr4YTPXlyO8"
     },
     "151801": {
       "published": "2023-07-28T20:00:12Z",
@@ -2929,12 +4232,26 @@
       "title": "Why Raeliana Ended Up At The Duke’s Mansion | OFFICIAL TRAILER",
       "v": "5Sn89wg4_PM"
     },
+    "15195": {
+      "published": "2013-01-18T20:47:59Z",
+      "s": "crunchyrolldubs",
+      "score": 54,
+      "title": "Hetalia: The Beautiful World - OFFICIAL English Subtitled Trailer",
+      "v": "UUT7tHDOqek"
+    },
     "151970": {
       "published": "2023-09-20T16:00:28Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Shangri-la Frontier | OFFICIAL TRAILER 3",
       "v": "ZMpfkJiQrGg"
+    },
+    "152072": {
+      "published": "2023-07-20T23:00:09Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Fluffy Paradise | OFFICIAL TRAILER",
+      "v": "SXXVstCFd8E"
     },
     "152137": {
       "published": "2024-07-06T21:00:14Z",
@@ -2943,12 +4260,26 @@
       "title": "No Longer Allowed in Another World | OFFICIAL TRAILER",
       "v": "WhdIjESjFCI"
     },
+    "152184": {
+      "published": "2024-08-07T05:09:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "True Beauty | OFFICIAL TRAILER",
+      "v": "-ExizS4OJkg"
+    },
     "15227": {
       "published": "2017-06-13T15:58:57Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "In This Corner of the World – Official U.S. Movie Trailer",
       "v": "0p6Ux990ggc"
+    },
+    "152302": {
+      "published": "2024-04-03T16:00:47Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "HIGHSPEED Étoile | OFFICIAL TRAILER",
+      "v": "yqp1raJNIOo"
     },
     "152523": {
       "published": "2022-12-01T22:15:02Z",
@@ -3055,6 +4386,20 @@
       "title": "Haikyu!!: The Dumpster Battle | Official Trailer | Netflix",
       "v": "R9eG8sJvaf8"
     },
+    "153687": {
+      "published": "2023-06-22T19:00:33Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "PSYCHO-PASS: Providence | OFFICIAL TRAILER",
+      "v": "vb6h3cFdq6s"
+    },
+    "1538": {
+      "published": "2010-03-31T18:41:45Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Pumpkin Scissors - Complete Series - New Lower Price 4/6/10 - Anime Trailer",
+      "v": "cG-gWnAjVlY"
+    },
     "153818": {
       "published": "2023-08-25T23:01:02Z",
       "s": "crunchyroll",
@@ -3068,6 +4413,13 @@
       "score": 54,
       "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too | OFFICIAL TRAILER",
       "v": "rpGAv-7i4tI"
+    },
+    "153906": {
+      "published": "2022-07-19T00:00:02Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Tekken: Bloodline | Official Trailer | Netflix Anime",
+      "v": "DkQHVSaND7U"
     },
     "153930": {
       "published": "2022-09-20T01:00:01Z",
@@ -3097,6 +4449,13 @@
       "title": "The Ancient Magus' Bride Season 2 | OFFICIAL TRAILER 3",
       "v": "HtTJRxW7K6Q"
     },
+    "154384": {
+      "published": "2023-08-05T13:00:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tearmoon Empire | OFFICIAL TRAILER",
+      "v": "PlQQjo9kFRo"
+    },
     "154391": {
       "published": "2023-05-20T18:00:00Z",
       "s": "crunchyroll",
@@ -3104,12 +4463,26 @@
       "title": "Am I Actually the Strongest? | OFFICIAL TRAILER",
       "v": "04__Am5v3ms"
     },
+    "154392": {
+      "published": "2025-04-02T13:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Rose of Versailles | Official Trailer | Netflix",
+      "v": "MXmGxRfC014"
+    },
     "154412": {
       "published": "2023-03-22T17:59:55Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Café Terrace and Its Goddesses | OFFICIAL TRAILER",
       "v": "SyoNRBW3g7g"
+    },
+    "154454": {
+      "published": "2023-09-20T16:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Family Circumstances of the Irregular Witch | OFFICIAL TRAILER",
+      "v": "5SoIcru4dts"
     },
     "154459": {
       "published": "2023-10-04T16:00:19Z",
@@ -3160,6 +4533,13 @@
       "title": "My Dress-Up Darling Season 2 | Official Trailer | Crunchyroll",
       "v": "TPMfqN5Uo4E"
     },
+    "154963": {
+      "published": "2024-06-18T16:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ATRI -My Dear Moments- | OFFICIAL TRAILER",
+      "v": "3P2OQ-VnNzM"
+    },
     "154965": {
       "published": "2023-08-23T22:00:08Z",
       "s": "aniplexusa",
@@ -3181,6 +4561,20 @@
       "title": "Rascal Does Not Dream of a Sister Venturing Out  |  OFFICIAL TRAILER (English Dub)",
       "v": "hyVMUzdem38"
     },
+    "154983": {
+      "published": "2023-01-18T00:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Aggretsuko Season 5 | Official Trailer | Netflix",
+      "v": "9X5DB4wlGj4"
+    },
+    "155011": {
+      "published": "2022-09-21T16:00:10Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Berserk: The Golden Age Arc - Memorial Edition | OFFICIAL TRAILER",
+      "v": "H6dkuEdzaFY"
+    },
     "155158": {
       "published": "2023-09-12T11:30:16Z",
       "s": "museasia",
@@ -3188,12 +4582,40 @@
       "title": "《The Saintʼs Magic Power is Omnipotent Season2》 - Teaser PV",
       "v": "Rfbzjt9Oybg"
     },
+    "155202": {
+      "published": "2022-10-07T15:30:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Revenger | OFFICIAL TRAILER",
+      "v": "8mNZABPDT-A"
+    },
+    "155227": {
+      "published": "2024-01-03T17:00:43Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kingdom Season 5 | OFFICIAL TRAILER",
+      "v": "rSYPqsMpWg8"
+    },
     "155418": {
       "published": "2023-05-20T18:00:20Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Great Cleric | OFFICIAL TRAILER",
       "v": "susqUMviH_E"
+    },
+    "155419": {
+      "published": "2023-09-20T16:00:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Stardust Telepath | OFFICIAL TRAILER",
+      "v": "3b2zD_CcAao"
+    },
+    "155527": {
+      "published": "2023-07-15T15:30:00Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "A Girl & Her Guard Dog | OFFICIAL TEASER",
+      "v": "-Q6Y7N3JT_o"
     },
     "155657": {
       "published": "2024-06-27T23:00:35Z",
@@ -3265,6 +4687,13 @@
       "title": "《The Most Heretical Last Boss Queen: From Villainess to Savior》 - Teaser PV",
       "v": "0_-DK4m-AlA"
     },
+    "15605": {
+      "published": "2013-07-11T21:22:58Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Brothers Conflict - Simulcasting Tuesdays at 11pm CT - OFFICIAL PV",
+      "v": "2HVNIagUHlY"
+    },
     "156067": {
       "published": "2022-12-03T19:50:41Z",
       "s": "crunchyroll",
@@ -3286,6 +4715,20 @@
       "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer | OFFICIAL TRAILER",
       "v": "hnhdx8TQ4UU"
     },
+    "1562": {
+      "published": "2009-07-08T01:16:48Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "The Wallflower - The Complete Collection Trailer",
+      "v": "4PAcBUhuaak"
+    },
+    "156632": {
+      "published": "2023-10-04T16:00:30Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Umamusume: Pretty Derby Season 3 | OFFICIAL TRAILER",
+      "v": "Ne81zmJ36s4"
+    },
     "156822": {
       "published": "2024-03-28T16:00:26Z",
       "s": "crunchyroll",
@@ -3293,12 +4736,26 @@
       "title": "That Time I Got Reincarnated as a Slime Season 3 | OFFICIAL TRAILER",
       "v": "gqrkjNpoeQM"
     },
+    "156854": {
+      "published": "2023-04-05T19:00:20Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "THE MARGINAL SERVICE | OFFICIAL TRAILER",
+      "v": "VPhq1kK4mnI"
+    },
     "156891": {
       "published": "2024-01-03T17:00:45Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Weakest Tamer Began a Journey to Pick Up Trash | OFFICIAL TRAILER",
       "v": "s7up7lxyJl4"
+    },
+    "156896": {
+      "published": "2023-03-31T01:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kizuna no Allele | OFFICIAL TRAILER",
+      "v": "YJcn1a3Ap5Q"
     },
     "1571": {
       "published": "2013-10-01T22:30:00Z",
@@ -3314,12 +4771,47 @@
       "title": "Dead Mount Death Play | OFFICIAL TRAILER",
       "v": "_BDDj_4nmNg"
     },
+    "157295": {
+      "published": "2022-12-01T22:15:01Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "My Clueless First Friend | OFFICIAL TRAILER",
+      "v": "M3W-T02g-Z0"
+    },
+    "157371": {
+      "published": "2023-10-13T20:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Bye Bye, Earth | OFFICIAL TRAILER",
+      "v": "5WfX7EpcsE0"
+    },
+    "157692": {
+      "published": "2025-09-13T11:30:11Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dragon Raja II -The Mourner's Eyes- | Official Trailer | Crunchyroll",
+      "v": "CdlC09jSl7U"
+    },
+    "157765": {
+      "published": "2023-04-05T19:00:12Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Stella of the Theater: World Dai Star | OFFICIAL TRAILER",
+      "v": "W28_Z__BBy8"
+    },
     "158028": {
       "published": "2024-03-19T11:30:21Z",
       "s": "museasia",
       "score": 13,
       "title": "My Instant Death Ability is Overpowered - Preview of EP12",
       "v": "S-c4qlhfOok"
+    },
+    "158036": {
+      "published": "2026-03-24T16:00:31Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Eren the Southpaw | Official Trailer | Crunchyroll",
+      "v": "EsQudPqDOQQ"
     },
     "15809": {
       "published": "2014-07-22T19:01:22Z",
@@ -3349,6 +4841,13 @@
       "title": "Unnamed Memory | OFFICIAL TRAILER",
       "v": "s-PhW75-6Hs"
     },
+    "158791": {
+      "published": "2023-09-20T16:00:34Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Firefighter Daigo: Rescuer in Orange | OFFICIAL TRAILER 2",
+      "v": "_Vwi7uFICoE"
+    },
     "158927": {
       "published": "2023-09-28T14:00:21Z",
       "s": "crunchyroll",
@@ -3370,6 +4869,41 @@
       "title": "Blue Exorcist -Shimane Illuminati Saga-  |  OFFICIAL TRAILER (English dub)",
       "v": "TrFVtba-BAo"
     },
+    "159039": {
+      "published": "2024-03-13T16:00:31Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Many Sides of Voice Actor Radio | OFFICIAL TRAILER",
+      "v": "UKxaO-nqeNk"
+    },
+    "159074": {
+      "published": "2023-09-14T03:00:18Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "After-school Hanako-kun | OFFICIAL TRAILER",
+      "v": "i16sCqu4N9w"
+    },
+    "159483": {
+      "published": "2025-06-19T17:01:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Turkey! Time to Strike | Official Trailer | Crunchyroll",
+      "v": "nql08ei297A"
+    },
+    "159490": {
+      "published": "2023-09-21T08:00:00Z",
+      "s": "netflixanime",
+      "score": 44,
+      "title": "Scissor Seven: Season 4 | Trailer #2 | Netflix Anime",
+      "v": "fXEnmqHIKYg"
+    },
+    "159559": {
+      "published": "2023-10-03T10:00:21Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《16bit Sensation: Another Layer》 - PV",
+      "v": "Zugz8bkjAzc"
+    },
     "159831": {
       "published": "2023-07-01T19:30:00Z",
       "s": "crunchyroll",
@@ -3377,12 +4911,26 @@
       "title": "Zom 100: Bucket List of the Dead | OFFICIAL TRAILER",
       "v": "2VvZIEXmltw"
     },
+    "159926": {
+      "published": "2023-07-19T11:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "BASTARD‼️️ - Heavy Metal, Dark Fantasy - Season 2 | Official Trailer | Netflix",
+      "v": "uzD5YA_8mhc"
+    },
     "160090": {
       "published": "2024-06-27T23:00:13Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Mysterious Disappearances | OFFICIAL TRAILER",
       "v": "SPmh5KasUSg"
+    },
+    "1601": {
+      "published": "2009-08-05T17:13:01Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Red Garden - Complete Series & OVA Trailer",
+      "v": "L7ji0FU8vww"
     },
     "16011": {
       "published": "2015-04-13T15:29:45Z",
@@ -3405,12 +4953,26 @@
       "title": "《Reborn!》 - 20th Anniversary PV",
       "v": "Vq4KntJ_Zsk"
     },
+    "160442": {
+      "published": "2023-03-08T09:00:28Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Rokudo's Bad Girls | OFFICIAL TRAILER",
+      "v": "pGJOnJRpAIo"
+    },
     "160447": {
       "published": "2022-02-16T16:07:09Z",
       "s": "crunchyrolldubs",
       "score": 62,
       "title": "Fate/Grand Order Final Singularity The Grand Temple of Time: Solomon | Official Trailer",
       "v": "Tv5Ly8r5jKo"
+    },
+    "160488": {
+      "published": "2024-06-18T16:00:27Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | OFFICIAL TRAILER",
+      "v": "dTLddFTPjUk"
     },
     "16049": {
       "published": "2014-08-19T13:00:04Z",
@@ -3419,12 +4981,26 @@
       "title": "A Certain Scientific Railgun S - Part Two - Available Now - Trailer",
       "v": "pqfKqu6Zh0Y"
     },
+    "160515": {
+      "published": "2023-09-20T16:00:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "OVERTAKE! | OFFICIAL TRAILER",
+      "v": "ra8E2whNNac"
+    },
     "160900": {
       "published": "2023-07-03T23:28:57Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Kingdoms of Ruin | OFFICIAL TRAILER",
       "v": "INM9nR2yVXA"
+    },
+    "161": {
+      "published": "2011-06-07T16:17:14Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Peacemaker - Available Now on DVD - Trailer",
+      "v": "UX_GC9d31VU"
     },
     "161364": {
       "published": "2023-09-20T16:00:13Z",
@@ -3461,6 +5037,13 @@
       "title": "That Time I Got Reincarnated as a Slime: Visions of Coleus | OFFICIAL TRAILER",
       "v": "xhGFvATX-cE"
     },
+    "161992": {
+      "published": "2023-05-20T18:00:28Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "I Shall Survive Using Potions! | OFFICIAL TRAILER",
+      "v": "nuSwRQ79o1I"
+    },
     "162002": {
       "published": "2024-01-03T17:00:14Z",
       "s": "crunchyroll",
@@ -3474,6 +5057,20 @@
       "score": 54,
       "title": "Doctor Elise: The Royal Lady with the Lamp | OFFICIAL TRAILER",
       "v": "F8FgpUmnXfY"
+    },
+    "162147": {
+      "published": "2023-11-14T21:00:02Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Pokémon Concierge | Official Trailer | Netflix",
+      "v": "jfwLZniY9mE"
+    },
+    "162291": {
+      "published": "2023-07-21T03:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 2 | Official Trailer | Netflix",
+      "v": "9z9o7T2BMsY"
     },
     "162669": {
       "published": "2025-10-03T15:00:55Z",
@@ -3496,12 +5093,26 @@
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You | Official Trailer",
       "v": "ls2VNcSifi4"
     },
+    "162785": {
+      "published": "2024-09-18T16:00:45Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "TsumaSho | OFFICIAL TRAILER",
+      "v": "kIudl9WJAiU"
+    },
     "162804": {
       "published": "2024-10-12T01:00:37Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Alya Sometimes Hides Her Feelings in Russian | OFFICIAL TRAILER",
       "v": "vQ2ZFOrzDVs"
+    },
+    "162890": {
+      "published": "2025-10-01T16:01:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "GINTAMA - Mr.Ginpachi's Zany Class | Official Trailer | Crunchyroll",
+      "v": "e5x47GIm6Po"
     },
     "162896": {
       "published": "2024-10-08T20:00:10Z",
@@ -3517,6 +5128,13 @@
       "title": "Undead Murder Farce | OFFICIAL TRAILER 2",
       "v": "VY7pSxO5GFw"
     },
+    "162984": {
+      "published": "2023-10-10T15:00:13Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "KamiErabi GOD.app | OFFICIAL TRAILER 3",
+      "v": "I-ojbG1jHvk"
+    },
     "162985": {
       "published": "2023-12-20T16:00:00Z",
       "s": "crunchyroll",
@@ -3531,12 +5149,26 @@
       "title": "Villainess Level 99: I May Be the Hidden Boss but I’m Not the Demon Lord | OFFICIAL TRAILER",
       "v": "XHGxK08RGHU"
     },
+    "163077": {
+      "published": "2024-06-18T16:00:59Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Quality Assurance in Another World | OFFICIAL TRAILER 2",
+      "v": "zRBgezLwtdE"
+    },
     "163078": {
       "published": "2024-03-26T04:00:11Z",
       "s": "museasia",
       "score": 43,
       "title": "《Jellyfish Can’t Swim in the Night》 - Main PV",
       "v": "Mc3FFUMqhrU"
+    },
+    "163079": {
+      "published": "2023-07-06T11:00:20Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《Sugar Apple Fairy Tale》 - Part 2 Main PV",
+      "v": "JT-ULzWPeJI"
     },
     "163132": {
       "published": "2023-06-27T23:00:31Z",
@@ -3566,6 +5198,13 @@
       "title": "Demon Lord 2099 | OFFICIAL TRAILER 2",
       "v": "xe0r9RX4YFg"
     },
+    "163137": {
+      "published": "2023-05-23T03:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Ōoku: The Inner Chambers | Official Trailer | Netflix",
+      "v": "lL2yLQtxWrw"
+    },
     "163139": {
       "published": "2024-04-21T23:00:11Z",
       "s": "crunchyroll",
@@ -3580,12 +5219,33 @@
       "title": "A Returner’s Magic Should Be Special | OFFICIAL TRAILER",
       "v": "o4IcroeQPqw"
     },
+    "163144": {
+      "published": "2025-12-06T10:30:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "TRIGUN STARGAZE | Official Trailer 2 | Crunchyroll",
+      "v": "JBYLkW--zmI"
+    },
     "163146": {
       "published": "2024-10-01T15:00:47Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "BLUE LOCK 2nd Season | Official Trailer 2 | Crunchyroll",
       "v": "hTfnf4y-sgQ"
+    },
+    "163151": {
+      "published": "2023-08-25T23:01:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "HIGH CARD Season 2 | OFFICIAL TRAILER",
+      "v": "qRXgjgkC8WE"
+    },
+    "163205": {
+      "published": "2023-03-27T23:00:17Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Malevolent Spirits: Mononogatari Cour 2 | OFFICIAL TRAILER",
+      "v": "u8t49ugAErk"
     },
     "163270": {
       "published": "2024-04-18T21:00:14Z",
@@ -3601,6 +5261,13 @@
       "title": "The Quintessential Quintuplets Specials | Official Trailer | Crunchyroll",
       "v": "DcfGA5V0O5Q"
     },
+    "163571": {
+      "published": "2023-06-28T11:00:33Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《BanG Dream! It's MyGO!!!!!》 - Visual Art PV",
+      "v": "ctS2nfGL34g"
+    },
     "164172": {
       "published": "2024-09-18T16:00:52Z",
       "s": "crunchyroll",
@@ -3615,12 +5282,26 @@
       "title": "Girls Band Cry | OFFICIAL TRAILER",
       "v": "sDY0qXuz4BY"
     },
+    "164226": {
+      "published": "2023-10-05T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Concierge | OFFICIAL TRAILER",
+      "v": "0r4lFOkTiAc"
+    },
     "164244": {
       "published": "2023-10-13T20:00:06Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Foolish Angel Dances with the Devil | OFFICIAL TRAILER",
       "v": "KC1Hz-4L1yY"
+    },
+    "164312": {
+      "published": "2023-10-10T15:00:09Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Yuzuki Family’s Four Sons | OFFICIAL TRAILER",
+      "v": "7giL7JiaELI"
     },
     "164702": {
       "published": "2023-08-25T23:00:22Z",
@@ -3636,12 +5317,40 @@
       "title": "Attack on Titan - OFFICIAL English Subtitled Trailer 3",
       "v": "luYOt2-c2TI"
     },
+    "165070": {
+      "published": "2023-09-20T16:00:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "My New Boss is Goofy | OFFICIAL TRAILER",
+      "v": "UrPlCGyYIFU"
+    },
     "165254": {
       "published": "2023-12-05T00:00:24Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "BUCCHIGIRI?! | OFFICIAL TRAILER 2",
       "v": "v4qkLAquNoA"
+    },
+    "165445": {
+      "published": "2025-03-19T18:30:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ZatsuTabi -That's Journey- | Official Trailer | Crunchyroll",
+      "v": "UIrkmerVKPw"
+    },
+    "165530": {
+      "published": "2025-09-17T16:00:17Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Fated Magical Princess: Who Made Me a Princess | Official Trailer | Crunchyroll",
+      "v": "AOhuwqZptjk"
+    },
+    "165598": {
+      "published": "2024-01-12T17:00:46Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Brave Bang Bravern! | OFFICIAL TRAILER",
+      "v": "zAS2PABgej4"
     },
     "165790": {
       "published": "2024-09-18T16:00:17Z",
@@ -3664,6 +5373,13 @@
       "title": "Danganronpa - The Animation - Simulcasting Fridays at 4pm CT - OFFICIAL PV",
       "v": "LiXKBodKM_Y"
     },
+    "166": {
+      "published": "2012-08-21T19:56:13Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Samurai 7 - OFFICIAL TRAILER - The Sword-Wielding Epic Comes to Toonami",
+      "v": "TQaRYHwet70"
+    },
     "166240": {
       "published": "2024-07-10T22:00:12Z",
       "s": "aniplexusa",
@@ -3684,6 +5400,13 @@
       "score": 54,
       "title": "The Ancient Magus' Bride Season 2 Part 2 | OFFICIAL TRAILER",
       "v": "ZQihrw4Nbyc"
+    },
+    "166477": {
+      "published": "2024-06-18T16:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Café Terrace and Its Goddesses Season 2 | OFFICIAL TRAILER",
+      "v": "6IO5NCshLOk"
     },
     "166522": {
       "published": "2024-01-03T17:00:00Z",
@@ -3706,6 +5429,13 @@
       "title": "MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc | MAIN TRAILER (English dub)",
       "v": "1ZO0TGXw6SM"
     },
+    "166611": {
+      "published": "2024-07-07T01:30:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Natsume’s Book of Friends Season 7 | Official Trailer | Crunchyroll",
+      "v": "3x1eH-wUNnM"
+    },
     "166617": {
       "published": "2025-09-13T11:30:11Z",
       "s": "crunchyroll",
@@ -3720,6 +5450,27 @@
       "title": "Valvrave the Liberator Trailer",
       "v": "cbSnPbY6eiA"
     },
+    "166699": {
+      "published": "2024-10-18T23:30:06Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "OKITSURA: Fell in Love with an Okinawan Girl | Official Trailer | Crunchyroll",
+      "v": "QX-hpkk-yqs"
+    },
+    "166700": {
+      "published": "2024-06-18T16:00:12Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Twilight Out of Focus | OFFICIAL TRAILER",
+      "v": "H3uTBf3LXuo"
+    },
+    "166715": {
+      "published": "2024-03-26T03:00:19Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Black Butler -Public School Arc- | OFFICIAL TRAILER 4",
+      "v": "N1SqCDrwPLc"
+    },
     "166794": {
       "published": "2023-08-25T23:01:03Z",
       "s": "crunchyroll",
@@ -3733,6 +5484,13 @@
       "score": 54,
       "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | OFFICIAL TRAILER",
       "v": "wwKZYTsxIhk"
+    },
+    "166896": {
+      "published": "2023-10-01T11:00:28Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《Protocol: Rain》 - Main PV",
+      "v": "fJQ34Rx0u8A"
     },
     "167087": {
       "published": "2024-01-10T16:00:07Z",
@@ -3755,12 +5513,33 @@
       "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time | OFFICIAL TRAILER",
       "v": "bVrzN-r4MKA"
     },
+    "167144": {
+      "published": "2024-10-12T01:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Love Is Indivisible by Twins | OFFICIAL TRAILER",
+      "v": "M9O0pJFe0j8"
+    },
+    "167146": {
+      "published": "2023-11-17T21:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Demon Prince of Momochi House | OFFICIAL TRAILER 3",
+      "v": "-8IGXQJiltk"
+    },
     "167152": {
       "published": "2026-02-14T14:00:40Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Sentenced to Be a Hero | Official Trailer 2 | Crunchyroll",
       "v": "Q17OhsaQFbk"
+    },
+    "167404": {
+      "published": "2024-07-03T21:02:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dawn of the Monsters | Official Trailer | Crunchyroll Game Vault",
+      "v": "3Za6sB6YUWI"
     },
     "167419": {
       "published": "2024-06-18T16:00:29Z",
@@ -3769,6 +5548,27 @@
       "title": "Why Does Nobody Remember Me in This World | OFFICIAL TRAILER",
       "v": "esP6nOg4LbQ"
     },
+    "167820": {
+      "published": "2023-09-27T09:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "GOOD NIGHT WORLD | Official Trailer #2 | Netflix",
+      "v": "fvAthAUcKiA"
+    },
+    "167927": {
+      "published": "2024-03-13T16:00:39Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Oblivion Battery | OFFICIAL TRAILER",
+      "v": "ltJa3i_4GyQ"
+    },
+    "167991": {
+      "published": "2024-06-18T16:00:47Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Delico’s Nursery | OFFICIAL TRAILER",
+      "v": "wRmrQj57gPw"
+    },
     "168138": {
       "published": "2024-06-27T23:00:02Z",
       "s": "crunchyroll",
@@ -3776,12 +5576,33 @@
       "title": "Grandpa and Grandma Turn Young Again | OFFICIAL TRAILER",
       "v": "awdUSdy0k9g"
     },
+    "168194": {
+      "published": "2023-10-13T20:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Sengoku Youko | OFFICIAL TRAILER",
+      "v": "Mt7VlvpjEnU"
+    },
     "168374": {
       "published": "2023-10-13T20:00:00Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! | OFFICIAL TRAILER",
       "v": "aPSmBt6GeqA"
+    },
+    "168500": {
+      "published": "2024-10-02T16:00:20Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Demon Lord Retry! R | OFFICIAL TRAILER 2",
+      "v": "LfumzgO3aXw"
+    },
+    "168623": {
+      "published": "2024-07-03T16:00:26Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | OFFICIAL TRAILER",
+      "v": "IDiP1aauaQc"
     },
     "168872": {
       "published": "2024-07-09T15:00:00Z",
@@ -3803,6 +5624,20 @@
       "score": 43,
       "title": "Silver Spoon Trailer",
       "v": "lqbo21SmNd0"
+    },
+    "169295": {
+      "published": "2024-12-27T03:30:04Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《BanG Dream! Ave Mujica》 - Main PV",
+      "v": "AKSHRvq4brE"
+    },
+    "169362": {
+      "published": "2023-12-13T17:00:55Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "BURN THE WITCH #0.8 | OFFICIAL TRAILER",
+      "v": "s4u0BWuN-QY"
     },
     "169417": {
       "published": "2024-03-31T16:00:03Z",
@@ -3832,6 +5667,48 @@
       "title": "I Made Friends with the Second Prettiest Girl in My Class | Official Trailer | Crunchyroll",
       "v": "3mTUxCIyJhA"
     },
+    "169582": {
+      "published": "2026-06-17T16:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Insipid Prince's Furtive Grab for The Throne | Official Trailer | Crunchyroll",
+      "v": "BQgVB3UCfno"
+    },
+    "1696": {
+      "published": "2009-04-02T19:59:59Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Murder Princess - Complete Box Set Trailer",
+      "v": "ffB38PePGYQ"
+    },
+    "169692": {
+      "published": "2024-07-24T15:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "KENGAN ASHURA Season 2 Part.2 | Official Trailer | Netflix",
+      "v": "79YlwrczmGk"
+    },
+    "169698": {
+      "published": "2024-03-02T16:00:22Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tadaima, Okaeri | OFFICIAL TRAILER",
+      "v": "gfjn7t4Ty90"
+    },
+    "1699": {
+      "published": "2011-09-14T19:42:15Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Romeo x Juliet - S.A.V.E. - Available 11.8.11 - Trailer",
+      "v": "6i_fqNOo69U"
+    },
+    "169927": {
+      "published": "2024-03-29T16:00:29Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Studio Apartment, Good Lighting, Angel Included | OFFICIAL TRAILER",
+      "v": "O06j982UG58"
+    },
     "169935": {
       "published": "2024-01-03T17:00:48Z",
       "s": "crunchyroll",
@@ -3860,6 +5737,13 @@
       "title": "Dragon Ball DAIMA | OFFICIAL TRAILER",
       "v": "0wMBz2xdI_s"
     },
+    "170113": {
+      "published": "2025-06-18T16:01:34Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Private Tutor to the Duke's Daughter | Official Trailer | Crunchyroll",
+      "v": "wkhwG86HeeI"
+    },
     "170130": {
       "published": "2023-12-09T18:00:08Z",
       "s": "crunchyroll",
@@ -3881,12 +5765,26 @@
       "title": "Yakuza Fiancé: Raise wa Tanin ga Ii | Official Trailer | Crunchyroll",
       "v": "SZwEQ6KV75U"
     },
+    "170503": {
+      "published": "2024-04-03T16:00:47Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "YATAGARASU: The Raven Does Not Choose Its Master | OFFICIAL TRAILER",
+      "v": "x-L6oSJ9m3g"
+    },
     "170577": {
       "published": "2025-05-31T01:01:08Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Campfire Cooking in Another World with my Absurd Skill Season 2 | Official Trailer | Crunchyroll",
       "v": "yeYZJipfWjk"
+    },
+    "170650": {
+      "published": "2024-12-13T17:00:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "I Want to Escape from Princess Lessons | Official Trailer | Crunchyroll",
+      "v": "8i1CkseqtxQ"
     },
     "170695": {
       "published": "2024-06-28T11:00:13Z",
@@ -3902,12 +5800,40 @@
       "title": "THE NEW GATE | OFFICIAL TRAILER",
       "v": "zr2yisUUnc8"
     },
+    "170891": {
+      "published": "2024-07-03T16:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Narenare -Cheer for You! | OFFICIAL TRAILER",
+      "v": "O2wKUAAra9E"
+    },
     "170892": {
       "published": "2024-12-13T17:00:01Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Toilet-bound Hanako-kun Season 2 | OFFICIAL TRAILER 2",
       "v": "0pRRgTl7QbE"
+    },
+    "170893": {
+      "published": "2024-09-18T16:00:59Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "After-school Hanako-kun Season 2 | OFFICIAL TEASER",
+      "v": "xhHg1GikJ8c"
+    },
+    "170916": {
+      "published": "2024-12-13T22:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Promise of Wizard | Official Trailer | Crunchyroll",
+      "v": "NJYgaw_ZgFs"
+    },
+    "170935": {
+      "published": "2023-12-19T15:00:44Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Great Pretender razbliuto | Official Trailer | In Theaters January 9",
+      "v": "vJyey4UNi7E"
     },
     "170942": {
       "published": "2024-09-27T07:00:00Z",
@@ -3930,6 +5856,20 @@
       "title": "A Journey Through Another World: Raising Kids While Adventuring | OFFICIAL TRAILER",
       "v": "Ihn54JDvsbQ"
     },
+    "171038": {
+      "published": "2024-09-18T16:00:50Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Nina the Starry Bride | OFFICIAL TRAILER 2",
+      "v": "lLHlMf4q2MU"
+    },
+    "171040": {
+      "published": "2024-03-13T16:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Astro Note | OFFICIAL TRAILER 2",
+      "v": "5AG73Z-lENI"
+    },
     "171046": {
       "published": "2025-07-29T18:00:28Z",
       "s": "aniplexusa",
@@ -3943,6 +5883,20 @@
       "score": 54,
       "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke | Official Trailer",
       "v": "60SLy9pLlsE"
+    },
+    "171115": {
+      "published": "2024-05-23T23:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Rising Impact Season 1 | Official Trailer | Netflix",
+      "v": "o-Ldz-3j1cE"
+    },
+    "171291": {
+      "published": "2024-09-05T14:00:39Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Trapezium | OFFICIAL TRAILER | In Theaters September 18",
+      "v": "jXhZtFmAqAs"
     },
     "171457": {
       "published": "2024-06-18T16:00:12Z",
@@ -3964,6 +5918,20 @@
       "score": 34,
       "title": "THE ONE PIECE | Official Teaser | Netflix Anime",
       "v": "hgnLd8vZkrE"
+    },
+    "171637": {
+      "published": "2025-01-10T21:00:21Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "Rurouni Kenshin -Kyoto Disturbance- | OFFICIAL TRAILER #3 (English Dub)",
+      "v": "Gbg8SmgQFCQ"
+    },
+    "171642": {
+      "published": "2024-12-13T17:00:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "MF GHOST 2nd Season | OFFICIAL TRAILER",
+      "v": "ZIA9Di0IwdE"
     },
     "172019": {
       "published": "2024-12-14T02:00:27Z",
@@ -3992,6 +5960,20 @@
       "score": 34,
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | OFFICIAL TEASER",
       "v": "nCxoP8-TH7Q"
+    },
+    "172355": {
+      "published": "2024-08-03T13:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Ron Kamonohashi’s Forbidden Deductions Season 2 | OFFICIAL TRAILER",
+      "v": "GTFx_ocEqcU"
+    },
+    "172416": {
+      "published": "2024-06-26T04:00:17Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《A Nobody's Way Up to an Exploration Hero》 - Teaser PV",
+      "v": "UL-jL56WZRc"
     },
     "172439": {
       "published": "2024-12-13T17:00:18Z",
@@ -4049,6 +6031,13 @@
       "title": "Naruto Shippuden Special: Kakashi Chronicles Preview HD",
       "v": "2GsDQdvskcA"
     },
+    "173523": {
+      "published": "2025-09-17T16:00:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Mangaka’s Weirdly Wonderful Workplace | Official Trailer | Crunchyroll",
+      "v": "SdF0d5OzIw0"
+    },
     "173533": {
       "published": "2024-06-18T16:00:52Z",
       "s": "crunchyroll",
@@ -4063,6 +6052,13 @@
       "title": "The Strongest Magician in the Demon Lord’s Army was a Human | OFFICIAL TRAILER",
       "v": "aJS0wtA0p0Q"
     },
+    "173692": {
+      "published": "2025-09-17T16:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | Official Trailer | Crunchyroll",
+      "v": "2_3PCLR17Rw"
+    },
     "173693": {
       "published": "2024-10-25T09:40:00Z",
       "s": "museasia",
@@ -4076,6 +6072,20 @@
       "score": 54,
       "title": "The Rising of the Shield Hero Season 4 | Official Trailer | Crunchyroll",
       "v": "E9jL_0OHiXA"
+    },
+    "174": {
+      "published": "2012-10-30T13:00:35Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Fafner - Heaven and Earth - Movie - Available Now on BD/DVD Combo - Trailer",
+      "v": "nczFTYmjBkI"
+    },
+    "174044": {
+      "published": "2024-06-18T16:00:39Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "MAYONAKA PUNCH | OFFICIAL TRAILER",
+      "v": "jtTGkbjtrbM"
     },
     "174576": {
       "published": "2024-06-27T01:00:07Z",
@@ -4098,6 +6108,13 @@
       "title": "The Shiunji Family Children | Official Trailer | Crunchyroll",
       "v": "kcLW6u9KrUI"
     },
+    "174914": {
+      "published": "2025-08-09T17:45:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Dark History of the Reincarnated Villainess | Official Trailer | Crunchyroll",
+      "v": "x-bzBbBHap8"
+    },
     "175019": {
       "published": "2024-10-30T23:00:13Z",
       "s": "crunchyroll",
@@ -4105,12 +6122,33 @@
       "title": "Let This Grieving Soul Retire | Official Trailer | Crunchyroll",
       "v": "LtKgt4BBPO8"
     },
+    "175124": {
+      "published": "2025-06-06T12:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Nyaight of the Living Cat | OFFICIAL TRAILER 3",
+      "v": "4REA4evnf5M"
+    },
+    "175409": {
+      "published": "2024-07-07T00:17:56Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Anyway, I’m Falling in Love with You | Official Trailer | Crunchyroll",
+      "v": "qNid7YYHeRQ"
+    },
     "175443": {
       "published": "2024-12-13T17:00:17Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Honey Lemon Soda | OFFICIAL TRAILER 2",
       "v": "D1Uck5jSeXE"
+    },
+    "175450": {
+      "published": "2024-07-03T16:00:35Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "My Wife Has No Emotion | OFFICIAL TRAILER",
+      "v": "_w6kmcxI7JU"
     },
     "175872": {
       "published": "2025-03-19T16:00:46Z",
@@ -4154,6 +6192,20 @@
       "title": "《Chained Soldier Season 2》 - Main PV",
       "v": "7lrfXfRltdE"
     },
+    "176287": {
+      "published": "2024-05-05T23:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Baki Hanma VS Kengan Ashura | Official Trailer | Netflix",
+      "v": "nWMbcamVl7Y"
+    },
+    "176292": {
+      "published": "2024-12-10T00:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse: Season 2 | Official Trailer | Netflix Anime",
+      "v": "t1iFTbwtURk"
+    },
     "176301": {
       "published": "2024-07-07T01:04:35Z",
       "s": "crunchyroll",
@@ -4175,12 +6227,33 @@
       "title": "Sasaki and Peeps Season 2 | Official Trailer | Crunchyroll",
       "v": "w7UIM4myqm4"
     },
+    "176370": {
+      "published": "2024-11-02T14:30:01Z",
+      "s": "crunchyroll",
+      "score": 19,
+      "title": "Tis’ Time for “Torture” Princess Season 2 | OFFICIAL TEASER",
+      "v": "3SBNfohMGlg"
+    },
     "176508": {
       "published": "2024-12-13T22:00:18Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Shangri-la Frontier Season 2 | OFFICIAL TRAILER",
       "v": "VA0rTiDlm8w"
+    },
+    "176509": {
+      "published": "2026-02-04T16:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "BAKI-DOU: The Invincible Samurai | Official Trailer | Netflix Anime",
+      "v": "_TYx9iNvk9E"
+    },
+    "17651": {
+      "published": "2013-06-28T20:00:16Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Day Break Illusion Trailer",
+      "v": "2ILoti7trvY"
     },
     "176642": {
       "published": "2024-12-13T17:00:00Z",
@@ -4189,12 +6262,47 @@
       "title": "Ameku M.D.: Doctor Detective | Official Trailer | Crunchyroll",
       "v": "0Hr5Gu8nG8w"
     },
+    "176702": {
+      "published": "2024-12-05T23:30:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Teogonia | Official Trailer | Crunchyroll",
+      "v": "3CdMyQQlnW0"
+    },
     "177104": {
       "published": "2024-11-20T00:00:24Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Most Notorious \"Talker\" Runs the World’s Greatest Clan | OFFICIAL TRAILER",
       "v": "dpr9LCQsETM"
+    },
+    "177120": {
+      "published": "2025-03-19T18:30:42Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Ninja and an Assassin Under One Roof | Official Trailer | Crunchyroll",
+      "v": "fcUnjQyNOLo"
+    },
+    "177159": {
+      "published": "2024-12-13T22:00:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Momentary Lily | Official Trailer | Crunchyroll",
+      "v": "qfmzZi6z7wo"
+    },
+    "177175": {
+      "published": "2025-06-18T16:01:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Arknights: RISE FROM EMBER | Official Trailer | Crunchyroll",
+      "v": "tqitiSH6tWY"
+    },
+    "177271": {
+      "published": "2025-09-03T23:00:26Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kakuriyo -Bed & Breakfast for Spirits- 2 | Official Trailer | Crunchyroll",
+      "v": "CeZKkVy8Vj8"
     },
     "177385": {
       "published": "2025-12-16T17:00:21Z",
@@ -4216,6 +6324,13 @@
       "score": 54,
       "title": "Medaka Kuroiwa Is Impervious to My Charms | Official Trailer | Crunchyroll",
       "v": "ol3VEokpIi4"
+    },
+    "177637": {
+      "published": "2026-06-03T16:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Goodbye, Lara | Official Trailer | Crunchyroll",
+      "v": "iPEeNBtnIOY"
     },
     "177687": {
       "published": "2025-12-01T23:00:00Z",
@@ -4245,6 +6360,13 @@
       "title": "Sakamoto Days | Final Trailer | Netflix",
       "v": "-kscQQq0Xs8"
     },
+    "177814": {
+      "published": "2024-08-24T23:35:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "TERMINATOR ZERO | NSFW | Official Trailer | Netflix",
+      "v": "wNKu76y-U_0"
+    },
     "177937": {
       "published": "2025-09-09T10:00:15Z",
       "s": "crunchyroll",
@@ -4265,6 +6387,20 @@
       "score": 54,
       "title": "Gachiakuta | MAIN TRAILER",
       "v": "yeRvDchyo44"
+    },
+    "178046": {
+      "published": "2025-03-19T16:00:27Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "GUILTY GEAR STRIVE: DUAL RULERS | Official Trailer | Crunchyroll",
+      "v": "CcMgvwfQPHY"
+    },
+    "178312": {
+      "published": "2024-12-05T23:30:06Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Farmagia | Official Trailer | Crunchyroll",
+      "v": "MfSUq7AxHis"
     },
     "178433": {
       "published": "2025-06-18T16:00:40Z",
@@ -4287,12 +6423,33 @@
       "title": "Even Given the Worthless \"Appraiser\" Class, I’m Actually the Strongest | OFFICIAL TRAILER",
       "v": "G5BdKi-xkP0"
     },
+    "178550": {
+      "published": "2024-12-05T23:30:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Unnamed Memory Season 2 | Official Trailer | Crunchyroll",
+      "v": "iAErIuzxAQ0"
+    },
     "178680": {
       "published": "2025-05-09T19:02:21Z",
       "s": "aniplexusa",
       "score": 55,
       "title": "WIND BREAKER Season 2 | OFFICIAL ENGLISH DUB TRAILER",
       "v": "3CD_f6pvBPo"
+    },
+    "178701": {
+      "published": "2025-03-20T13:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Once Upon a Witch's Death | Official Trailer | Crunchyroll",
+      "v": "0lkvDeo6wI8"
+    },
+    "178707": {
+      "published": "2026-04-08T23:00:04Z",
+      "s": "aniplexusa",
+      "score": 53,
+      "title": "The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc- | OFFICIAL TRAILER #2",
+      "v": "a_9GBimvx9Y"
     },
     "178754": {
       "published": "2025-07-11T07:00:00Z",
@@ -4336,12 +6493,26 @@
       "title": "GROTESQQQUE  |  OFFICIAL TRAILER",
       "v": "oqZaJgF4sfE"
     },
+    "179054": {
+      "published": "2025-03-11T19:00:43Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Black Butler -Emerald Witch Arc- | Official Trailer 2 | Crunchyroll",
+      "v": "ue_GjpV8nrc"
+    },
     "179062": {
       "published": "2025-11-30T07:56:20Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Fire Force Season 3 Part 2 | Official Trailer 2 | Crunchyroll",
       "v": "voLZJvdwUEE"
+    },
+    "179068": {
+      "published": "2024-07-07T01:08:29Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Omniscient Reader | Official Trailer | Crunchyroll",
+      "v": "jzIGTLlqeRE"
     },
     "179297": {
       "published": "2024-12-05T23:30:13Z",
@@ -4357,12 +6528,47 @@
       "title": "Headhunted to Another World: From Salaryman to Big Four! | Official Trailer | Crunchyroll",
       "v": "wdTLoQkKsNo"
     },
+    "179706": {
+      "published": "2025-06-07T01:30:41Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "Lycoris Recoil -Friends are thieves of time.- | OFFICIAL ENGLISH DUB TRAILER",
+      "v": "yfMAO1pJMWo"
+    },
+    "179828": {
+      "published": "2025-05-31T01:00:34Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Couple of Cuckoos Season 2 | Official Trailer | Crunchyroll",
+      "v": "QFGvO9tnu5k"
+    },
+    "179852": {
+      "published": "2025-07-24T23:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Mononoke The Movie: Chapter II - The Ashes of Rage | Official Trailer | Netflix Anime",
+      "v": "5gYyveM2FV4"
+    },
+    "179874": {
+      "published": "2026-09-08T03:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent | Official Trailer #2 | Netflix Anime",
+      "v": "tekO9rGxAU4"
+    },
     "179876": {
       "published": "2026-09-23T15:59:48Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "DARK MACHINE THE ANIMATION | Official Trailer | Crunchyroll",
       "v": "xEaFxqBOKSI"
+    },
+    "179879": {
+      "published": "2025-06-18T16:00:49Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Betrothed to my Sister’s Ex | Official Trailer | Crunchyroll",
+      "v": "WjbLhMyN--Y"
     },
     "179965": {
       "published": "2025-04-08T18:00:00Z",
@@ -4378,12 +6584,40 @@
       "title": "Secrets of the Silent Witch | Official Trailer | Crunchyroll",
       "v": "0OBF29HoV4A"
     },
+    "179979": {
+      "published": "2025-04-02T16:00:44Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Aharen-san wa Hakarenai Season 2 | Official Trailer | Crunchyroll",
+      "v": "VY2KPeCfTZ4"
+    },
+    "179992": {
+      "published": "2025-08-02T13:01:24Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Mechanical Marie | Official Trailer | Crunchyroll",
+      "v": "lQOzq30YKyQ"
+    },
+    "179998": {
+      "published": "2025-04-04T16:01:13Z",
+      "s": "crunchyroll",
+      "score": 44,
+      "title": "Kaiju No. 8: Mission Recon | DUB TRAILER",
+      "v": "sH8WxHKk-zs"
+    },
     "18": {
       "published": "2010-03-31T19:38:11Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Initial D 4th Stage Part 1 - On DVD 5/11/10 - Anime Trailer",
       "v": "T0HCsCYVM-Y"
+    },
+    "180": {
+      "published": "2011-07-19T18:19:25Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Vandread Complete Series - Anime Classics - Available 09.13.2011 - Trailer",
+      "v": "kIQMpvNgIzk"
     },
     "180082": {
       "published": "2025-10-01T16:00:07Z",
@@ -4399,12 +6633,33 @@
       "title": "The Exiled Heavy Knight Knows How to Game the System | Official Trailer 2 | Crunchyroll",
       "v": "TrwSxHK3U6Y"
     },
+    "180228": {
+      "published": "2026-03-04T02:00:22Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Go For It, Nakamura-kun!! | Official Trailer | Crunchyroll",
+      "v": "VEIrcuamXMM"
+    },
     "180367": {
       "published": "2025-04-28T10:00:00Z",
       "s": "netflixanime",
       "score": 56,
       "title": "WITCH WATCH | Official Trailer (English Dub) | Netflix Anime",
       "v": "0D5vUtCLHrM"
+    },
+    "180425": {
+      "published": "2025-06-03T23:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "With You and the Rain | Official Trailer | Crunchyroll",
+      "v": "TUd3sDJOipY"
+    },
+    "180460": {
+      "published": "2025-06-18T16:01:16Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Detectives These Days Are Crazy! | Official Trailer | Crunchyroll",
+      "v": "joAkZeNg9Qk"
     },
     "180523": {
       "published": "2025-09-17T16:01:09Z",
@@ -4434,12 +6689,26 @@
       "title": "《SHIBOYUGI:  Playing Death Games to Put Food on the Table》 - Game PV",
       "v": "lOFFsBFSZqc"
     },
+    "180794": {
+      "published": "2025-06-18T16:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Cultural Exchange with a Game Centre Girl | Official Trailer | Crunchyroll",
+      "v": "4bgQPTSN4dY"
+    },
     "180812": {
       "published": "2025-01-03T09:00:29Z",
       "s": "museasia",
       "score": 33,
       "title": "《I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!》 - Teaser PV",
       "v": "VWXRgiM9tRo"
+    },
+    "180825": {
+      "published": "2025-04-02T16:01:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Maebashi Witches | Official Trailer | Crunchyroll",
+      "v": "r9Y7nj_J07o"
     },
     "180929": {
       "published": "2025-06-27T22:30:06Z",
@@ -4455,6 +6724,20 @@
       "title": "NO-RIN - PV - Official English Subtitles",
       "v": "IegVZaIbNWU"
     },
+    "1810": {
+      "published": "2009-02-16T18:09:24Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Shattered Angels - Complete Box Set Trailer",
+      "v": "pwRCqy9LILg"
+    },
+    "181078": {
+      "published": "2025-03-19T16:01:22Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Bye Bye, Earth Season 2 | Official Trailer | Crunchyroll",
+      "v": "zuhNKfwgya0"
+    },
     "18115": {
       "published": "2013-09-18T20:00:05Z",
       "s": "aniplexusa",
@@ -4468,6 +6751,13 @@
       "score": 43,
       "title": "SERVANT x SERVICE Trailer",
       "v": "2c1GN5O6mx4"
+    },
+    "181443": {
+      "published": "2025-09-13T11:30:40Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "DARK MOON: THE BLOOD ALTAR | Official Trailer 2 | Crunchyroll",
+      "v": "knWebSSmDSA"
     },
     "181444": {
       "published": "2025-06-06T03:00:00Z",
@@ -4483,12 +6773,40 @@
       "title": "May I Ask for One Final Thing? | Official Trailer 2 | Crunchyroll",
       "v": "hXQi1-eyBVg"
     },
+    "181449": {
+      "published": "2025-10-14T01:54:14Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "VIRGIN PUNK Clockwork Girl | OFFICIAL ENGLISH DUB TRAILER",
+      "v": "i4q6XHaeOdk"
+    },
+    "1815": {
+      "published": "2013-01-22T15:00:58Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Shakugan no Shana: The Movie and OVA - Available Now on BD/DVD Combo - Trailer",
+      "v": "YILh7RYtVnQ"
+    },
     "18179": {
       "published": "2023-02-11T02:00:10Z",
       "s": "crunchyroll",
       "score": 39,
       "title": "Yowamushi Pedal Limit Break | OFFICIAL TRAILER 2",
       "v": "H791Yf1JweM"
+    },
+    "181839": {
+      "published": "2025-09-24T15:00:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | Official Trailer | Crunchyroll",
+      "v": "RgJW1y1_ig0"
+    },
+    "182060": {
+      "published": "2025-03-19T17:00:52Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Gorilla God’s Go-To Girl | Official Trailer | Crunchyroll",
+      "v": "bcWpnLAJWyY"
     },
     "182205": {
       "published": "2026-02-25T17:01:36Z",
@@ -4546,6 +6864,20 @@
       "title": "【OSHI NO KO】 Season 3 | Official Trailer 3 | Crunchyroll",
       "v": "E20clulzE5E"
     },
+    "182616": {
+      "published": "2026-07-25T14:00:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Elusive Samurai Season 2 | Official Trailer | Crunchyroll",
+      "v": "9aIxiEAIdQM"
+    },
+    "182771": {
+      "published": "2025-10-09T16:01:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Gentle Noble's Vacation Recommendation | Official Trailer | Crunchyroll",
+      "v": "YeS6JwAdNL8"
+    },
     "182814": {
       "published": "2025-04-09T15:00:23Z",
       "s": "crunchyroll",
@@ -4559,6 +6891,13 @@
       "score": 64,
       "title": "My Hero Academia FINAL SEASON \"More\" | Official Trailer | Crunchyroll",
       "v": "pxbEWUjh6E4"
+    },
+    "183127": {
+      "published": "2025-06-18T16:01:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Let's Go Karaoke! | Official Trailer | Crunchyroll",
+      "v": "sw6kD6f9l8M"
     },
     "183133": {
       "published": "2025-03-25T16:00:48Z",
@@ -4574,12 +6913,26 @@
       "title": "The Beginning After the End | Official Trailer 2 | Crunchyroll",
       "v": "LwCJhJbpg4Q"
     },
+    "183270": {
+      "published": "2025-12-16T17:00:56Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Holy Grail of Eris | Official Trailer | Crunchyroll",
+      "v": "Xl9PRzU1MVw"
+    },
     "183274": {
       "published": "2025-04-02T14:00:53Z",
       "s": "museasia",
       "score": 43,
       "title": "《I'm the Evil Lord of an Intergalactic Empire!》 - Main PV",
       "v": "jwQmpHbAXR4"
+    },
+    "183291": {
+      "published": "2025-08-23T21:00:21Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "Pass the Monster Meat, Milady! | Official Teaser | Crunchyroll",
+      "v": "Og0uX0OvzZk"
     },
     "183385": {
       "published": "2025-08-02T13:01:36Z",
@@ -4588,12 +6941,61 @@
       "title": "This Monster Wants to Eat me | Official Trailer | Crunchyroll",
       "v": "r0ChTLKErk4"
     },
+    "183660": {
+      "published": "2025-12-16T17:01:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kaya-chan Isn't Scary | Official Trailer | Crunchyroll",
+      "v": "un9g38-wbHw"
+    },
+    "183661": {
+      "published": "2025-10-09T16:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter | Official Trailer",
+      "v": "508qV6wZVco"
+    },
+    "183960": {
+      "published": "2025-08-02T13:00:18Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Otherworldly Munchkin: Let's Speedrun the Dungeon with Only 1 HP! | Official Trailer | Crunchyroll",
+      "v": "Clr6kEIs5co"
+    },
+    "183965": {
+      "published": "2025-09-17T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Yano-kun’s Ordinary Days | Official Trailer | Crunchyroll",
+      "v": "2YeM39SNgUY"
+    },
+    "183984": {
+      "published": "2026-01-08T16:00:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Case Book of Arne | Official Trailer | Crunchyroll",
+      "v": "JPCj-sBBglY"
+    },
+    "184034": {
+      "published": "2025-06-18T16:01:42Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "HOTEL INHUMANS | Official Trailer | Crunchyroll",
+      "v": "zfthL1m2GFg"
+    },
     "184237": {
       "published": "2025-05-13T23:00:00Z",
       "s": "netflixanime",
       "score": 54,
       "title": "Sakamoto Days | Part 2 Official Trailer | Netflix Anime",
       "v": "9XqpEWuCsww"
+    },
+    "184279": {
+      "published": "2025-03-19T18:30:18Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Catch Me at the Ballpark! | Official Trailer | Crunchyroll",
+      "v": "N610gSa68mA"
     },
     "184356": {
       "published": "2026-06-03T16:00:19Z",
@@ -4609,6 +7011,27 @@
       "title": "Welcome to Demon School! Iruma-kun Season 4 | Main Trailer | Crunchyroll",
       "v": "6Lo1DUCY9nY"
     },
+    "184574": {
+      "published": "2025-03-25T16:00:42Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dekin no Mogura: The Earthbound Mole | Official Trailer | Crunchyroll",
+      "v": "_NacAO8f3KQ"
+    },
+    "184639": {
+      "published": "2025-03-19T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "Anne Shirley | Official Teaser | Crunchyroll",
+      "v": "-oaZ3DRpjAk"
+    },
+    "184694": {
+      "published": "2024-12-02T18:38:55Z",
+      "s": "crunchyroll",
+      "score": 56,
+      "title": "Solo Leveling -ReAwakening- | ENGLISH DUB | OFFICIAL TRAILER 2 | Only in Theaters December 6",
+      "v": "UdIXUDpeTXU"
+    },
     "184951": {
       "published": "2025-12-27T00:00:52Z",
       "s": "crunchyroll",
@@ -4623,6 +7046,27 @@
       "title": "Initial D - First Stage - SAVE - Available 10.11.11 - Trailer",
       "v": "Gj1B0RgEuFo"
     },
+    "185039": {
+      "published": "2025-08-02T13:01:22Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "The Invisible Man and His Soon-to-Be Wife | Official Teaser | Crunchyroll",
+      "v": "lZK0mMYTx9s"
+    },
+    "185116": {
+      "published": "2025-11-01T16:45:00Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "GNOSIA | OFFICIAL ENGLISH DUB TRAILER",
+      "v": "2go-LpnQNv4"
+    },
+    "185213": {
+      "published": "2024-07-25T20:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Gundam: Requiem for Vengeance | Official Trailer #2 | Netflix",
+      "v": "w9-TRoEa0jk"
+    },
     "185407": {
       "published": "2025-06-18T16:01:11Z",
       "s": "crunchyroll",
@@ -4630,12 +7074,40 @@
       "title": "Takopi’s Original Sin | Official Trailer | Crunchyroll",
       "v": "j7dxZjwIhu0"
     },
+    "185514": {
+      "published": "2026-02-06T15:01:07Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Champignon Witch | Official Trailer | Crunchyroll",
+      "v": "XQe0YXl760M"
+    },
+    "185519": {
+      "published": "2025-06-18T16:00:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "See You Tomorrow at the Food Court | Official Trailer | Crunchyroll",
+      "v": "Dg0mk8YoO_o"
+    },
     "185542": {
       "published": "2026-04-28T21:01:04Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Skeleton Knight in Another World Season 2 | Official Trailer | Crunchyroll",
       "v": "u_TQJHga6k8"
+    },
+    "185544": {
+      "published": "2025-06-18T16:01:37Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Welcome to the Outcast's Restaurant! | Official Trailer | Crunchyroll",
+      "v": "wDgtDL2y9NM"
+    },
+    "185575": {
+      "published": "2025-10-01T16:00:40Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "My Awkward Senpai | Official Trailer | Crunchyroll",
+      "v": "K4aYZ-CWdqc"
     },
     "185660": {
       "published": "2025-05-19T18:45:25Z",
@@ -4651,12 +7123,47 @@
       "title": "My Hero Academia: Vigilantes Aizawa School Days Arc | Official Trailer",
       "v": "WSAbTZuGmW4"
     },
+    "185753": {
+      "published": "2025-12-16T17:01:12Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "MF GHOST Season 3 | Official Trailer | Crunchyroll",
+      "v": "hUcDI5hSBPo"
+    },
     "185756": {
       "published": "2026-09-15T15:59:47Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World S3 | Official Trailer",
       "v": "nqDij0RzWdc"
+    },
+    "185875": {
+      "published": "2026-06-17T16:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Magical Girl Lyrical NANOHA EXCEEDS Gun Blaze Vengeance | Official Trailer | Crunchyroll",
+      "v": "npAfCvmmPHM"
+    },
+    "185880": {
+      "published": "2025-02-12T21:00:35Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "Blue Exorcist -The Blue Night Saga- | OFFICIAL ENGLISH DUB TRAILER",
+      "v": "iDNTDdpwOI0"
+    },
+    "185939": {
+      "published": "2025-04-10T16:00:18Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Food for the Soul | Official Trailer | Crunchyroll",
+      "v": "6W9eUE1WRYA"
+    },
+    "185965": {
+      "published": "2025-03-25T16:01:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Solo Camping for Two | Official Trailer | Crunchyroll",
+      "v": "s7aK_ckCCbU"
     },
     "185993": {
       "published": "2025-12-16T17:00:21Z",
@@ -4672,12 +7179,33 @@
       "title": "Initial D - 2nd Stage - On DVD 2.1.2011 - Anime Trailer",
       "v": "-F3WCRKYYgI"
     },
+    "1860": {
+      "published": "2009-09-24T21:02:41Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Tokyo Majin - Complete Box Set - On DVD 10/13 - Trailer",
+      "v": "e1cOAM0RiEg"
+    },
     "186052": {
       "published": "2025-06-13T06:00:46Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Water Magician | Official Trailer | Crunchyroll",
       "v": "vQWodcG5x-I"
+    },
+    "186161": {
+      "published": "2026-01-06T17:01:27Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "With You, Our Love Will Make It Through | Official Trailer | Crunchyroll",
+      "v": "t8n8gwoxhHw"
+    },
+    "186190": {
+      "published": "2025-10-03T15:00:29Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Alma-chan Wants to Be a Family! | Official Trailer 2 | Crunchyroll",
+      "v": "IdotmzLdt4I"
     },
     "186333": {
       "published": "2025-12-16T17:00:12Z",
@@ -4693,6 +7221,13 @@
       "title": "The Ramparts of Ice | Official Trailer #2 | Netflix",
       "v": "NXhYsJFZ8bE"
     },
+    "186524": {
+      "published": "2025-09-17T16:00:59Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Li'l Miss Vampire Can't Suck Right | Official Trailer | Crunchyroll",
+      "v": "Ua8wzfHl5f8"
+    },
     "186541": {
       "published": "2026-10-06T16:00:19Z",
       "s": "crunchyroll",
@@ -4700,12 +7235,26 @@
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | Official Trailer 3",
       "v": "_2fMg6ByUNg"
     },
+    "186561": {
+      "published": "2025-06-18T16:01:44Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Shy Hero and the Assassin Princesses | Official Trailer | Crunchyroll",
+      "v": "xn1Uc6kTFw4"
+    },
     "186742": {
       "published": "2026-09-30T15:59:54Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "A Certain Dark Item | Official Trailer | Crunchyroll",
       "v": "RGGUpG59iWE"
+    },
+    "186744": {
+      "published": "2026-03-24T16:00:58Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Even a Replica Can Fall in Love | Official Trailer | Crunchyroll",
+      "v": "WsT7OO91jXo"
     },
     "18679": {
       "published": "2014-05-29T03:30:00Z",
@@ -4728,6 +7277,13 @@
       "title": "The Guy She Was Interested In Wasn't a Guy at All | Official Trailer | Crunchyroll",
       "v": "2KPFnP1othM"
     },
+    "186920": {
+      "published": "2025-09-17T16:01:32Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Touring After the Apocalypse | Official Trailer | Crunchyroll",
+      "v": "m3I6k2Jxehg"
+    },
     "187": {
       "published": "2010-04-27T21:03:21Z",
       "s": "crunchyrolldubs",
@@ -4749,12 +7305,33 @@
       "title": "Jack-of-All-Trades, Party of None | Official Trailer | Crunchyroll",
       "v": "dLDimMasKBM"
     },
+    "187267": {
+      "published": "2025-12-21T13:00:01Z",
+      "s": "netflixanime",
+      "score": 64,
+      "title": "BEASTARS Final Season Part 2 | Official Trailer | Netflix",
+      "v": "avWofH8yIvc"
+    },
+    "187387": {
+      "published": "2025-07-26T00:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Onmyo Kaiten Re:Birth Verse | Main Trailer | Crunchyroll",
+      "v": "2hxSNAuHAlY"
+    },
     "187402": {
       "published": "2026-10-01T09:30:21Z",
       "s": "museasia",
       "score": 43,
       "title": "《A Tale of the Secret Saint》 - Main PV",
       "v": "bcYDIGJkPr8"
+    },
+    "187464": {
+      "published": "2025-09-13T11:30:40Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Tojima Wants to Be a Kamen Rider | Official Trailer 2 | Crunchyroll",
+      "v": "i-Y-Fqt8swo"
     },
     "187538": {
       "published": "2026-03-19T16:01:01Z",
@@ -4770,12 +7347,47 @@
       "title": "A Gatherer's Adventure in Isekai | Official Trailer 2 | Crunchyroll",
       "v": "CPQQRpGcU54"
     },
+    "18767": {
+      "published": "2015-04-24T15:44:38Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "BlazBlue: Alter Memory - Coming Soon - Trailer",
+      "v": "sN0fvLvBCMM"
+    },
     "187869": {
       "published": "2026-04-01T16:00:00Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Botan Kamiina Fully Blossoms When Drunk | Official Trailer | Crunchyroll",
       "v": "OvDSB0XhYpQ"
+    },
+    "187901": {
+      "published": "2025-12-16T17:01:42Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Dead Account | Official Trailer | Crunchyroll",
+      "v": "ynnk0CIyu10"
+    },
+    "187921": {
+      "published": "2025-11-11T03:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Record of Ragnarok III | Official Trailer 3 | Netflix",
+      "v": "9LGwzC9UVz8"
+    },
+    "187940": {
+      "published": "2025-09-19T21:01:14Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Inexpressive Kashiwada and Expressive Oota | Official Trailer | Crunchyroll",
+      "v": "zycK0CCZFbU"
+    },
+    "187941": {
+      "published": "2026-01-10T02:30:33Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《Reincarnated as a Dragon Hatchling》 - Main PV",
+      "v": "T4KCEAMKhuQ"
     },
     "187942": {
       "published": "2026-01-08T16:01:37Z",
@@ -4784,6 +7396,13 @@
       "title": "Tune In to the Midnight Heart | Official Trailer | Crunchyroll",
       "v": "wHxKlcFROtk"
     },
+    "187989": {
+      "published": "2026-01-06T17:00:21Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Scum of the Brave | Official Trailer | Crunchyroll",
+      "v": "CMgUAW5InbU"
+    },
     "188139": {
       "published": "2026-06-28T09:00:10Z",
       "s": "crunchyroll",
@@ -4791,12 +7410,26 @@
       "title": "Though I Am an Inept Villainess | Official Trailer 3 | Crunchyroll",
       "v": "05clZiEktxs"
     },
+    "188388": {
+      "published": "2025-10-01T16:01:31Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Digimon Beatbreak | Official Trailer | Crunchyroll",
+      "v": "naNctHU5MQE"
+    },
     "188487": {
       "published": "2025-08-23T21:00:37Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "The Banished Court Magician Aims to Become the Strongest | Official Trailer | Crunchyroll",
       "v": "eC8KnmEfBOY"
+    },
+    "188525": {
+      "published": "2026-06-18T10:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Draw This, Then Die! | Official Trailer | Netflix Anime",
+      "v": "TM03uRzWl4c"
     },
     "189": {
       "published": "2011-09-13T21:14:28Z",
@@ -4812,6 +7445,13 @@
       "title": "Re:ZERO -Starting Life in Another World- Season 4 | Official Trailer 2 | Crunchyroll",
       "v": "jVl4bY81iIs"
     },
+    "189069": {
+      "published": "2026-05-19T14:00:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Milky☆Subway: The Galactic Limited Express – the Movie | Official Trailer | Netflix",
+      "v": "5aYkjZYbWX8"
+    },
     "189117": {
       "published": "2025-06-27T22:30:09Z",
       "s": "crunchyroll",
@@ -4826,12 +7466,26 @@
       "title": "Blue Box Season 2 | Official Trailer | Netflix",
       "v": "n0ugKku1fzc"
     },
+    "189137": {
+      "published": "2025-11-13T00:01:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Anyway I’m Falling in Love with You Season 2 | Official Trailer | Crunchyroll",
+      "v": "jKyubOkw-Bs"
+    },
     "189323": {
       "published": "2026-08-01T14:00:17Z",
       "s": "crunchyroll",
       "score": 34,
       "title": "Shangri-La Frontier Season 3 | Official Teaser | Crunchyroll",
       "v": "OfrzeFDCKH8"
+    },
+    "189565": {
+      "published": "2025-09-16T16:01:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "You Can't Be In a Rom-Com with Your Childhood Friends! | Official Trailer | Crunchyroll",
+      "v": "i1lsZF4DFEM"
     },
     "189987": {
       "published": "2026-03-24T16:01:10Z",
@@ -4875,6 +7529,13 @@
       "title": "Mistress Kanan is Devilishly Easy | Official Trailer | Crunchyroll",
       "v": "y6whkkkv6kU"
     },
+    "190840": {
+      "published": "2025-10-01T16:01:25Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kingdom Season 6 | Official Trailer | Crunchyroll",
+      "v": "o_8rPkAVpQI"
+    },
     "191205": {
       "published": "2025-12-16T17:00:00Z",
       "s": "crunchyroll",
@@ -4889,6 +7550,13 @@
       "title": "Anime “Even the Student Council Has Its Holes!” Main Trailer | Premieres 10.3.26!",
       "v": "VTRVLnzhl90"
     },
+    "192261": {
+      "published": "2025-10-09T19:29:17Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "An Adventurer's Daily Grind at Age 29 | Official Trailer | Crunchyroll",
+      "v": "zz6iNvge0tQ"
+    },
     "192507": {
       "published": "2025-12-16T17:01:20Z",
       "s": "crunchyroll",
@@ -4896,12 +7564,54 @@
       "title": "In the Clear Moonlit Dusk | Official Trailer | Crunchyroll",
       "v": "p3PByW3BErQ"
     },
+    "192800": {
+      "published": "2026-03-30T22:07:12Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! | Official Trailer | Crunchyroll",
+      "v": "UKcNiS2YSXs"
+    },
+    "192808": {
+      "published": "2026-03-24T16:01:18Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess | Official Trailer | Crunchyroll",
+      "v": "r6RkeRy4B4c"
+    },
+    "19365": {
+      "published": "2013-09-28T20:00:00Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Samurai Flamenco Trailer 1",
+      "v": "bu9whmKLojQ"
+    },
+    "193968": {
+      "published": "2025-08-23T21:00:28Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Let's Play | Official Trailer 3 | Crunchyroll",
+      "v": "ZmvyXUE_t_k"
+    },
+    "194028": {
+      "published": "2026-01-08T16:01:17Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Wash It All Away | Official Trailer | Crunchyroll",
+      "v": "hJqfPZkrk6o"
+    },
     "194030": {
       "published": "2026-07-03T21:12:02Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Gacha Girls Corps | Official Trailer | Crunchyroll",
       "v": "HJFvCv3h6ag"
+    },
+    "194219": {
+      "published": "2026-06-03T16:00:34Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "The Ogre's Bride | Official Teaser | Crunchyroll",
+      "v": "mhEVYchaisg"
     },
     "194317": {
       "published": "2026-03-11T08:00:24Z",
@@ -4917,6 +7627,13 @@
       "title": "I Want to End this Love Game | Official Trailer | Crunchyroll",
       "v": "oGJrnyjDbsA"
     },
+    "194742": {
+      "published": "2025-12-16T17:01:26Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Demon King’s Daughter is Too Kind!! | Official Trailer | Crunchyroll",
+      "v": "r1s7ch904z4"
+    },
     "194884": {
       "published": "2026-01-01T00:31:44Z",
       "s": "crunchyroll",
@@ -4924,12 +7641,33 @@
       "title": "Kaguya-sama: Love is War -Stairway to Adulthood- | Official Trailer | Crunchyroll",
       "v": "REyYt1iBV2M"
     },
+    "195240": {
+      "published": "2025-10-06T11:00:00Z",
+      "s": "netflixanime",
+      "score": 44,
+      "title": "Umamusume: Cinderella Gray Cour 2 | Teaser Trailer | Netflix Anime",
+      "v": "OoBj9Wpmeok"
+    },
+    "195268": {
+      "published": "2026-04-04T07:30:00Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《The Most Heretical Last Boss Queen: From Villainess to Savior Season 2》 - Teaser PV",
+      "v": "Mmx90ldfKfw"
+    },
     "195322": {
       "published": "2025-12-09T23:02:02Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "My Hero Academia: Vigilantes Season 2 | Official Trailer | Crunchyroll",
       "v": "i-8-xFFIOoM"
+    },
+    "195333": {
+      "published": "2026-04-01T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Haibara's Teenage New Game+ | Official Trailer | Crunchyroll",
+      "v": "lIiKFTbA-gE"
     },
     "195515": {
       "published": "2025-08-23T21:00:50Z",
@@ -4944,6 +7682,13 @@
       "score": 54,
       "title": "The Apothecary Diaries Season 3 | Official Trailer | Crunchyroll",
       "v": "9aFlpf00KZs"
+    },
+    "195518": {
+      "published": "2025-12-16T17:00:09Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom | Official Trailer | Crunchyroll",
+      "v": "3wNyyhzLqA0"
     },
     "195539": {
       "published": "2026-10-14T19:05:00Z",
@@ -4973,12 +7718,61 @@
       "title": "Black Clover Second Season | Official Trailer 3 | Crunchyroll",
       "v": "9QyiEgv33z4"
     },
+    "196017": {
+      "published": "2026-07-02T23:00:14Z",
+      "s": "aniplexusa",
+      "score": 55,
+      "title": "GROW UP SHOW -Sunflower Circus- | OFFICIAL ENGLISH DUB TRAILER",
+      "v": "mMcbSuZcXDo"
+    },
+    "196029": {
+      "published": "2026-03-24T16:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Kusunoki's Garden of Gods | Official Trailer | Crunchyroll",
+      "v": "3FxoxWjrrVg"
+    },
     "19603": {
       "published": "2015-07-03T00:40:59Z",
       "s": "aniplexusa",
       "score": 45,
       "title": "Fate/stay night [Unlimited Blade Works] English Dub Trailer",
       "v": "gDFWHD9cm-E"
+    },
+    "196144": {
+      "published": "2026-04-01T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "SNOWBALL EARTH | Official Trailer | Crunchyroll",
+      "v": "Sit18JvTFo4"
+    },
+    "196218": {
+      "published": "2026-06-30T16:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Frontier Lord Begins with Zero Subjects | Official Trailer | Crunchyroll",
+      "v": "nuSfm9NlJyo"
+    },
+    "196219": {
+      "published": "2026-06-03T16:00:26Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Oblivious Saint Can't Contain Her Power | Official Trailer | Crunchyroll",
+      "v": "GTjeW4PUpjk"
+    },
+    "196974": {
+      "published": "2026-04-01T16:00:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Classroom of a Black Cat and a Witch | Official Trailer | Crunchyroll",
+      "v": "97lYICAGNmE"
+    },
+    "197178": {
+      "published": "2026-06-30T16:00:03Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "ONE PIECE HEROINES | Official Trailer | Crunchyroll",
+      "v": "DoyZkatwjaM"
     },
     "197619": {
       "published": "2026-09-21T03:00:00Z",
@@ -5001,6 +7795,13 @@
       "title": "The Villager of Level 999 | Official Trailer | Crunchyroll",
       "v": "nKRzpby_5tU"
     },
+    "197731": {
+      "published": "2025-12-16T17:00:24Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Daily Life of a Part-Time Torturer | Official Trailer | Crunchyroll",
+      "v": "EIJOU7qjq6s"
+    },
     "19775": {
       "published": "2021-07-29T15:00:10Z",
       "s": "crunchyrolldubs",
@@ -5015,12 +7816,47 @@
       "title": "Liar Game | Official Trailer | Crunchyroll",
       "v": "EAUcBiCydRc"
     },
+    "197868": {
+      "published": "2026-03-24T16:01:15Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Food Diary of Miss Maid | Official Trailer | Crunchyroll",
+      "v": "lPLmZANPhrM"
+    },
     "198188": {
       "published": "2025-06-18T16:00:49Z",
       "s": "crunchyroll",
       "score": 54,
       "title": "Betrothed to my Sister’s Ex | Official Trailer | Crunchyroll",
       "v": "WjbLhMyN--Y"
+    },
+    "198373": {
+      "published": "2026-01-23T12:00:00Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《Assassination Classroom the Movie: Our Time》 - Main PV",
+      "v": "oNKJKRsU-lM"
+    },
+    "198374": {
+      "published": "2025-12-16T17:01:26Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "A Misanthrope Teaches a Class for Demi-Humans | Official Trailer | Crunchyroll",
+      "v": "rb0okw_1ExM"
+    },
+    "198409": {
+      "published": "2026-06-17T16:00:38Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The World's Strongest Rearguard | Official Trailer | Crunchyroll",
+      "v": "0OrdWr4eryM"
+    },
+    "198709": {
+      "published": "2026-06-03T16:00:08Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Victoria of Many Faces | Official Trailer | Crunchyroll",
+      "v": "2LotdklGqKA"
     },
     "199007": {
       "published": "2026-09-15T15:59:50Z",
@@ -5029,12 +7865,33 @@
       "title": "# I'm Looking For a Zombie | Official Trailer | Crunchyroll",
       "v": "_0kVb8-uRSI"
     },
+    "199029": {
+      "published": "2026-03-24T16:01:02Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Rent-a-Girlfriend Season 5 | Official Trailer | Crunchyroll",
+      "v": "_yVyIweMYto"
+    },
+    "199066": {
+      "published": "2026-04-25T19:00:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Hanaori-san Still Wants to Fight in the Next Life | Official Trailer | Crunchyroll",
+      "v": "UXgbofdm2vQ"
+    },
     "199068": {
       "published": "2026-09-15T15:59:51Z",
       "s": "crunchyroll",
       "score": 64,
       "title": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | Official Trailer",
       "v": "4wqgv8uTbSg"
+    },
+    "199185": {
+      "published": "2026-07-03T20:55:54Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Rising of the Shield Hero Season 5 | Official Trailer | Crunchyroll",
+      "v": "oNIIx1lAfPA"
     },
     "199221": {
       "published": "2026-03-10T22:00:33Z",
@@ -5049,6 +7906,13 @@
       "score": 53,
       "title": "Rascal Does Not Dream of a Dear Friend  |  OFFICIAL TRAILER",
       "v": "sFmnbdPwbrQ"
+    },
+    "199448": {
+      "published": "2026-04-28T02:00:04Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Lord of Mysteries Specials | Official Trailer | Crunchyroll",
+      "v": "2B8-GKoyGMU"
     },
     "199547": {
       "published": "2026-03-05T15:00:00Z",
@@ -5085,6 +7949,13 @@
       "title": "Gurren Lagann Official Trailer",
       "v": "oXkkMhCuCMg"
     },
+    "2002": {
+      "published": "2011-11-08T22:48:56Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Heroic Age: Complete Series - SAVE - Available on Blu-ray and DVD on 12.27.11 - Trailer",
+      "v": "NUMwDrStCrU"
+    },
     "20021": {
       "published": "2013-12-20T09:18:06Z",
       "s": "aniplexusa",
@@ -5112,6 +7983,13 @@
       "score": 33,
       "title": "《The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You》 - Season 3 Teaser PV",
       "v": "dZ-wBaqHIwo"
+    },
+    "201817": {
+      "published": "2026-04-06T01:30:00Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《Always a Catch!》 - Character PV (feat. Raimondo)",
+      "v": "X8hu4fO42Ec"
     },
     "201903": {
       "published": "2026-01-06T12:00:00Z",
@@ -5141,6 +8019,13 @@
       "title": "Love Through a Prism | Official Trailer | Netflix",
       "v": "oLXSfFqTnXg"
     },
+    "203490": {
+      "published": "2026-06-17T16:00:23Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Please Excuse My Younger Brothers | Official Trailer | Crunchyroll",
+      "v": "d1as4Y7etI0"
+    },
     "204011": {
       "published": "2026-07-12T12:15:08Z",
       "s": "crunchyroll",
@@ -5161,6 +8046,20 @@
       "score": 54,
       "title": "A Wild Last Boss Appeared! Season 2 | Official Trailer | Crunchyroll",
       "v": "LyDMSUR6_Q8"
+    },
+    "20442": {
+      "published": "2014-10-21T13:00:05Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "BAYONETTA: Bloody Fate - Available Now - Trailer",
+      "v": "5bIr7RDG978"
+    },
+    "204436": {
+      "published": "2026-07-29T01:00:17Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Gachiakuta Season 2 | Sneak Peek Teaser | Crunchyroll",
+      "v": "zHQzXiMQoRE"
     },
     "204466": {
       "published": "2026-06-17T16:00:05Z",
@@ -5190,6 +8089,13 @@
       "title": "Inari Kon Kon - PV - Official English Subtitles",
       "v": "14loOK59CPM"
     },
+    "20496": {
+      "published": "2014-01-12T06:28:23Z",
+      "s": "aniplexusa",
+      "score": 45,
+      "title": "World Conquest Zvezda Plot English Trailer 2",
+      "v": "4NIXM2WsN0s"
+    },
     "205": {
       "published": "2019-05-21T01:00:02Z",
       "s": "crunchyrolldubs",
@@ -5210,6 +8116,13 @@
       "score": 39,
       "title": "Is The Order a Rabbit? BLOOM | OFFICIAL TRAILER",
       "v": "kRKqzu2RLY8"
+    },
+    "20533": {
+      "published": "2014-01-13T23:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 44,
+      "title": "Buddy Complex - Official PV - English Subtitles",
+      "v": "usxZLL95Dfw"
     },
     "20541": {
       "published": "2014-05-07T11:57:47Z",
@@ -5238,6 +8151,13 @@
       "score": 43,
       "title": "《Firefly Wedding》 - Main PV",
       "v": "j_aUJhR5IZI"
+    },
+    "20591": {
+      "published": "2014-10-14T15:58:57Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "In Search of the Lost Future - Official PV",
+      "v": "J_IjVG1dHcU"
     },
     "20592": {
       "published": "2014-04-04T18:25:21Z",
@@ -5281,6 +8201,13 @@
       "title": "selector infected WIXOSS - Official PV",
       "v": "0iVEI_ii11k"
     },
+    "20628": {
+      "published": "2019-02-27T17:00:10Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Legend of the Galactic Heroes: Die Neue These - Season One | Trailer (Own It 3/26)",
+      "v": "VxL2cg31AJI"
+    },
     "20632": {
       "published": "2015-06-07T03:30:00Z",
       "s": "aniplexusa",
@@ -5301,6 +8228,13 @@
       "score": 45,
       "title": "DURARARA!!x2 English Dub Announcement Trailer",
       "v": "wv-VXxXQE0A"
+    },
+    "206521": {
+      "published": "2026-06-28T00:00:23Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《THE WORLD IS DANCING》 - Main PV",
+      "v": "ePqiWoWmRWY"
     },
     "20661": {
       "published": "2014-05-27T13:04:35Z",
@@ -5329,6 +8263,13 @@
       "score": 54,
       "title": "Dragon Ball Super: Beerus | Official Trailer | Crunchyroll",
       "v": "W9W5CLUGjbU"
+    },
+    "20713": {
+      "published": "2014-07-28T11:49:04Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Persona4 the Golden ANIMATION Trailer",
+      "v": "f-lcgGXCc-4"
     },
     "207141": {
       "published": "2026-06-23T09:00:00Z",
@@ -5364,6 +8305,13 @@
       "score": 34,
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | Official Teaser | Crunchyroll",
       "v": "GyWstaOY6qk"
+    },
+    "20753": {
+      "published": "2014-10-20T19:01:14Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "GARO THE ANIMATION - OFFICIAL PV #2",
+      "v": "ODWCuFTO-yQ"
     },
     "20755": {
       "published": "2014-12-18T21:03:40Z",
@@ -5407,6 +8355,13 @@
       "title": "Dragon Ball Z: Resurrection ‘F’ - Blu-ray, DVD, & Digital HD - Trailer",
       "v": "W16mNYZrd0k"
     },
+    "207809": {
+      "published": "2026-06-30T16:00:33Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Red River | Official Trailer | Crunchyroll",
+      "v": "b0RAe5XGJYE"
+    },
     "20789": {
       "published": "2024-05-31T01:00:00Z",
       "s": "netflixanime",
@@ -5449,6 +8404,13 @@
       "title": "WAGNARIA!! 3 Trailer",
       "v": "mp-uVtk7AQ4"
     },
+    "208225": {
+      "published": "2026-06-17T16:00:20Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration | Official Trailer",
+      "v": "0XaAXbrI38Y"
+    },
     "20829": {
       "published": "2015-11-12T00:00:00Z",
       "s": "crunchyrolldubs",
@@ -5456,12 +8418,26 @@
       "title": "Seraph of the End: Vampire Reign - Broadcast Dub Preview",
       "v": "lc-RvmltrtU"
     },
+    "20831": {
+      "published": "2022-01-19T16:00:01Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Tales of Luminaria the Fateful Crossroad | Official Dub Trailer",
+      "v": "aUwT-5EIHoE"
+    },
     "20832": {
       "published": "2020-04-01T00:00:34Z",
       "s": "crunchyroll",
       "score": 39,
       "title": "Overlord: Mass for the Dead | OFFICIAL TRAILER",
       "v": "y4fpM9JTKKQ"
+    },
+    "208352": {
+      "published": "2026-03-28T04:15:00Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "Dandelion | Official Trailer | Netflix",
+      "v": "IRe_ScY2C3s"
     },
     "20849": {
       "published": "2016-07-12T00:17:44Z",
@@ -5484,6 +8460,13 @@
       "title": "Plastic Memories Trailer 2",
       "v": "Rl6ypQrTzOI"
     },
+    "20877": {
+      "published": "2017-11-21T02:06:19Z",
+      "s": "crunchyroll",
+      "score": 9,
+      "title": "Cute High Earth Defense Club LOVE! LOVE! LOVE! - Official Preview",
+      "v": "wJY9vU3d-4w"
+    },
     "20881": {
       "published": "2015-11-17T19:35:14Z",
       "s": "crunchyrolldubs",
@@ -5497,6 +8480,13 @@
       "score": 32,
       "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist - Official Promo Video",
       "v": "O1q-PrtiXuY"
+    },
+    "20919": {
+      "published": "2017-06-16T15:06:23Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Project Itoh: Genocidal Organ - Theatrical Trailer",
+      "v": "0rRLMzYmosU"
     },
     "20920": {
       "published": "2018-11-29T18:00:07Z",
@@ -5512,6 +8502,13 @@
       "title": "From Far Away | Official Trailer | Crunchyroll",
       "v": "KvAT3meev84"
     },
+    "20947": {
+      "published": "2013-09-18T14:39:49Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Ragnarok: The Complete Box Set - S.A.V.E. - Available Now - Trailer",
+      "v": "D3IiBdowXpk"
+    },
     "209562": {
       "published": "2026-10-01T15:59:46Z",
       "s": "crunchyroll",
@@ -5525,6 +8522,13 @@
       "score": 32,
       "title": "Attack on Titan Season 2 - Official Promo Video #2",
       "v": "N1VIPrRJidg"
+    },
+    "20965": {
+      "published": "2016-04-06T19:06:32Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Project Itoh: The Empire of Corpses - Theatrical Trailer",
+      "v": "e9faXhUmTKw"
     },
     "209661": {
       "published": "2026-10-08T20:29:51Z",
@@ -5540,12 +8544,33 @@
       "title": "The Anthem of the Heart-Beautiful Word Beautiful World- Trailer 4",
       "v": "mnOKdfEwNMQ"
     },
+    "20979": {
+      "published": "2015-04-30T00:45:08Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Gunslinger Stratos Trailer 2",
+      "v": "PtQoekwl07E"
+    },
     "20981": {
       "published": "2016-02-05T17:38:49Z",
       "s": "crunchyrolldubs",
       "score": 44,
       "title": "The Boy and the Beast (English Dub) - Theatrical Trailer",
       "v": "-0NDXOeb-lY"
+    },
+    "209827": {
+      "published": "2026-04-16T23:00:05Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "【OSHI NO KO】Season 4 | Official Trailer | Crunchyrol",
+      "v": "4dBiHSkf4u4"
+    },
+    "209963": {
+      "published": "2026-03-28T03:15:00Z",
+      "s": "crunchyroll",
+      "score": 54,
+      "title": "Sentenced to Be a Hero Season 2 | Official Trailer | Crunchyroll",
+      "v": "uCvzfAy5FGc"
     },
     "20997": {
       "published": "2016-06-04T23:35:02Z",
@@ -5568,12 +8593,40 @@
       "title": "You and I Are Polar Opposites Season 2 | Official Trailer 3 | Crunchyroll",
       "v": "pbeDDMlT0rI"
     },
+    "210032": {
+      "published": "2026-06-03T23:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "BAKI-DOU: The Invincible Samurai Part 2 | Official Trailer | Netflix Anime",
+      "v": "HZmBsIDbGuc"
+    },
+    "21009": {
+      "published": "2015-07-02T18:36:17Z",
+      "s": "crunchyrolldubs",
+      "score": 32,
+      "title": "Seiyu's Life! - Coming this Summer - Official Promo Video",
+      "v": "bd84rZgusxI"
+    },
     "2104": {
       "published": "2013-05-14T15:30:14Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "My Bride is a Mermaid - SAVE - Available Now on DVD - Trailer",
       "v": "ztLjhVTtz2E"
+    },
+    "21045": {
+      "published": "2015-11-12T20:55:52Z",
+      "s": "crunchyrolldubs",
+      "score": 12,
+      "title": "Dance with Devils - Broadcast Dub Preview",
+      "v": "rc8x2BYcPFY"
+    },
+    "21057": {
+      "published": "2015-10-20T20:22:33Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Ghost in the Shell: The New Movie – Theatrical Trailer",
+      "v": "E2QfzF6FrrU"
     },
     "21087": {
       "published": "2024-01-31T18:00:20Z",
@@ -5596,6 +8649,13 @@
       "title": "The Testament of Sister New Devil BURST - Official Trailer",
       "v": "81oZei6MRjc"
     },
+    "21112": {
+      "published": "2015-06-24T19:06:04Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Classroom ★ Crisis Trailer",
+      "v": "hMpCFT7PjRo"
+    },
     "21127": {
       "published": "2019-04-27T18:15:00Z",
       "s": "crunchyrolldubs",
@@ -5610,12 +8670,33 @@
       "title": "Noragami Aragoto Fall Simulcast 2015 PV (JPN)",
       "v": "AojrwQeiM2U"
     },
+    "211308": {
+      "published": "2026-07-30T12:00:01Z",
+      "s": "netflixanime",
+      "score": 54,
+      "title": "THE RIBBON HERO | Final Trailer | Netflix Anime",
+      "v": "Z56klGz1BPk"
+    },
     "21131": {
       "published": "2015-09-22T19:01:16Z",
       "s": "aniplexusa",
       "score": 43,
       "title": "The Asterisk War Trailer 1",
       "v": "oiLnJI7cTbk"
+    },
+    "211495": {
+      "published": "2026-10-08T20:29:51Z",
+      "s": "crunchyroll",
+      "score": 34,
+      "title": "Berserk of Gluttony Season 2 | Official Teaser | Crunchyroll",
+      "v": "eLtR1zqUWws"
+    },
+    "211496": {
+      "published": "2026-04-27T12:40:00Z",
+      "s": "museasia",
+      "score": 43,
+      "title": "《KAGURABACHI》 - Teaser Trailer",
+      "v": "Ww12jEDkTQg"
     },
     "21170": {
       "published": "2016-02-10T22:00:00Z",
@@ -5637,6 +8718,13 @@
       "score": 54,
       "title": "The World's Strongest Witch | Official Trailer | Crunchyroll",
       "v": "0ISyxMMLVg8"
+    },
+    "21189": {
+      "published": "2015-07-02T19:24:39Z",
+      "s": "crunchyrolldubs",
+      "score": 32,
+      "title": "Rampo Kitan: Game of Laplace - Coming this Summer - Official Promo Video",
+      "v": "e721Ss3Hn38"
     },
     "21191": {
       "published": "2017-07-14T20:00:53Z",
@@ -5743,12 +8831,33 @@
       "title": "Bungo Stray Dogs 10th Anniversary | Official Trailer | Crunchyroll",
       "v": "1f6PUs8T61g"
     },
+    "21316": {
+      "published": "2016-03-19T01:01:46Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "Haifuri Streaming Announcement Trailer",
+      "v": "V5tJg0Ktqn0"
+    },
+    "21321": {
+      "published": "2016-05-19T20:53:32Z",
+      "s": "crunchyrolldubs",
+      "score": 12,
+      "title": "Shonen Maid - Broadcast Dub Preview",
+      "v": "3-eNQ44qmow"
+    },
     "21330": {
       "published": "2016-02-09T22:40:02Z",
       "s": "crunchyrolldubs",
       "score": 12,
       "title": "Prince of Stride: Alternative - Broadcast Dub Preview",
       "v": "KIPl0P270qg"
+    },
+    "21334": {
+      "published": "2016-05-18T19:04:55Z",
+      "s": "crunchyrolldubs",
+      "score": 12,
+      "title": "Three Leaves, Three Colors - Broadcast Dub Preview",
+      "v": "yujis5w6Ve0"
     },
     "21335": {
       "published": "2016-12-09T18:01:00Z",
@@ -5813,6 +8922,13 @@
       "title": "Ani-One - 魔法少女伊莉雅3rei!! (Fate Kaleid Liner Prisma Illya 3rei!!) 預告 trailer 2",
       "v": "C6SX6x-mziE"
     },
+    "21380": {
+      "published": "2016-02-16T00:04:39Z",
+      "s": "crunchyrolldubs",
+      "score": 12,
+      "title": "Divine Gate - Broadcast Dub Preview",
+      "v": "PAM72Cf88VI"
+    },
     "213805": {
       "published": "2026-10-01T15:30:00Z",
       "s": "netflixanime",
@@ -5826,6 +8942,13 @@
       "score": 43,
       "title": "Sword Art Online the Movie -Ordinal Scale- BD & DVD Trailer",
       "v": "pp4trkMNer8"
+    },
+    "21417": {
+      "published": "2016-08-17T10:25:14Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "Ani-One - ACTIVE RAID -機動強襲室第八組-2nd PV 預告",
+      "v": "BYrieVyLMag"
     },
     "21421": {
       "published": "2017-10-31T22:27:17Z",
@@ -5855,6 +8978,13 @@
       "title": "My Hero Academia - Broadcast Dub Trailer",
       "v": "LqJQqcDQxBg"
     },
+    "21485": {
+      "published": "2019-05-19T16:15:00Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "One Piece - Adventure of Nebulandia | Trailer (Own it 6/18)",
+      "v": "OHglSOI1Mmw"
+    },
     "21507": {
       "published": "2026-07-14T23:00:35Z",
       "s": "crunchyroll",
@@ -5876,12 +9006,33 @@
       "title": "Your Name. | Trailer (Subtitled)",
       "v": "e4dZhQaTJMk"
     },
+    "21555": {
+      "published": "2019-01-28T15:30:51Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Dies irae - Official Trailer (Own it 3/19)",
+      "v": "o_paV2Bi8GA"
+    },
     "21558": {
       "published": "2016-09-29T15:00:04Z",
       "s": "crunchyrolldubs",
       "score": 42,
       "title": "D.Gray-man HALLOW – SimulDub Trailer",
       "v": "X9kDKVEBC4Q"
+    },
+    "21597": {
+      "published": "2016-10-06T05:23:12Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "Ani-One - MAGIC OF STELLA 斯特拉的魔法 PV 預告",
+      "v": "v395vFpXrQA"
+    },
+    "21611": {
+      "published": "2016-05-18T01:00:00Z",
+      "s": "crunchyrolldubs",
+      "score": 12,
+      "title": "Endride - Broadcast Dub Preview",
+      "v": "qZ-2gMhI08E"
     },
     "21613": {
       "published": "2018-09-14T20:00:03Z",
@@ -5897,6 +9048,13 @@
       "title": "Firefighter Daigo: Rescuer in Orange | OFFICIAL TRAILER 2",
       "v": "_Vwi7uFICoE"
     },
+    "21662": {
+      "published": "2018-12-04T17:02:36Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "The Silver Guardian - Official Trailer",
+      "v": "jsca3IjTkYo"
+    },
     "216624": {
       "published": "2026-10-11T01:29:54Z",
       "s": "crunchyroll",
@@ -5911,6 +9069,13 @@
       "title": "B: The Beginning: Succession | Official Trailer | Netflix Anime",
       "v": "afN1XtfszYU"
     },
+    "21673": {
+      "published": "2019-06-28T18:23:05Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Symphogear XV | OFFICIAL PREVIEW",
+      "v": "w7PSkClunP8"
+    },
     "21684": {
       "published": "2017-06-10T19:23:34Z",
       "s": "aniplexusa",
@@ -5924,6 +9089,13 @@
       "score": 43,
       "title": "Eromanga Sensei Trailer",
       "v": "TzBk9alIqPI"
+    },
+    "21704": {
+      "published": "2016-07-15T03:36:22Z",
+      "s": "anioneasia",
+      "score": 43,
+      "title": "Ani-One - 香蕉喵 (Bananya) trailer",
+      "v": "zumV_wNQ6-g"
     },
     "217070": {
       "published": "2026-10-23T17:00:04Z",
@@ -5967,12 +9139,68 @@
       "title": "Fate/EXTRA Last Encore Complete Blu-ray Box Set Trailer",
       "v": "PdXv5a5YMi4"
     },
+    "21730": {
+      "published": "2019-02-25T17:25:12Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Star Blazers: Space Battleship Yamato 2202 Part One | Official Trailer (Own It 3/26)",
+      "v": "_Xkb-eRwOMw"
+    },
+    "21738": {
+      "published": "2018-12-17T23:15:14Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Hina Logic - From Luck & Logic - Official Trailer - Coming Soon",
+      "v": "hzOvhRUeI1w"
+    },
+    "21742": {
+      "published": "2018-03-30T22:00:00Z",
+      "s": "aniplexusa",
+      "score": 45,
+      "title": "Katsugeki TOUKEN RANBU English Dub Trailer",
+      "v": "3wQSLP0JVRw"
+    },
+    "217434": {
+      "published": "2026-10-16T09:00:13Z",
+      "s": "museasia",
+      "score": 33,
+      "title": "《Mushoku Tensei: Jobless Reincarnation Season 3》 - Part 2 Teaser PV",
+      "v": "UgTb9P0haeg"
+    },
     "21746": {
       "published": "2019-05-25T00:00:00Z",
       "s": "crunchyroll",
       "score": 24,
       "title": "FLCL Progressive/Alternative | OFFICIAL PREVIEW",
       "v": "I7iwZf2M3ic"
+    },
+    "21751": {
+      "published": "2023-10-10T15:00:10Z",
+      "s": "crunchyroll",
+      "score": 39,
+      "title": "B-PROJECT Passion*Love Call | OFFICIAL TRAILER",
+      "v": "Le-NryrXEmM"
+    },
+    "21757": {
+      "published": "2017-05-20T20:25:59Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "The Moment You Fall in Love Trailer",
+      "v": "lA-T5l5LVl4"
+    },
+    "21764": {
+      "published": "2016-09-30T01:01:30Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "WWW.WAGNARIA Trailer",
+      "v": "bYp1SFD6SsQ"
+    },
+    "21772": {
+      "published": "2016-10-06T09:48:31Z",
+      "s": "anioneasia",
+      "score": 33,
+      "title": "Ani-One - LOSTORAGE Incited WIXOSS 失憶煽動WIXOSS PV 預告",
+      "v": "Jefayv7hRMM"
     },
     "21776": {
       "published": "2025-09-24T15:00:52Z",
@@ -6051,6 +9279,20 @@
       "title": "School Rumble - Most Awesomest Collection 12/8 - Trailer",
       "v": "nO1SAODPvT4"
     },
+    "25": {
+      "published": "2008-05-27T16:06:32Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Desert Punk Boxset VC Trailer",
+      "v": "02_rlSb07QU"
+    },
+    "257": {
+      "published": "2011-11-08T19:50:26Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Ikki Tousen - The Complete Series - S.A.V.E. - Available 12.13.11 - Trailer",
+      "v": "64gAEovbH_0"
+    },
     "267": {
       "published": "2026-09-18T18:06:32Z",
       "s": "crunchyroll",
@@ -6065,12 +9307,47 @@
       "title": "BLEACH: Soul Resonance | Official Trailer | Crunchyroll Game Vault",
       "v": "7vRsRdUGqqI"
     },
+    "27": {
+      "published": "2012-04-12T16:18:00Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Trinity Blood: Complete Series - Anime Classics - Available on DVD 8.14.12 - Trailer",
+      "v": "huBcm6Ih7a0"
+    },
     "270": {
       "published": "2012-11-13T15:00:56Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Hellsing - The Complete Series - Available Now on DVD - Trailer",
       "v": "6fKWGqIqylo"
+    },
+    "274": {
+      "published": "2011-03-15T15:38:46Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Kiddy Grade - Box Set - Classic - Available Now - Trailer",
+      "v": "59Ub1DFKfck"
+    },
+    "2795": {
+      "published": "2012-04-11T15:57:37Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Dragonaut - THE RESONANCE - The Complete Series - S.A.V.E. - Available on DVD 6.19.12 - Trailer",
+      "v": "I2IjZqUSuWI"
+    },
+    "288": {
+      "published": "2026-03-11T23:29:14Z",
+      "s": "crunchyroll",
+      "score": 39,
+      "title": "Beyblade X Xone | Official Trailer | Crunchyroll Game Vault",
+      "v": "NpWn3wcNTGA"
+    },
+    "290": {
+      "published": "2018-12-04T19:00:38Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Crest of the Stars - Official Trailer",
+      "v": "Snvx7CMdOe8"
     },
     "2966": {
       "published": "2009-12-23T00:09:45Z",
@@ -6079,12 +9356,40 @@
       "title": "Spice and Wolf - Now Available on DVD - Trailer",
       "v": "FNkbt-oUwVM"
     },
+    "298": {
+      "published": "2015-04-13T20:06:32Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": ".hack//Legend of the Twilight - AVAILABLE NOW - Trailer",
+      "v": "VFjCwjM7574"
+    },
+    "2986": {
+      "published": "2011-08-25T18:49:42Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Bamboo Blade - SAVE - Available on 10.18.11 - Trailer",
+      "v": "1RvGPPFBTec"
+    },
     "2993": {
       "published": "2013-04-23T13:00:36Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Rosario + Vampire: The Complete First Season - Available Now - Trailer",
       "v": "SLsY7kc5goc"
+    },
+    "3231": {
+      "published": "2009-10-21T16:51:25Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Gunslinger Girl Il Teatrino  OVA on DVD 12/1/2009 - Trailer",
+      "v": "PpE4vuebTGM"
+    },
+    "325": {
+      "published": "2011-05-31T15:20:54Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Peach Girl SAVE - Available Now  - Trailer",
+      "v": "mr2X_F-upFE"
     },
     "3342": {
       "published": "2010-01-14T22:41:29Z",
@@ -6099,6 +9404,20 @@
       "score": 27,
       "title": "Serial Experiments Lain - Anime Classics - Available Now - Trailer",
       "v": "tTeuumQ-G0k"
+    },
+    "3407": {
+      "published": "2009-09-24T21:48:39Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Blassreiter - Part 1 on DVD 10/20 - Trailer",
+      "v": "kdGuaRpTIzw"
+    },
+    "343": {
+      "published": "2011-09-22T19:16:56Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Moonphase - SAVE - Available on DVD 10.25.11 - Trailer",
+      "v": "RgezP1tMbFo"
     },
     "3457": {
       "published": "2019-12-16T17:17:28Z",
@@ -6128,12 +9447,26 @@
       "title": "Soul Eater - Coming to DVD 2010 - Trailer",
       "v": "BDD_yzkQZU8"
     },
+    "3655": {
+      "published": "2009-09-21T15:46:57Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Nabari no Ou - Part One - Trailer - On DVD 9/22",
+      "v": "cbLm5PmpyRc"
+    },
     "3667": {
       "published": "2014-02-11T13:00:02Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Strike Witches - Complete Second Series - S.A.V.E. - Available Now - Trailer",
       "v": "EXmZZErSgoA"
+    },
+    "379": {
+      "published": "2011-03-28T15:07:44Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Excel Saga - Complete Series - Available Now  - Trailer",
+      "v": "vwjclKUr3Ho"
     },
     "387": {
       "published": "2012-09-04T14:27:28Z",
@@ -6142,12 +9475,33 @@
       "title": "Haibane Renmei - Anime Classics - Available Now on DVD - Trailer",
       "v": "8fbd3ktBDVI"
     },
+    "390": {
+      "published": "2009-05-28T18:10:55Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Suzuka - Viridian Collection Box Set Trailer",
+      "v": "UqZg8R0CD0g"
+    },
     "392": {
       "published": "2011-10-18T19:21:50Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Yu Yu Hakusho - The Movie and Eizou Hakusho - Available on 12.13.11 - Anime Trailer",
       "v": "1BJR5cJz_ZU"
+    },
+    "396": {
+      "published": "2018-12-05T17:00:39Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Banner of the Stars - Official Trailer",
+      "v": "0StrGBgv7Tg"
+    },
+    "4028": {
+      "published": "2013-04-30T14:59:40Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Slayers - Revolution R - Anime Classics - Available Now on Blu-ray and DVD - Trailer",
+      "v": "BoRJxzIa3UQ"
     },
     "4081": {
       "published": "2021-06-19T00:00:08Z",
@@ -6163,12 +9517,47 @@
       "title": "Michiko & Hatchin - Available Now on BD/DVD Combo - Trailer",
       "v": "SKivsLwCbD0"
     },
+    "4106": {
+      "published": "2011-06-01T22:35:16Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "TRIGUN: BADLANDS RUMBLE - Official Movie Trailer - IN THEATERS SUMMER 2011 -- US & CANADA",
+      "v": "jWBEG0VHCZ8"
+    },
+    "411": {
+      "published": "2010-11-18T21:50:29Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Gun X Sword - Complete Series - On DVD 12.14.2010 - Anime Trailer",
+      "v": "QgzwP31Q3uk"
+    },
     "4155": {
       "published": "2013-11-19T14:30:01Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "One Piece Film: Strong World - Available Now - Trailer",
       "v": "POk_G5XoGsg"
+    },
+    "4186": {
+      "published": "2010-12-10T18:08:59Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Chrome Shelled Regios Part 1 & 2 on DVD 2.08.11 - Anime Trailer",
+      "v": "N2DP1TQdBHY"
+    },
+    "4196": {
+      "published": "2013-12-31T14:30:01Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Ikki Tousen - Great Guardians - Available Now - Trailer",
+      "v": "0fJlfAVv3XY"
+    },
+    "420": {
+      "published": "2022-05-27T01:00:25Z",
+      "s": "netflixanime",
+      "score": 39,
+      "title": "Spriggan | Official Trailer | Netflix Anime",
+      "v": "FIxVzQ6_jZA"
     },
     "4214": {
       "published": "2013-04-23T13:00:36Z",
@@ -6177,12 +9566,33 @@
       "title": "Rosario + Vampire CAPU2: The Complete Second Season - Available Now - Trailer",
       "v": "7tMATsudajk"
     },
+    "4246": {
+      "published": "2014-04-22T13:00:03Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Eureka Seven - Movie - Available Now - Trailer",
+      "v": "yDi_LFBZE4E"
+    },
     "43": {
       "published": "2015-10-20T20:22:33Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Ghost in the Shell: The New Movie – Theatrical Trailer",
       "v": "E2QfzF6FrrU"
+    },
+    "435": {
+      "published": "2026-09-15T16:00:07Z",
+      "s": "crunchyroll",
+      "score": 39,
+      "title": "Magic Knight Rayearth | Official Trailer | Crunchyroll",
+      "v": "HmK-W6VEAdg"
+    },
+    "4415": {
+      "published": "2009-11-20T21:52:16Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Sands of Destruction - Complete Series on DVD 1/26 - Trailer",
+      "v": "PUXmpaPbfDA"
     },
     "45": {
       "published": "2025-01-10T21:00:21Z",
@@ -6197,6 +9607,20 @@
       "score": 28,
       "title": "MUSHI-SHI -Next Passage- Trailer #2",
       "v": "zuX3P6ynAgc"
+    },
+    "4581": {
+      "published": "2010-07-29T00:19:46Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Corpse Princess - Shikabane Hime Parts 1 & 2 on DVD 9/14/10 - Anime Trailer",
+      "v": "Xvr1z07uIYA"
+    },
+    "4618": {
+      "published": "2011-05-04T20:42:57Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "RideBack - Blu-ray+DVD Combo Pack available now  - Anime Trailer",
+      "v": "crcp8v8bPHo"
     },
     "4654": {
       "published": "2014-12-09T00:00:05Z",
@@ -6219,12 +9643,40 @@
       "title": "Ga Rei Zero Complete Series - Available Now - Trailer",
       "v": "NG0Sfkm1D9U"
     },
+    "478": {
+      "published": "2009-04-08T17:22:17Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Aquarion - Complete Series Box Set Trailer",
+      "v": "bbVfgyiDL_Y"
+    },
+    "483": {
+      "published": "2009-02-16T17:44:51Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Kurau Phantom Memory - The Complete Series Trailer",
+      "v": "vl8VMUmJorQ"
+    },
+    "490": {
+      "published": "2009-02-16T18:09:47Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Paniponi Dash Trailer",
+      "v": "onlEbMVWRF0"
+    },
     "4901": {
       "published": "2013-08-06T14:18:08Z",
       "s": "crunchyrolldubs",
       "score": 27,
       "title": "Black Lagoon: Roberta's Blood Trail - Available Now on BD/DVD Combo - Trailer",
       "v": "IjhLOTO96kc"
+    },
+    "497": {
+      "published": "2021-05-19T05:30:24Z",
+      "s": "netflixanime",
+      "score": 39,
+      "title": "Resident Evil: Infinite Darkness | Official Trailer | Netflix Anime",
+      "v": "ri4op4swsac"
     },
     "4975": {
       "published": "2011-09-02T19:57:36Z",
@@ -6261,6 +9713,20 @@
       "title": "Bakemonogatari Blu-Ray Trailer",
       "v": "X63_YYZjKxA"
     },
+    "517": {
+      "published": "2008-05-12T20:57:06Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "School Rumble OVA Extra Class Trailer",
+      "v": "qS54bgCidos"
+    },
+    "5220": {
+      "published": "2014-04-29T13:00:03Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Shangri-La - S.A.V.E. - Available Now - Trailer",
+      "v": "9PFgEWd8OQY"
+    },
     "527": {
       "published": "2023-11-14T21:00:02Z",
       "s": "netflixanime",
@@ -6268,12 +9734,40 @@
       "title": "Pokémon Concierge | Official Trailer | Netflix",
       "v": "jfwLZniY9mE"
     },
+    "53": {
+      "published": "2012-07-24T14:59:15Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Ai Yori Aoshi - Available Now on DVD - Trailer",
+      "v": "Y-Pb9kUMlbo"
+    },
     "530": {
       "published": "2024-07-26T03:00:00Z",
       "s": "netflixanime",
       "score": 39,
       "title": "Pretty Guardian Sailor Moon Cosmos The Movie | Official Trailer | Netflix Anime",
       "v": "e-uzKP75_a4"
+    },
+    "534": {
+      "published": "2010-09-23T21:28:01Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "The Slayers Evolution-R - On Blu-ray 10.19.10 - Anime Trailer",
+      "v": "gduvl8WV6lU"
+    },
+    "5355": {
+      "published": "2010-09-29T15:03:00Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Sengoku Basara: Samurai Heroes - Game on PS3 and Wii 10.12.10 - HD Trailer (720p)",
+      "v": "Q1-Jk-fMpQ4"
+    },
+    "539": {
+      "published": "2011-04-29T15:06:39Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Tenchi Muyo! Ryo Ohki! - Anime Classic - Available Now on DVD - Trailer",
+      "v": "nBjxTa9h2eQ"
     },
     "552": {
       "published": "2020-04-03T17:00:15Z",
@@ -6288,6 +9782,13 @@
       "score": 42,
       "title": "Eden of the East - Complete Series on Blu-ray & DVD 10.19.10 - Anime Trailer",
       "v": "3hiWvHuIGhQ"
+    },
+    "568": {
+      "published": "2011-09-09T19:07:36Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Bubblegum Crisis Tokyo 2040 - Available 11.29.11 - Trailer",
+      "v": "dGxTRcswhXs"
     },
     "5681": {
       "published": "2010-10-13T16:07:10Z",
@@ -6317,6 +9818,13 @@
       "title": "Tenchi Muyo! War on Geminar - Available Now on BD/DVD Combo - Trailer",
       "v": "3kFM2ZSZEmc"
     },
+    "58": {
+      "published": "2011-04-29T18:59:06Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Blue Gender - Anime Classics Available Now on DVD - Trailer",
+      "v": "o3k_2jtkvnU"
+    },
     "59": {
       "published": "2010-12-10T18:52:44Z",
       "s": "crunchyrolldubs",
@@ -6338,12 +9846,26 @@
       "title": "TRIGUN STARGAZE | Official Trailer 2 | Crunchyroll",
       "v": "JBYLkW--zmI"
     },
+    "60": {
+      "published": "2010-12-13T16:21:27Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Chrono Crusade - Complete Series Box Set - On DVD 2.22.2011 - Anime Trailer",
+      "v": "kNuZAQH_Kp0"
+    },
     "6033": {
       "published": "2010-03-31T19:20:11Z",
       "s": "crunchyrolldubs",
       "score": 42,
       "title": "Dragon Ball Z Kai - Season 1 Part 1 - On Blu-ray & DVD now - Anime Trailer",
       "v": "kcmc5uvDgfA"
+    },
+    "6046": {
+      "published": "2012-06-26T13:00:12Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Tales of Vesperia: The First Strike - Available Now on BD/DVD Combo - Trailer",
+      "v": "LidatN48gCA"
     },
     "6166": {
       "published": "2014-04-29T13:00:03Z",
@@ -6359,12 +9881,33 @@
       "title": "A Certain Scientific Railgun - Available Now on DVD - Trailer",
       "v": "rIDa2o3bGlY"
     },
+    "6610": {
+      "published": "2012-09-18T13:30:11Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "King of Thorn - Available Now on BD/DVD Combo - Trailer",
+      "v": "Ltp686wT3Ls"
+    },
+    "6634": {
+      "published": "2011-12-13T16:40:35Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Sengoku Basara: Samurai Kings 2 Complete Series - On BD/DVD Combo 02.07.12 - Trailer",
+      "v": "JP-Xfy0EyuA"
+    },
     "666": {
       "published": "2026-07-03T23:00:01Z",
       "s": "netflixanime",
       "score": 39,
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE | Official Trailer | Netflix Anime",
       "v": "gCzOb1mV2TY"
+    },
+    "67": {
+      "published": "2010-07-06T16:30:18Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Basilisk - Complete Series VC now on DVD - Anime Trailer",
+      "v": "rulgQZXiKnI"
     },
     "6702": {
       "published": "2014-12-09T23:00:09Z",
@@ -6407,6 +9950,27 @@
       "score": 28,
       "title": "WWW.WAGNARIA Trailer",
       "v": "bYp1SFD6SsQ"
+    },
+    "7": {
+      "published": "2018-10-23T21:00:03Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Witch Hunter Robin - Official Trailer",
+      "v": "UN2geM_ZNUg"
+    },
+    "75": {
+      "published": "2012-09-18T13:00:36Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Fafner: The Complete Series - Available Now on BD/DVD Combo - Trailer",
+      "v": "jmh8N90vpP4"
+    },
+    "7580": {
+      "published": "2014-03-11T14:50:23Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Ikki Tousen - Xtreme Xecutor - Available Now - Trailer",
+      "v": "whfyQMC1oqQ"
     },
     "7769": {
       "published": "2012-04-03T20:09:10Z",
@@ -6492,6 +10056,13 @@
       "title": "Heaven's Lost Property - Forte - Anime Classics - Available Now - Trailer",
       "v": "4jhwsI_QDuQ"
     },
+    "8479": {
+      "published": "2011-10-21T14:30:58Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Hetalia: World Series 1 - Available on DVD 01.17.12 - Anime Trailer",
+      "v": "fNI9oz6l-xg"
+    },
     "853": {
       "published": "2012-03-29T20:55:17Z",
       "s": "crunchyrolldubs",
@@ -6505,6 +10076,13 @@
       "score": 27,
       "title": "Air Gear - Complete Series SAVE - Available Now - Trailer",
       "v": "KeYTxiRoE4A"
+    },
+    "860": {
+      "published": "2012-06-05T19:50:30Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Disgaea: Complete Series - SAVE - Available on DVD 8.7.12 - Trailer",
+      "v": "4wV0VKH_u80"
     },
     "861": {
       "published": "2009-05-28T19:08:52Z",
@@ -6534,6 +10112,20 @@
       "title": "Ani-One - 獨佔我的英雄 ひとりじめマイヒーロー (Hitorijime My Hero)  PV 預告",
       "v": "ePrTh5Jb350"
     },
+    "87496": {
+      "published": "2019-01-03T19:00:00Z",
+      "s": "crunchyroll",
+      "score": 9,
+      "title": "Kemono Friends 2 | OFFICIAL PREVIEW",
+      "v": "BjXG6hz8Hs4"
+    },
+    "87504": {
+      "published": "2019-01-30T23:51:17Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Dances with the Dragons - Official Trailer (Own It 4/2)",
+      "v": "63OdYEc9X8A"
+    },
     "8769": {
       "published": "2011-09-05T04:00:00Z",
       "s": "aniplexusa",
@@ -6547,6 +10139,13 @@
       "score": 37,
       "title": "Panty & Stocking with Garterbelt - Available on DVD 7.10.12 - Official Trailer",
       "v": "cXvppV7HccI"
+    },
+    "882": {
+      "published": "2011-10-18T19:21:50Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Yu Yu Hakusho - The Movie and Eizou Hakusho - Available on 12.13.11 - Anime Trailer",
+      "v": "1BJR5cJz_ZU"
     },
     "8841": {
       "published": "2012-12-11T16:10:28Z",
@@ -6583,12 +10182,68 @@
       "title": "Steins;Gate - OFFICIAL ENGLISH DUB CAST - Trailer - Part 1",
       "v": "m4en7ZkhX8c"
     },
+    "9314": {
+      "published": "2012-07-17T12:00:10Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Fractale - The Complete Series - Available Now on BD/DVD Combo - Trailer",
+      "v": "Cf6E2wLUje8"
+    },
+    "9332": {
+      "published": "2012-02-14T16:55:09Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": ".hack//Quantum - Available NOW on Blu-ray/DVD Combo - Trailer",
+      "v": "mmdqv3ehZwQ"
+    },
+    "935": {
+      "published": "2011-09-06T17:27:03Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Witchblade - Classic - Available on BD and DVD 10.25.11 - Trailer",
+      "v": "VBNXnWXIL-0"
+    },
     "9367": {
       "published": "2012-05-30T18:26:00Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "Freezing - Available on BD/DVD Combo 8.28.12 - Official Anime Trailer",
       "v": "kR2l219dH5E"
+    },
+    "937": {
+      "published": "2014-02-25T14:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "Appleseed XIII - Tartaros & Ouranos - Available Now - Trailer",
+      "v": "jRduhmuLROQ"
+    },
+    "9488": {
+      "published": "2019-06-14T18:00:07Z",
+      "s": "aniplexusa",
+      "score": 43,
+      "title": "CENCOROLL CONNECT Trailer",
+      "v": "wU67Tewbruk"
+    },
+    "9539": {
+      "published": "2024-01-12T17:00:17Z",
+      "s": "crunchyroll",
+      "score": 39,
+      "title": "CARDFIGHT!! VANGUARD Divinez | OFFICIAL TRAILER",
+      "v": "MX6pro5goC8"
+    },
+    "966": {
+      "published": "2025-07-23T18:06:02Z",
+      "s": "crunchyroll",
+      "score": 39,
+      "title": "Official Mobile Announcement Trailer | Shin Chan Me and the Professor on Summer Vacation",
+      "v": "JvwVNLIQFuc"
+    },
+    "97": {
+      "published": "2011-06-14T16:04:38Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "Last Exile - Anime Classics - Available Now - OFFICIAL TRAILER",
+      "v": "sG95d8TQomA"
     },
     "9756": {
       "published": "2011-08-15T01:00:00Z",
@@ -6646,6 +10301,13 @@
       "title": "Code Geass: Lelouch of the Re;surrection | Trailer (Dubbed)",
       "v": "2OXG5WyWgkk"
     },
+    "97881": {
+      "published": "2019-02-09T19:25:07Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Cardcaptor Sakura: Clear Card | Official Trailer (Available Now)",
+      "v": "9UmKblAUyrQ"
+    },
     "97938": {
       "published": "2019-10-13T09:00:05Z",
       "s": "crunchyroll",
@@ -6680,6 +10342,13 @@
       "score": 52,
       "title": "New Game! Season Two - Official Trailer",
       "v": "U0iC6Awl47o"
+    },
+    "9834": {
+      "published": "2012-12-11T15:19:48Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Level E - The Complete Series - Available Now - Trailer",
+      "v": "0yPLFOhCOSs"
     },
     "98436": {
       "published": "2018-11-12T18:00:02Z",
@@ -6716,6 +10385,13 @@
       "title": "March comes in like a lion Season 2 English Dub Trailer",
       "v": "lCdiC3Y-Xew"
     },
+    "98497": {
+      "published": "2018-02-18T20:00:01Z",
+      "s": "crunchyrolldubs",
+      "score": 42,
+      "title": "Free! Take Your Marks - Theatrical Trailer",
+      "v": "8TiZ_-Zd98M"
+    },
     "98506": {
       "published": "2018-11-03T23:56:51Z",
       "s": "crunchyrolldubs",
@@ -6723,12 +10399,26 @@
       "title": "KONOHANA KITAN - Official Trailer - Own it 12/11",
       "v": "heC8wxGg6Sk"
     },
+    "98515": {
+      "published": "2020-01-19T21:30:00Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Hatena Illusion | Official Trailer",
+      "v": "YR3d5VcVyCI"
+    },
     "98596": {
       "published": "2018-09-22T02:00:00Z",
       "s": "crunchyrolldubs",
       "score": 52,
       "title": "A Sister's All You Need. - Official Trailer",
       "v": "KMtoFk_uFT0"
+    },
+    "98607": {
+      "published": "2018-11-02T17:00:03Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Anime-Gataris - Official Trailer - Own it 12/11",
+      "v": "MSVUS9OK9_U"
     },
     "98635": {
       "published": "2018-11-14T01:00:05Z",
@@ -6744,12 +10434,33 @@
       "title": "Classroom of the Elite | Official Trailer | Crunchyroll Game Vault",
       "v": "7Kh57Ff2wL0"
     },
+    "98693": {
+      "published": "2018-01-19T18:00:24Z",
+      "s": "aniplexusa",
+      "score": 33,
+      "title": "Slow Start PV 2",
+      "v": "25yXik_1WGs"
+    },
+    "98747": {
+      "published": "2019-02-04T15:30:40Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Katana Maidens ~ Toji no Miko Part One - Official Trailer (Own it 3/26)",
+      "v": "JoPd3a_CQlE"
+    },
     "98977": {
       "published": "2017-11-01T19:00:02Z",
       "s": "aniplexusa",
       "score": 43,
       "title": "Our love has always been 10 centimeters apart Trailer",
       "v": "ZGoG763vXMA"
+    },
+    "99000": {
+      "published": "2019-01-03T19:00:04Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "Meiji Tokyo Renka | OFFICIAL PREVIEW",
+      "v": "F1LDCFKTbqU"
     },
     "99131": {
       "published": "2018-04-05T23:30:01Z",
@@ -6771,6 +10482,13 @@
       "score": 43,
       "title": "Blue Exorcist Trailer #3",
       "v": "ayLq7BKjQZU"
+    },
+    "9922": {
+      "published": "2013-10-08T14:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 27,
+      "title": "We Without Wings - Available Now on BD/DVD Combo - Trailer",
+      "v": "NkJay5w8N74"
     },
     "99263": {
       "published": "2019-03-23T06:30:05Z",
@@ -6807,6 +10525,13 @@
       "title": "TIGER & BUNNY 2 | Main Trailer | Netflix Anime",
       "v": "4_8VWrBZRdc"
     },
+    "99413": {
+      "published": "2018-07-05T15:00:06Z",
+      "s": "crunchyroll",
+      "score": 24,
+      "title": "RErideD – Derrida, who leaps through time | OFFICIAL PREVIEW",
+      "v": "UX1E6zs9Sbs"
+    },
     "99423": {
       "published": "2019-01-31T01:04:38Z",
       "s": "crunchyrolldubs",
@@ -6834,6 +10559,13 @@
       "score": 24,
       "title": "The Ryuo's Work is Never Done! - Official Preview",
       "v": "ZBqg4YH7w8Q"
+    },
+    "99569": {
+      "published": "2019-02-20T21:45:14Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Basilisk: The Ouka Ninja Scrolls Part 1 - Official Trailer (Own It 4/2)",
+      "v": "FjZWha8uFso"
     },
     "99586": {
       "published": "2018-06-29T22:30:02Z",
@@ -6863,6 +10595,13 @@
       "title": "Golden Kamuy Season One | Official Trailer (Own It 4/2)",
       "v": "BsjINlyncRo"
     },
+    "99730": {
+      "published": "2021-07-29T15:00:10Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "Knights of Sidonia: Love Woven in the Stars | Official Trailer",
+      "v": "KgT729d9tCc"
+    },
     "99734": {
       "published": "2018-10-18T15:50:31Z",
       "s": "crunchyrolldubs",
@@ -6877,12 +10616,33 @@
       "title": "I want to eat your pancreas English Dub Trailer #1",
       "v": "HuN15mDKakk"
     },
+    "99796": {
+      "published": "2018-10-08T19:00:02Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "GARO -VANISHING LINE- Part 1 - Official Trailer - Coming Soon to Home Video",
+      "v": "qdCh0nDFs-g"
+    },
+    "99807": {
+      "published": "2019-12-24T22:30:02Z",
+      "s": "crunchyrolldubs",
+      "score": 52,
+      "title": "22/7 (nanabun no nijyuuni) | Official Trailer",
+      "v": "UiCf8SxRFGg"
+    },
     "9989": {
       "published": "2017-08-11T18:06:36Z",
       "s": "aniplexusa",
       "score": 30,
       "title": "anohana - The Flower We Saw That Day - TV Series English Dub Trailer",
       "v": "oDWkt8wcYh8"
+    },
+    "99900": {
+      "published": "2018-10-09T18:30:00Z",
+      "s": "crunchyrolldubs",
+      "score": 37,
+      "title": "URAHARA - Official Trailer - Coming Soon to Home Video",
+      "v": "Rn3qyQCOxVY"
     },
     "99940": {
       "published": "2025-01-07T16:00:16Z",
