@@ -1,0 +1,114 @@
+{
+  "runs": [
+    {
+      "added": 939,
+      "anilist_requests": 45,
+      "anilist_retries": 0,
+      "anilist_seconds": 17.0,
+      "anime_titles": 2152,
+      "changed": true,
+      "channels": {
+        "@AniOneAsia": {
+          "complete": true,
+          "new_videos": 7122
+        },
+        "@AniplexUSA": {
+          "complete": true,
+          "new_videos": 3457
+        },
+        "@Crunchyroll": {
+          "complete": true,
+          "new_videos": 15688
+        },
+        "@CrunchyrollDubs": {
+          "complete": true,
+          "new_videos": 7755
+        },
+        "@MuseAsia": {
+          "complete": true,
+          "new_videos": 12733
+        },
+        "@NetflixAnime": {
+          "complete": true,
+          "new_videos": 3275
+        }
+      },
+      "dropped": 0,
+      "entries": 939,
+      "file_bytes": 44580,
+      "file_gzip_bytes": 13500,
+      "kept": 0,
+      "mode": "full",
+      "pinned": 0,
+      "quota_left_today_est": 8952,
+      "quota_used": 1048,
+      "seconds": 400.1,
+      "started": "2026-10-26T04:06:11+00:00",
+      "trailer_candidates": 939,
+      "uncertain": 186,
+      "upgraded": 0,
+      "verified": 939,
+      "videos_scanned": 50030,
+      "youtube_calls": {
+        "channels": 6,
+        "playlistItems": 1004,
+        "videos": 38
+      }
+    },
+    {
+      "added": 979,
+      "anilist_requests": 45,
+      "anilist_retries": 0,
+      "anilist_seconds": 16.6,
+      "anime_titles": 2152,
+      "changed": true,
+      "channels": {
+        "@AniOneAsia": {
+          "complete": true,
+          "new_videos": 7122
+        },
+        "@AniplexUSA": {
+          "complete": true,
+          "new_videos": 3457
+        },
+        "@Crunchyroll": {
+          "complete": true,
+          "new_videos": 15688
+        },
+        "@CrunchyrollDubs": {
+          "complete": true,
+          "new_videos": 7755
+        },
+        "@MuseAsia": {
+          "complete": true,
+          "new_videos": 12733
+        },
+        "@NetflixAnime": {
+          "complete": true,
+          "new_videos": 3275
+        }
+      },
+      "dropped": 0,
+      "entries": 979,
+      "file_bytes": 46490,
+      "file_gzip_bytes": 14035,
+      "kept": 0,
+      "mode": "full",
+      "pinned": 0,
+      "quota_left_today_est": 8950,
+      "quota_used": 1050,
+      "seconds": 379.0,
+      "started": "2026-10-26T04:13:44+00:00",
+      "trailer_candidates": 979,
+      "uncertain": 64,
+      "upgraded": 0,
+      "verified": 979,
+      "videos_scanned": 50030,
+      "youtube_calls": {
+        "channels": 6,
+        "playlistItems": 1004,
+        "videos": 40
+      }
+    }
+  ]
+}

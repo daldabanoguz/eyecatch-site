@@ -1,0 +1,51 @@
+# Trailers
+
+`trailers.json` (served at https://daldabanoguz.github.io/jikai-site/trailers.json) maps AniList IDs to an
+official, English-friendly YouTube trailer. Jikai's Swipe plays that trailer if there is one, otherwise
+AniList's own trailer, otherwise just the cover.
+
+## How it's made
+
+`update.py` runs every day on GitHub Actions (`.github/workflows/trailers.yml`):
+
+1. Lists the newest uploads of the channels in `channels.json` (YouTube Data API, 1 quota unit per 50 videos; it never uses search, which costs 100).
+2. Loads AniList's 2,000 most popular anime plus this and next season, and matches their titles (English, romaji, synonyms, season numbers) against trailer-looking video titles (Trailer / PV / Teaser, never Episode / Clip / Opening…).
+3. Keeps only public, embeddable videos; about once a week re-checks the chosen ones and drops dead links.
+4. Only adds: a show keeps its trailer unless a clearly better one appears.
+5. Writes `trailers.json`, `state.json` (where each channel was left), `stats.json` (the last 90 runs' numbers) and `report.md` (summary + matches to check).
+
+## Fixing a match
+
+Edit `overrides.json` (on GitHub: open it, ✏️, save). The script reads it every run, never writes it, and it always wins:
+
+```json
+{
+  "pin": { "154587": "tR8YH0G67Rk" },
+  "block_videos": ["VIDEO_ID"],
+  "block_shows": [12345]
+}
+```
+
+`pin` uses that video for that show; `block_videos` never uses a video; `block_shows` makes a show fall back to AniList's trailer. Run the workflow by hand (Actions → Trailers → Run workflow) to apply it straight away.
+
+## Running it locally
+
+```sh
+YOUTUBE_API_KEY=... python3 trailers/update.py          # incremental
+YOUTUBE_API_KEY=... python3 trailers/update.py --full   # whole history of every channel
+python3 trailers/update.py --self-test                  # matching tests, no network
+python3 trailers/update.py --bench                      # timing on the real AniList titles
+```
+
+## Budgets
+
+| | Per day | Limit |
+|---|---|---|
+| YouTube quota | ~20–100 units (full scan ≈ 2,500, capped at 3,000) | 10,000 free |
+| AniList | ~45 requests, ~2 min (paced at ~27/min) | ~30/min |
+| GitHub Actions | ~3 min | unlimited for public repos |
+| trailers.json | ~41 bytes per show (~200 KB for 5,000) | Pages 1 GB, files 100 MB |
+
+`stats.json` records every run: quota used, calls, videos scanned, matches added / upgraded / kept / dropped, file size (raw and compressed) and run time.
+
+The API key lives only in the repository's Actions secret `YOUTUBE_API_KEY` (and, for local runs, an ignored file). It's never committed.

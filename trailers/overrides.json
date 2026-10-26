@@ -1,0 +1,6 @@
+{
+  "_about": "Yours: the script reads this every run but never writes it, and it always wins. pin: AniList ID -> YouTube video ID. block_videos: video IDs never to use. block_shows: AniList IDs that should use AniList's own trailer instead.",
+  "pin": {},
+  "block_videos": [],
+  "block_shows": []
+}
