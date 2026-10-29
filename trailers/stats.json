@@ -375,6 +375,60 @@
         "playlistItems": 6,
         "videos": 1
       }
+    },
+    {
+      "added": 1,
+      "anilist_list": "this and next season",
+      "anilist_requests": 5,
+      "anilist_retries": 0,
+      "anilist_seconds": 0.7,
+      "anime_titles": 169,
+      "changed": true,
+      "channels": {
+        "@AniOneAsia": {
+          "complete": true,
+          "new_videos": 4
+        },
+        "@AniplexUSA": {
+          "complete": true,
+          "new_videos": 0
+        },
+        "@Crunchyroll": {
+          "complete": true,
+          "new_videos": 7
+        },
+        "@CrunchyrollDubs": {
+          "complete": true,
+          "new_videos": 0
+        },
+        "@MuseAsia": {
+          "complete": true,
+          "new_videos": 14
+        },
+        "@NetflixAnime": {
+          "complete": true,
+          "new_videos": 3
+        }
+      },
+      "dropped": 0,
+      "entries": 1517,
+      "file_bytes": 72095,
+      "file_gzip_bytes": 20843,
+      "kept": 0,
+      "mode": "incremental",
+      "pinned": 0,
+      "quota_left_today_est": 9993,
+      "quota_used": 7,
+      "seconds": 14.2,
+      "started": "2026-10-29T11:29:41+00:00",
+      "trailer_candidates": 1,
+      "uncertain": 0,
+      "upgraded": 0,
+      "videos_scanned": 28,
+      "youtube_calls": {
+        "playlistItems": 6,
+        "videos": 1
+      }
     }
   ]
 }

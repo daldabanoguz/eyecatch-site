@@ -1,16 +1,16 @@
 # Trailers report
 
-Last run: 2026-10-28T11:18:54+00:00 (incremental, 16.1 s)
+Last run: 2026-10-29T11:29:41+00:00 (incremental, 14.2 s)
 
 | | |
 |---|---|
-| Trailers in trailers.json | 1516 (pinned 0) |
-| Added / upgraded / kept / dropped | 0 / 0 / 1 / 0 |
-| Videos scanned | 33 |
+| Trailers in trailers.json | 1517 (pinned 0) |
+| Added / upgraded / kept / dropped | 1 / 0 / 0 / 0 |
+| Videos scanned | 28 |
 | Trailer candidates | 1 |
-| AniList titles checked | 169: this and next season (5 requests, 0.8 s) |
+| AniList titles checked | 169: this and next season (5 requests, 0.7 s) |
 | YouTube quota used | 7 of 10000 per day |
-| trailers.json | 70.4 KB (20.3 KB compressed) |
+| trailers.json | 70.4 KB (20.4 KB compressed) |
 
 ## Check these
 
