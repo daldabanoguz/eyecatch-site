@@ -26,7 +26,13 @@ Edit `overrides.json` (on GitHub: open it, ✏️, save). The script reads it ev
 }
 ```
 
-`pin` uses that video for that show; `block_videos` never uses a video; `block_shows` makes a show fall back to AniList's trailer. Run the workflow by hand (Actions → Trailers → Run workflow) to apply it straight away.
+`pin` uses that video for that show; `block_videos` never uses a video; `block_shows` makes a show fall back to AniList's trailer; `no_trailer` (a list of AniList IDs) gives a show no trailer at all, not even AniList's (the app shows the cover).
+
+## Region limits and games
+
+Some uploads only play in a few countries (Crunchyroll Dubs: US, UK, Canada, Australia, Ireland, New Zealand). Those lose to videos that play everywhere, and replace nothing that does; when one is kept anyway, its countries go into `trailers.json` (`"a"`: only these, `"b"`: all but these) and the app skips it in other countries, falling back to AniList's trailer. Game trailers (game, gameplay, launch, mobile, consoles…) are never matched.
+
+A channel in `channels.json` with `"latin_only": true` only counts titles without Japanese or Chinese script (TOHO animation posts both). Run the workflow by hand (Actions → Trailers → Run workflow) to apply it straight away.
 
 ## Running it locally
 

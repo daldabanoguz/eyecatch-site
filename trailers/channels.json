@@ -1,11 +1,42 @@
 {
-  "_about": "Official channels whose uploads are scanned. priority: higher wins when two channels have a trailer for the same show. A handle that can't be found is skipped and noted in report.md.",
+  "_about": "Official channels whose uploads are scanned. priority: higher wins when two channels have a trailer for the same show. A handle that can't be found is skipped and noted in report.md. latin_only: skip titles in Japanese or Chinese script (channels that post both).",
   "channels": [
-    {"handle": "@Crunchyroll", "priority": 4},
-    {"handle": "@NetflixAnime", "priority": 4},
-    {"handle": "@MuseAsia", "priority": 3},
-    {"handle": "@AniOneAsia", "priority": 3},
-    {"handle": "@AniplexUSA", "priority": 3},
-    {"handle": "@CrunchyrollDubs", "priority": 2}
+    {
+      "handle": "@Crunchyroll",
+      "priority": 4
+    },
+    {
+      "handle": "@NetflixAnime",
+      "priority": 4
+    },
+    {
+      "handle": "@MuseAsia",
+      "priority": 3
+    },
+    {
+      "handle": "@AniOneAsia",
+      "priority": 3
+    },
+    {
+      "handle": "@AniplexUSA",
+      "priority": 3
+    },
+    {
+      "handle": "@CrunchyrollDubs",
+      "priority": 2
+    },
+    {
+      "handle": "@gkidstv",
+      "priority": 3
+    },
+    {
+      "handle": "@vizmedia",
+      "priority": 3
+    },
+    {
+      "handle": "@tohoanimation",
+      "priority": 3,
+      "latin_only": true
+    }
   ]
 }

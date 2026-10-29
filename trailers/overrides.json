@@ -1,6 +1,11 @@
 {
-  "_about": "Yours: the script reads this every run but never writes it, and it always wins. pin: AniList ID -> YouTube video ID. block_videos: video IDs never to use. block_shows: AniList IDs that should use AniList's own trailer instead.",
+  "_about": "Yours: the script reads this every run but never writes it, and it always wins. pin: AniList ID -> YouTube video ID. block_videos: video IDs never to use. block_shows: AniList IDs that should use AniList's own trailer instead. no_trailer: AniList IDs that get no trailer at all (the app shows the cover).",
   "pin": {},
-  "block_videos": [],
-  "block_shows": []
+  "block_videos": [
+    "BdXcadyhNGo"
+  ],
+  "block_shows": [],
+  "no_trailer": [
+    21087
+  ]
 }
