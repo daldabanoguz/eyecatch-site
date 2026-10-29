@@ -1,23 +1,23 @@
 # Trailers report
 
-Last run: 2026-10-29T21:03:15+00:00 (full, 558.6 s)
+Last run: 2026-10-29T21:14:14+00:00 (full, 611.4 s)
 
 | | |
 |---|---|
 | Trailers in trailers.json | 1653 (pinned 0) |
-| Added / upgraded / kept / dropped | 137 / 8 / 50 / 0 |
-| Videos scanned | 55123 |
-| Trailer candidates | 1600 |
-| AniList titles checked | 5095: top 5000 + this and next season (105 requests, 37.1 s) |
-| YouTube quota used | 1284 of 10000 per day |
-| trailers.json | 370.5 KB (35.3 KB compressed) |
+| Added / upgraded / kept / dropped | 0 / 27 / 90 / 0 |
+| Videos scanned | 55074 |
+| Trailer candidates | 1598 |
+| AniList titles checked | 5095: top 5000 + this and next season (105 requests, 30.5 s) |
+| YouTube quota used | 1351 of 10000 per day |
+| trailers.json | 378.9 KB (35.4 KB compressed) |
 
 ## Check these
 
 - `nt8d3hw2CK0` “🌋 Volcano Update — Anime Monster Collector (AniMoCo) | Official Roblox Content Update Trailer” matches several shows: 19, 124756 (skipped)
 - `CemNP0vIiJI` “Hana-Kimi | Official Trailer 2 | Crunchyroll” matches several shows: 177580, 209669 (skipped)
 - `9feK5OU8LnM` “Hana-Kimi | Official Trailer | Crunchyroll” matches several shows: 177580, 209669 (skipped)
-- `PJJGISJRNgs` “Sorcerous Stabber Orphen -Chaos in Urbanrama- | OFFICIAL TRAILER” matches several shows: 101367, 1017 (skipped)
+- `PJJGISJRNgs` “Sorcerous Stabber Orphen -Chaos in Urbanrama- | OFFICIAL TRAILER” matches several shows: 1017, 101367 (skipped)
 - `ayi6VfCKBcA` “Your Name. | OFFICIAL TRAILER” matches several shows: 21519, 97962 (skipped)
 - `6PhjSqBIyJ8` “The Ancient Magus' Bride - The Boy from the West and the Knight of Blue Storm | OFFICIAL TRAILER 2” matches several shows: 98436, 21688 (skipped)
 - `c15Q3Qaj0pc` “SD Gundam World SANGOKU SOKETSUDEN | OFFICIAL PREVIEW” matches several shows: 185213, 95 (skipped)
@@ -40,7 +40,6 @@ Last run: 2026-10-29T21:03:15+00:00 (full, 558.6 s)
 - `Tcu3yEWRWas` “Everyday♪ Today's MENU for EMIYA Family Lancer Scenario Pack Trailer” matches several shows: 10165, 8857 (skipped)
 - `wV9kmAGVjYg` “Everyday♪ Today's MENU for EMIYA Family PV” matches several shows: 10165, 8857 (skipped)
 - `PuB1VpKbWtE` “NISEKOI Complete Blu-ray Set Trailer” matches several shows: 18897, 20876 (skipped)
-- `S6p_PjK7naQ` “Kaguya-sama: Love Is War Season 1 Blu-ray Trailer” matches several shows: 101921, 112641 (skipped)
 - `-c__dc_csNo` “MONOGATARI Series Second Season Complete Blu-ray Box Set Trailer” matches several shows: 17074, 20593 (skipped)
 - `IwpJJiQkZzI` “Kaguya-sama: Love Is War Trailer 2” matches several shows: 101921, 112641 (skipped)
 - `mZuswa5elMg` “NISEKOI Blu-ray Announcement Trailer” matches several shows: 18897, 20876 (skipped)
@@ -48,34 +47,34 @@ Last run: 2026-10-29T21:03:15+00:00 (full, 558.6 s)
 - `BbhLLN86ibU` “Arifureta: From Commonplace to World's Strongest Season 2 | Official Trailer” matches several shows: 112323, 143846 (skipped)
 - `HxoR_7jVBCM` “LINK CLICK | Official Trailer” matches several shows: 126403, 170166 (skipped)
 - `rdx08iKtuiE` “Gekidol - Official Anime Trailer” matches several shows: 124131, 21569 (skipped)
-- `GQOzHKuvMs8` “ISEKAI QUARTET | Re:ZERO Teaser” matches several shows: 104454, 21355, 108632, 119661 (skipped)
+- `GQOzHKuvMs8` “ISEKAI QUARTET | Re:ZERO Teaser” matches several shows: 21355, 108632, 119661, 104454 (skipped)
 - `QDlKLJGmBt4` “Re:ZERO -Starting Life in a New World Season One Part Two - Official Trailer - Coming Soon” matches several shows: 21355, 108632, 119661, 99900 (skipped)
 - `MWc8WvFmPi4` “Brave Witches - Official Trailer - Coming Soon” matches several shows: 20454, 99900 (skipped)
 - `e4dZhQaTJMk` “Your Name. | Trailer (Subtitled)” matches several shows: 21519, 97962 (skipped)
 - `o4-URMnBOPU` “Your Name. | Trailer (Dubbed)” matches several shows: 21519, 97962 (skipped)
-- `B-KpsSO2z6A` “Project Itoh: Harmony - Theatrical Trailer” matches several shows: 20965, 20932, 20919 (skipped)
-- `mWVFh1tL-5A` “Project Itoh: Harmony - Teaser Trailer” matches several shows: 20965, 20932, 20919 (skipped)
+- `B-KpsSO2z6A` “Project Itoh: Harmony - Theatrical Trailer” matches several shows: 20932, 20965, 20919 (skipped)
+- `mWVFh1tL-5A` “Project Itoh: Harmony - Teaser Trailer” matches several shows: 20932, 20965, 20919 (skipped)
 - `eimOB2r6kuw` “.hack//SIGN - Coming Soon - Trailer” matches several shows: 48, 99900 (skipped)
 - `SWRSq9VbX_Q` “.hack//Roots - Coming Soon - Trailer” matches several shows: 873, 99900 (skipped)
 - `_bjjyl1ZtkY` “Freezing - Vibration - Coming Soon - Trailer” matches several shows: 18001, 99900 (skipped)
 - `H5flLIzQVDk` “Soul Eater Premium Edition - Coming Soon - Trailer” matches several shows: 3588, 99900 (skipped)
-- `oTJjxWfczJQ` “Tokyo Ravens - Coming Soon - Trailer” matches several shows: 16011, 99900 (skipped)
+- `oTJjxWfczJQ` “Tokyo Ravens - Coming Soon - Trailer” matches several shows: 99900, 16011 (skipped)
 - `Rc5E5_sAfEA` “Assassination Classroom - Coming this Winter - Official Promo Video” matches several shows: 20755, 19759 (skipped)
-- `N5Tlqszf9LQ` “Fairy Tail - Collection 3 - Coming Soon - Trailer” matches several shows: 6702, 99900 (skipped)
-- `RI08P5SaJNU` “Cowboy Bebop HD - Trailer - Complete Series on Blu-ray - Coming Soon” matches several shows: 1, 99900 (skipped)
+- `N5Tlqszf9LQ` “Fairy Tail - Collection 3 - Coming Soon - Trailer” matches several shows: 99900, 6702 (skipped)
+- `RI08P5SaJNU` “Cowboy Bebop HD - Trailer - Complete Series on Blu-ray - Coming Soon” matches several shows: 99900, 1 (skipped)
 - `074Id3AesL4` “Hellsing Ultimate - IX & X - Coming Soon - Trailer” matches several shows: 777, 99900 (skipped)
 - `wO-b_O-n4Q8` “Code:Breaker - Coming Soon - Trailer” matches several shows: 11703, 99900 (skipped)
 - `-6cg0BygsfA` “BEN-TO - Coming Soon - Trailer” matches several shows: 99900, 10396 (skipped)
 - `GCg8g_C6U-0` “Shangri-La - S.A.V.E. - Coming Soon - Trailer” matches several shows: 5220, 99900 (skipped)
-- `UOJ7fXIJ_gQ` “Eureka Seven - Coming Soon to Blu-ray & DVD - Trailer” matches several shows: 99900, 237 (skipped)
+- `UOJ7fXIJ_gQ` “Eureka Seven - Coming Soon to Blu-ray & DVD - Trailer” matches several shows: 237, 99900 (skipped)
 - `tzaJ-3zgjQQ` “Fruits Basket - Anime Classics - Available Now - Trailer” matches several shows: 105334, 120 (skipped)
-- `Dmpj1JSHtEQ` “Strike Witches - Season Two - S.A.V.E. - Coming Soon - Trailer” matches several shows: 3667, 99900 (skipped)
-- `F6mx7hspjDs` “Strike Witches - Season One - S.A.V.E. - Coming Soon - Trailer” matches several shows: 3667, 99900 (skipped)
+- `Dmpj1JSHtEQ` “Strike Witches - Season Two - S.A.V.E. - Coming Soon - Trailer” matches several shows: 99900, 3667 (skipped)
+- `F6mx7hspjDs` “Strike Witches - Season One - S.A.V.E. - Coming Soon - Trailer” matches several shows: 99900, 3667 (skipped)
 - `1-yzd03Pu6M` “Fruits Basket - Anime Classics - Coming Soon - Trailer” matches several shows: 105334, 120, 99900 (skipped)
 - `YmEeXKYlCf4` “Chrono Crusade - S.A.V.E. - Coming Soon to DVD - Trailer” matches several shows: 60, 99900 (skipped)
-- `R2bctayijJs` “Fairy Tail the Movie: Phoenix Priestess - Coming Soon - Trailer” matches several shows: 6702, 99900 (skipped)
-- `_ZAMf3A1IKo` “Maken-Ki! - Coming Soon to BD/DVD Combo - Trailer” matches several shows: 9936, 99900 (skipped)
-- `LSxTcaDBPbs` “Cowboy Bebop - Coming Soon - Trailer” matches several shows: 1, 99900 (skipped)
+- `R2bctayijJs` “Fairy Tail the Movie: Phoenix Priestess - Coming Soon - Trailer” matches several shows: 99900, 6702 (skipped)
+- `_ZAMf3A1IKo` “Maken-Ki! - Coming Soon to BD/DVD Combo - Trailer” matches several shows: 99900, 9936 (skipped)
+- `LSxTcaDBPbs` “Cowboy Bebop - Coming Soon - Trailer” matches several shows: 99900, 1 (skipped)
 - `sQmWrRZKS60` “Michiko & Hatchin - Coming Soon to BD/DVD Combo - Trailer” matches several shows: 4087, 99900 (skipped)
 - `Jqv15SEgils` “Fruits Basket - Collector's Edition - Available Now on DVD - Anime Trailer” matches several shows: 105334, 120 (skipped)
 - `sKpqU-AxB1o` “Fruits Basket - Virdian Collection Box Set Trailer” matches several shows: 105334, 120 (skipped)
@@ -92,7 +91,7 @@ Last run: 2026-10-29T21:03:15+00:00 (full, 558.6 s)
 - `HTmgXGt0Xkc` “OFFICIAL TRAILER BERSERK The Golden Age Arc 2 The Battle For Doldrey Blu-ray&DVD - In Stores 8/6/13” matches several shows: 33, 21560 (skipped)
 - `LaImk00A1Is` “Berserk Golden Age Arc 2 - The Battle for Doldrey - OFFICIAL ENGLISH TEASER - On BD and DVD 8/6/13” matches several shows: 33, 21560 (skipped)
 - `Ou8Ja2F4B-Q` “Berserk Golden Age Arc 2 - The Battle for Doldrey - OFFICIAL ENGLISH TRAILER - On BD and DVD 8/6/13” matches several shows: 33, 21560 (skipped)
-- `8lnna2-Kc7E` “Official Fate/Zero Dub Trailer - Coming Soon to Neon Alley” matches several shows: 10087, 99900 (skipped)
+- `8lnna2-Kc7E` “Official Fate/Zero Dub Trailer - Coming Soon to Neon Alley” matches several shows: 99900, 10087 (skipped)
 - `zUkfTcyuYvg` “NISEKOI: OFFICIAL TRAILER (15 sec) by SHONEN JUMP Alpha” matches several shows: 18897, 20876 (skipped)
 - `rzV8LdUrhM0` “NISEKOI: OFFICIAL TRAILER (30 sec) by SHONEN JUMP Alpha” matches several shows: 18897, 20876 (skipped)
 - `Rzs4yqH6yl0` “BERSERK The Golden Age Arc 1 - The Egg of the King DVD/BR TRAILER” matches several shows: 33, 21560 (skipped)
@@ -100,6 +99,5 @@ Last run: 2026-10-29T21:03:15+00:00 (full, 558.6 s)
 - `FnbwFiZf9vg` “BERSERK Movie 1st English Dub Trailer  (Berserk Golden Age Trilogy Part 1 - Egg Of The King)” matches several shows: 10218, 12115, 12113 (skipped)
 - `2EC4aAmgukE` “Dorohedoro Season2 | Official Trailer” matches several shows: 105228, 155158 (skipped)
 - `NGCTf8ZEZGg` “Dorohedoro Season2 | Official Trailer” matches several shows: 105228, 155158 (skipped)
-- 112153 “Teaser | Pokémon Journeys: The Series - The Journey Starts Today! | VIZ” (`Ijqi3xkFzhU`, score 8) is weak: check it
 
 Pin or block in `trailers/overrides.json`; this script never edits it.
