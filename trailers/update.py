@@ -17,7 +17,8 @@ Rules:
 - overrides.json is never written by this script and always wins (pin / block).
 - Only public, embeddable videos are used; about once a week the chosen ones are re-checked and dead
   ones dropped (pinned ones are only reported).
-- Videos that only play in some countries lose to ones that play everywhere; when a restricted one is
+- Videos that only play in some countries lose to ones that play everywhere (the best few per show
+  are checked; "only 6 countries" costs far more than "blocked in one"); when a restricted one is
   kept, its countries go into trailers.json ("a": allowed, "b": blocked) so the app can skip it where
   it won't play.
 - Game trailers are skipped (game, gameplay, launch, mobile, consoles...).
@@ -69,7 +70,7 @@ SKIP_WORDS = {"episode", "ep", "clip", "clips", "opening", "ending", "op", "ed",
               # game trailers ("One Punch Man: World - Official Launch Trailer - PLAY NOW!")
               "game", "games", "gameplay", "launch", "mobile", "playable", "ps4", "ps5", "xbox", "steam",
               "dlc", "gacha", "pre", "register", "registration"}
-RESTRICTED_PENALTY = 8          # a video that doesn't play everywhere scores this much lower
+CANDIDATES_PER_SHOW = 5        # the best few videos per show are checked, so a playable one can win
 CJK = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uff66-\uff9f]")
 GENERIC = {"the", "animation", "anime", "movie", "film", "tv", "series", "ova", "ona", "special", "specials",
            "season", "part", "new", "a", "an", "of", "no", "to", "and", "official", "trailer", "x", "2", "3"}
@@ -233,9 +234,19 @@ def video_status(ids, key):
     return result
 
 
+def region_penalty(restriction):
+    """How much not playing everywhere costs: only a few countries is bad, a few blocked ones isn't."""
+    if not restriction:
+        return 0
+    if "a" in restriction:
+        return 14 if len(restriction["a"]) < 40 else 6
+    blocked = len(restriction.get("b", []))
+    return 14 if blocked > 100 else 6 if blocked > 20 else 2
+
+
 def effective(match):
     """A match's score with the penalty for not playing everywhere."""
-    return match.get("score", 0) - (RESTRICTED_PENALTY if match.get("r") else 0)
+    return match.get("score", 0) - region_penalty(match.get("r"))
 
 
 # ---------------------------------------------------------------- AniList
@@ -450,22 +461,28 @@ def run(full=False):
             continue
         for show_id, _ in hits:
             score = video_score(video, video["priority"], shows_by_id[show_id])
-            best = candidates.get(show_id)
-            if not best or score > best["score"]:
-                candidates[show_id] = {**video, "score": score}
+            candidates.setdefault(show_id, []).append({**video, "score": score})
+    # The best few per show: their countries are only known after the check below
+    for show_id in candidates:
+        candidates[show_id] = sorted(candidates[show_id], key=lambda c: -c["score"])[:CANDIDATES_PER_SHOW]
     stats["trailer_candidates"] = len(candidates)
     stats["anime_titles"] = len(shows)
 
     # 3. Only public, embeddable videos; ones that play everywhere first
-    playable = video_status([c["id"] for c in candidates.values()], key) if candidates else {}
+    ids = sorted({c["id"] for options in candidates.values() for c in options})
+    playable = video_status(ids, key) if ids else {}
     no_trailer = {str(s) for s in overrides.get("no_trailer", [])}
 
-    for show_id, video in candidates.items():
+    for show_id, options in candidates.items():
         sid = str(show_id)
-        status = playable.get(video["id"]) or {}
-        if sid in blocked_shows or sid in no_trailer or not status.get("ok"):
+        if sid in blocked_shows or sid in no_trailer:
             continue
-        new = {"score": video["score"], "r": status.get("r")}
+        usable = [{**c, "r": (playable.get(c["id"]) or {}).get("r")} for c in options
+                  if (playable.get(c["id"]) or {}).get("ok")]
+        if not usable:
+            continue
+        video = max(usable, key=effective)  # playing everywhere counts as much as the title
+        new = {"score": video["score"], "r": video["r"]}
         old = matches.get(sid)
         if old and old["v"] == video["id"]:
             old["r"] = new["r"]
@@ -484,7 +501,7 @@ def run(full=False):
 
     # 4. About once a week, drop chosen videos that went private, were deleted or stopped embedding
     last = state.get("verified_at")
-    if matches and (not last or today - datetime.fromisoformat(last) > timedelta(days=VERIFY_EVERY_DAYS)):
+    if matches and (full or not last or today - datetime.fromisoformat(last) > timedelta(days=VERIFY_EVERY_DAYS)):
         alive = video_status([m["v"] for m in matches.values()], key)
         for sid, m in list(matches.items()):
             status = alive.get(m["v"]) or {}
@@ -614,6 +631,8 @@ def self_test():
         (bool(CJK.search("「葬送のフリーレン」第2期 PV")), True),
         (bool(CJK.search("Frieren: Beyond Journey's End | Official Trailer")), False),
         (effective({"score": 40, "r": {"a": ["US"]}}) < effective({"score": 40, "r": None}), True),
+        (effective({"score": 40, "r": {"b": ["JP"]}}) > effective({"score": 40, "r": {"a": ["US", "GB"]}}), True),
+        (region_penalty({"b": ["JP"]}) < region_penalty({"b": [str(n) for n in range(150)]}), True),
     ]
     failed = [(got, want) for got, want in checks
               if (sorted(got) != sorted(want) if isinstance(got, list) else got != want)]
